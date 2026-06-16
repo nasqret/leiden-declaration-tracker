@@ -126,6 +126,18 @@ mathematics (proof, verification, attribution, peer review, human oversight).
   **alongside** one major industry figure (Meta's chief AI scientist) quietly
   signing under his NYU affiliation. Total mentions unchanged (171).
 
+## 2026-06-16 — Added de Volkskrant + Trouw (flagged by Rodrigo Ochigame)
+
+- Co-author Rodrigo Ochigame flagged two missed **leading Dutch dailies**:
+  **de Volkskrant** ("Prominente wiskundigen waarschuwen voor gevaren van AI:
+  'OpenAI is totaal niet open…'") and **Trouw** ("Wiskundigen waarschuwen voor
+  AI in hun vak: wat is nog onze rol?"). Both added (`likely`; paywalled/blocked
+  fetch, slugs + Dutch search snippets corroborate). Total **171 → 173**.
+- Notable: these were missed **despite** a Dutch-press lens in the original
+  sweep — confirming recall gaps occur *within* covered languages, not just for
+  un-enumerated ones. The catalogue remains an explicit lower bound ("probably
+  even more out there").
+
 ### Notes for next time
 - Re-run the research workflow periodically (signatory count and coverage keep
   growing); add new rows to `data/mentions.json` and run `python3

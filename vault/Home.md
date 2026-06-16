@@ -6,7 +6,7 @@ tags: [moc, home]
 
 Knowledge base tracking **every traced mention** of the [[Leiden Declaration on AI and Mathematics]] across the internet — newspapers, magazines, blogs, institutional announcements and social media.
 
-- **Total verified mentions:** 171
+- **Total verified mentions:** 173
 - **Declaration published:** 2026-06-02
 - **Knowledge base generated:** 2026-06-16
 
@@ -45,7 +45,7 @@ Reach was broad and genuinely global rather than niche. Tier-one validation came
 
 ## Mentions by category
 
-### 📰 Newspapers & wire services (59)
+### 📰 Newspapers & wire services (61)
 
 - [[TGRT Haber — Hükümetlere yapay zekâ uyarısı- Bildiri yayınladılar]]
 - [[Neue Zürcher Zeitung (NZZ) — KI knackt ein 80 Jahre altes Mathe-Rätsel – ein Wen]] — _2026_
@@ -57,7 +57,9 @@ Reach was broad and genuinely global rather than niche. Tier-one validation came
 - [[RTS (Radio Télévision Suisse) — La résolution d'un vieux problème par l'IA pouss]] — _2026-06_
 - [[Rappler — Mathematicians call for AI regulation, warn of research integrity cris]] — _2026-06_
 - [[TechRider.ro — Inteligența artificială va schimba radical modul în care facem ma]] — _2026-06 · George Radu_
+- [[Trouw — Wiskundigen waarschuwen voor AI in hun vak- wat is nog onze rol-]] — _2026-06_
 - [[Yahoo News Japan Expert (Yahoo!ニュース エキスパート) — 数学者らが過度なAI利用に警鐘「ライデン宣言」――あらゆる分野で必要]] — _2026-06 · 佐藤仁 (Sato Jin)_
+- [[de Volkskrant — Prominente wiskundigen waarschuwen voor gevaren van AI- 'OpenAI]] — _2026-06_
 - [[myRepublica (Nagarik Network, Nepal; NYT partner) — Mathematicians say 'don't be]] — _2026-06 · AFP/RSS (Agence France-Presse wire, republished via RSS)_
 - [[Ars Technica — Mathematicians warn of AI threats to profession as industry encro]] — _2026-06-02_
 - [[Geo News (geo.tv, Pakistan) — Mathematicians say 'don't believe hype' on AI capa]] — _2026-06-02 · AFP (Agence France-Presse)_
@@ -252,7 +254,7 @@ Reach was broad and genuinely global rather than niche. Tier-one validation came
 ## Mentions by country (44 countries)
 
 - [[United States (country)\|United States]] — 40
-- [[Netherlands (country)\|Netherlands]] — 13
+- [[Netherlands (country)\|Netherlands]] — 15
 - [[Japan (country)\|Japan]] — 12
 - [[China (country)\|China]] — 9
 - [[France (country)\|France]] — 9
