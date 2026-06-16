@@ -94,7 +94,7 @@ KEY_PEOPLE = {
     "Robbert Dijkgraaf": "Mathematical physicist; former Dutch Minister of Education, Culture and Science; notable signatory.",
     "Kevin Buzzard": "Imperial College London; leader of formalization (Lean) efforts; notable signatory.",
     "Jeremy Avigad": "Carnegie Mellon University; logic and formal verification; notable signatory.",
-    "Yann LeCun": "NYU professor and Meta's chief AI scientist; a prominent (and frequently LLM-skeptical) AI-industry figure who signed the declaration — listed under NYU — without any public comment about his endorsement.",
+    "Yann LeCun": "NYU professor and Meta's chief AI scientist; signatory of the declaration (listed under New York University).",
 }
 
 
@@ -148,8 +148,6 @@ def render_mention_note(idx, m):
     ]
     if m.get("key_quote"):
         body += ["## Key quote", "", f"> {m['key_quote']}", ""]
-    if m.get("influence"):
-        body += ["## Significance", "", m["influence"], ""]
     if m.get("notes"):
         body += ["## Notes", "", m["notes"], ""]
     body += [
@@ -180,25 +178,13 @@ def render_home(data, mentions):
         f"[[Leiden Declaration on AI and Mathematics]] across the internet — "
         f"newspapers, magazines, blogs, institutional announcements and social media.",
         "",
-        f"- **Total verified mentions:** {len(mentions)}",
+        f"- **Total mentions catalogued:** {len(mentions)}",
         f"- **Declaration published:** {subj.get('published','2026-06-02')}",
         f"- **Knowledge base generated:** {data.get('generated','')}",
         "",
-        "## Executive summary",
-        "",
-        synth.get("executive_summary", "_Pending._"),
+        "_A factual catalogue of public mentions. This list is a lower bound, not exhaustive._",
         "",
     ]
-    if synth.get("reach_assessment"):
-        lines += ["## Reach", "", synth["reach_assessment"], ""]
-    if synth.get("coverage_themes"):
-        lines += ["## Recurring themes", ""]
-        lines += [f"- {t}" for t in synth["coverage_themes"]]
-        lines += [""]
-    if synth.get("notable_voices"):
-        lines += ["## Notable voices", ""]
-        lines += [f"- {v}" for v in synth["notable_voices"]]
-        lines += [""]
 
     lines += ["## Mentions by category", ""]
     for t in TYPE_ORDER:
@@ -225,11 +211,6 @@ def render_home(data, mentions):
         lines += [""]
 
     lines += [
-        "## Analysis",
-        "",
-        "- [[AI-industry response and reception]] — the industry's silence, how commentators framed it, "
-        "the Yann-LeCun-signature correction, and the most-quoted line",
-        "",
         "## Indexes",
         "",
         "- [[_All mentions]] — master table",
@@ -369,51 +350,6 @@ def render_people(data, mentions):
         write(VAULT / "People" / f"{nm}.md", "\n".join(lines))
 
 
-def render_analysis(data):
-    a = data.get("analysis", {}) or {}
-    lines = [
-        "---",
-        "tags: [analysis, reception]",
-        "---",
-        "",
-        "# AI-industry response & reception",
-        "",
-        "Analytical notes on how the [[Leiden Declaration on AI and Mathematics]] was received — "
-        "beyond the raw catalogue of mentions. See [[Home]] for the full coverage map.",
-        "",
-        "## The AI industry's silence",
-        "",
-        a.get("industry_response", ""),
-        "",
-        "> With 170+ mentions across 44 countries, the most conspicuous non-response is from the "
-        "AI labs whose work prompted the declaration.",
-        "",
-        "## How commentators framed it",
-        "",
-        "- **Critical / strategic reading:** [[The Synthesis (Substack)]] — *\"The Leiden Declaration "
-        "is a job application, not a protest letter\"* — argues mathematicians are repositioning as the "
-        "verifiers/credentialers of AI-generated proofs rather than resisting AI.",
-        "- **Supportive / template reading:** [[How Math Saves the World (Substack)]] frames it as a "
-        "reusable governance template for any field facing transformative technology.",
-        "- **Insider aim:** co-author Michael Harris ([[Silicon Reckoner (Michael Harris, Substack)]]) — "
-        "to *\"recover control of the narrative about the values and the goals of mathematics from the "
-        "A.I. industry.\"*",
-        "- **Attribution critique in the mainstream press:** [[Le Figaro (FigaroVox)]] (Aurélie Jean) — "
-        "*OpenAI relies on the work of many mathematicians it doesn't credit.*",
-        "- **Dismissive take:** [[Dr. Jason Polak (Substack)]] — *\"The Leiden Declaration on AI is pathetic.\"*",
-        "",
-        "## Yann LeCun did sign (corrected)",
-        "",
-        a.get("lecun_note", ""),
-        "",
-        "## Most-quoted line",
-        "",
-        a.get("most_quoted", ""),
-        "",
-    ]
-    write(VAULT / "Analysis" / "AI-industry response and reception.md", "\n".join(lines))
-
-
 def render_table(mentions):
     lines = [
         "---",
@@ -448,7 +384,6 @@ def render_table(mentions):
 
 def render_landing(data, mentions):
     subj = data.get("subject", {})
-    synth = data.get("synthesis", {}) or {}
     payload = json.dumps(mentions, ensure_ascii=False)
     types = sorted({m.get("outlet_type", "other") for m in mentions})
     langs = sorted({m.get("language", "English") or "English" for m in mentions})
@@ -457,20 +392,6 @@ def render_landing(data, mentions):
     type_options = "".join(f'<option value="{esc(t)}">{esc(t)}</option>' for t in types)
     lang_options = "".join(f'<option value="{esc(l)}">{esc(l)}</option>' for l in langs)
     country_options = "".join(f'<option value="{esc(c)}">{esc(c)}</option>' for c in countries)
-    themes = "".join(f"<li>{esc(t)}</li>" for t in synth.get("coverage_themes", []))
-    voices = "".join(f"<li>{esc(v)}</li>" for v in synth.get("notable_voices", []))
-    a = data.get("analysis", {}) or {}
-    reception_panel = ("""
-  <div class="panel">
-    <h2>Reception &amp; analysis</h2>
-    <p><b>The AI industry's silence.</b> %s</p>
-    <p><b>Most-quoted line.</b> %s</p>
-    <p><b>How commentators framed it.</b> A critical reading called it
-      <a href="https://thesynthesisai.substack.com/p/the-leiden-declaration" target="_blank" rel="noopener">“a job application, not a protest letter”</a>;
-      others framed it as a <a href="https://howmathsavestheworld.substack.com/p/when-ai-came-for-math-the-mathematicians" target="_blank" rel="noopener">reusable governance template</a>,
-      while co-author Michael Harris described the aim as “recovering control of the narrative&nbsp;… from the A.I. industry.”</p>
-    <p style="color:var(--muted)"><b>Yann LeCun.</b> %s</p>
-  </div>""" % (esc(a.get("industry_response", "")), esc(a.get("most_quoted", "")), esc(a.get("lecun_note", "")))) if a else ""
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -549,15 +470,11 @@ def render_landing(data, mentions):
 </header>
 <main>
   <div class="panel">
-    <h2>Executive summary</h2>
-    <p>{esc(synth.get('executive_summary',''))}</p>
-    <p style="color:var(--muted)">{esc(synth.get('reach_assessment',''))}</p>
-    <div class="cols">
-      <div><h2>Recurring themes</h2><ul>{themes}</ul></div>
-      <div><h2>Notable voices</h2><ul>{voices}</ul></div>
-    </div>
+    <h2>About this tracker</h2>
+    <p>A factual catalogue of public mentions of the {esc(subj.get('title',''))} across the internet — news outlets, institutions, blogs, newsletters, forums, social media, videos, podcasts and academic sources. Each entry was located via web search and checked to confirm it references this declaration. Use the search box and filters below, or the map, to explore.</p>
+    <p style="color:var(--muted)">{len(mentions)} mentions · {len(types)} channel types · {len(langs)} languages · {len(countries)} countries. This list is a lower bound, not exhaustive.</p>
   </div>
-{reception_panel}
+
   <div id="mapwrap">
     <h2>🗺️ Where the coverage came from</h2>
     <div class="maptip">Each dot is a mention placed at its outlet's approximate location (jittered so overlapping sources stay visible). Hover for the outlet, click for the article. The filters below also drive the map.</div>
@@ -692,7 +609,6 @@ def main():
     render_outlets(mentions)
     render_countries(mentions)
     render_people(data, mentions)
-    render_analysis(data)
     write(LANDING / "index.html", render_landing(data, mentions))
 
     n_countries = len({m.get("country") for m in mentions if m.get("country")})

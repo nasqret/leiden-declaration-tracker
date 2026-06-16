@@ -27,10 +27,6 @@ Leiden University's news page announces the Leiden Declaration on Artificial Int
 
 > Het doel van wiskundig onderzoek is menselijk begrip van wiskunde (Peter Scholze, Max Planck Institute)
 
-## Significance
-
-High-credibility institutional source: this is the official news page of Leiden University, the host institution of the originating Lorentz Center workshop, giving it strong provenance value. It names notable signatory Peter Scholze (Fields Medalist) and ties two Leiden faculty (Rodrigo Ochigame, David Holmes) to authorship, but as a host-university press release rather than independent journalism.
-
 ## Notes
 
 Confirmed to reference THIS 2026 AI-and-mathematics Leiden Declaration (not the 2015 Leiden Manifesto on research metrics). Matches expected markers: 2026 date, Lorentz/Leiden September 2025 workshop, IMU endorsement, AI-vs-core-values theme, Peter Scholze as signatory. The article lists 16 authors and does not mention Terence Tao by name, but this does not affect verification.

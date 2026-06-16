@@ -27,10 +27,6 @@ Reports on the 2026 Leiden Declaration on Artificial Intelligence and Mathematic
 
 > The tech industry proceeds in accordance with commercial logic, which is antithetical to the values of mathematics.
 
-## Significance
-
-Major, globally influential newspaper of record. Authored by Siobhan Roberts, the NYT's veteran mathematics/science journalist (biographer of John Conway and Donald Coxeter), giving the coverage high visibility and credibility. The piece quotes declaration co-authors Michael Harris (Columbia) and Rodrigo Ochigame (Leiden).
-
 ## Notes
 
 The NYT page itself could not be fetched directly (site blocks automated fetch/paywall), so confidence is 'likely' rather than 'confirmed'. Relevance to THIS 2026 declaration is strongly corroborated: the Wikipedia article on the Leiden Declaration on Artificial Intelligence and Mathematics cites this exact NYT article (title, author Siobhan Roberts, date June 2 2026) as a reference, and multiple mirror/blog reproductions confirm it discusses the declaration, naming co-authors Michael Harris and Rodrigo Ochigame and Jim Portegies (Eindhoven). This is NOT the 2015 Leiden Manifesto for research metrics; false-positive guard passed.

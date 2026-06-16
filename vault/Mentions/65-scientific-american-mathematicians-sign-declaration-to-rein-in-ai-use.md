@@ -27,10 +27,6 @@ Reports on the release of the Leiden Declaration on Artificial Intelligence and 
 
 > "Mathematicians who never intended to contribute to AI development are having their work used for this purpose without their consent" — Rodrigo Ochigame, anthropologist of AI at Leiden University
 
-## Significance
-
-Major mainstream science magazine (Scientific American, one of the most widely read general-science outlets). Author Leila Sloman is a specialist mathematics journalist with a Stanford math PhD who writes for Quanta Magazine and the American Mathematical Society, lending domain credibility; published the same day as the declaration (2 June 2026), indicating prominent, timely coverage.
-
 ## Notes
 
 WebFetch confirmed the page explicitly names the "Leiden Declaration on Artificial Intelligence and Mathematics" (2026) and ties it to Leiden University researchers — not the 2015 Leiden Manifesto for research metrics or any other "Leiden" item, so false-positive guard passes. Article shows subscription prompts but full text was accessible.

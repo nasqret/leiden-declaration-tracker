@@ -27,10 +27,6 @@ A Hacker News submission linking directly to leidendeclaration.ai, sparking a di
 
 > The declaration warns that AI systems "draw extensively on the published mathematical commons," potentially undermining proper credit.
 
-## Significance
-
-Hacker News is a major, high-traffic technology forum widely read by software engineers, researchers, and tech-industry figures; a front-page-level thread (143 points, 83 comments) indicates significant reach and engagement. The submitter (zvr) is a community user rather than a notable mathematician, but the discussion itself surfaces and amplifies the declaration to a broad technical audience.
-
 ## Notes
 
 Confirmed as referencing THIS 2026 declaration, not the 2015 Leiden Manifesto for research metrics. Note there is a second related HN thread at id=48369053 ("Leiden Declaration: AI is challenging the core values of mathematics"); the candidate URL (id=48380670) is the distinct submission that links directly to leidendeclaration.ai. Title is the HN submission headline (the page title). Submitter username confirmed as "zvr"; exact date derived from "13 days ago" relative to today (2026-06-16), approximately 2026-06-03.

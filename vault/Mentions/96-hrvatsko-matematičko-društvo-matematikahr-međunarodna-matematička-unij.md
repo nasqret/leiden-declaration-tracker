@@ -27,10 +27,6 @@ The Croatian Mathematical Society reports that the International Mathematical Un
 
 > The IMU described the declaration as a "timely, serious and balanced contribution" encouraging transparent community action aligned with disciplinary values.
 
-## Significance
-
-Hrvatsko matematičko društvo is Croatia's national professional mathematics organization, so this is an official institutional endorsement/relay carrying weight within the Croatian mathematical community, though it is a niche national society rather than a major general-interest outlet. No individually notable bylined author (attributed to the society, HMD).
-
 ## Notes
 
 Confirmed via direct WebFetch of the page and corroborating WebSearch snippets. Clearly references THIS 2026 AI-and-mathematics declaration (leidendeclaration.ai), IMU endorsement, and the Sept 2025 Leiden/Lorentz Center origin — not the 2015 Leiden Manifesto for research metrics. The article does not contain the specific "don't believe the hype" hook, but the substantive theme matches.

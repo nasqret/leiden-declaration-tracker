@@ -27,10 +27,6 @@ Italian-language article on MaddMaths! discussing the 2026 Leiden Declaration on
 
 > Il merito e la responsabilità continuano ad appartenere agli esseri umani all'interno della comunità matematica e non dovrebbero mai essere attribuiti ai sistemi automatizzati.
 
-## Significance
-
-MaddMaths! is the main Italian mathematics outreach platform, run under SIMAI (Italian Society of Applied and Industrial Mathematics) and edited by figures like Roberto Natalini, giving it significant reach in the Italian mathematics community. The author, Massimo Martone, is a regular MaddMaths! contributor (known for the "Radice di Pop" column) rather than a globally notable mathematician or AI researcher.
-
 ## Notes
 
 Relevance confirmed via WebFetch: the page explicitly references the 2026 Leiden Declaration on AI and Mathematics with signatories such as Terence Tao, not the 2015 Leiden Manifesto for research metrics. False-positive guard satisfied.

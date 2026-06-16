@@ -27,10 +27,6 @@ The article reports on the Leiden Declaration on Artificial Intelligence and Mat
 
 > AI zdaleka není bezchybná. Dokonce umí vyprodukovat velmi přesvědčivě vypadající matematické texty, které jsou ale zcela chybné.
 
-## Significance
-
-Major Czech outlet: ČT24 is the news service of Česká televize, the Czech public broadcaster, and is described as one of the most trusted news websites in the Czech Republic. The piece features a notable Czech signatory, mathematician Vítězslav Kala of Charles University, giving the declaration national reach and a local-interest angle.
-
 ## Notes
 
 Confirmed via WebFetch of the live page and corroborating WebSearch snippet. Clearly references THIS 2026 Leiden Declaration on AI and Mathematics (Leiden University, themes of proof/verification/attribution/human oversight), not the 2015 Leiden Manifesto for research metrics. Date inferred as 2026-06-15: WebFetch reported the page timestamp as "Yesterday at 11:28" relative to the current date of 2026-06-16. One minor extraction caveat: WebFetch named "Rodrigo Ochigame and David Holmes" in connection with the declaration's creation; this differs from the known working-group lead (Jim Portegies) and may be a model summarization artifact, but it does not affect identification of the declaration.

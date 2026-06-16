@@ -27,10 +27,6 @@ Thai-language news report (sourced from Reuters, datelined Paris, June 3) on the
 
 > นักคณิตศาสตร์เตือน "อย่าหลงเชื่อโฆษณาเกินจริง" เกี่ยวกับความสามารถของเอไอ (Mathematicians warn: "Don't believe the exaggerated hype" about AI capabilities)
 
-## Significance
-
-Dailynews is one of Thailand's largest mass-circulation daily newspapers with a major online presence, giving the declaration broad reach to a Thai general audience. The piece is a Reuters wire pickup and quotes IMU Vice President Ulrike Tillmann.
-
 ## Notes
 
 Confirmed via WebFetch of the live page and corroborated by WebSearch snippets. References THIS 2026 declaration (Leiden Declaration on AI and Mathematics, IMU-endorsed, "don't believe the hype" theme) — not the 2015 Leiden Manifesto. Author/byline not specified; appears to be an unbylined Reuters-sourced translation.

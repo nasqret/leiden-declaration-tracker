@@ -27,10 +27,6 @@ German-language coverage (an AFP wire story republished by Epoch Times Deutsch) 
 
 > In einer am Dienstag, 2. Juni, nach einer Konferenz in der niederländischen Universitätsstadt Leiden veröffentlichten Erklärung hieß es, KI-Entwickler hätten "einen starken kommerziellen Anreiz", die Fähigkeiten ihrer Produkte zu übertreiben.
 
-## Significance
-
-Epoch Times Deutsch is a sizable general-interest news outlet with broad German-language reach. The piece appears to be an AFP wire story, giving it wide syndication potential. The author is the AFP news agency rather than a named mathematician; the only quoted expert is Michael Harris (Columbia University), a notable mathematician and AI-and-mathematics commentator.
-
 ## Notes
 
 Direct WebFetch returned HTTP 403 (likely anti-bot/consent wall), so details were corroborated via WebSearch snippets of the page itself. The article unambiguously references THIS 2026 Leiden Declaration (published 2 June 2026, Leiden/Lorentz conference origin, AI-and-mathematics theme, Michael Harris quote), not the 2015 Leiden Manifesto for research metrics; false-positive guard passes. Exact day-level publication date could not be confirmed but is around 2-3 June 2026; author confirmed as AFP.

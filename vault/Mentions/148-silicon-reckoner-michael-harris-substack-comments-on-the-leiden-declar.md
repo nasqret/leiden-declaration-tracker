@@ -27,10 +27,6 @@ The post on Michael Harris's "Silicon Reckoner" Substack announces the June 2, 2
 
 > I certainly don't think the word 'transformative' is at all appropriate.
 
-## Significance
-
-High insider relevance: Michael Harris is a prominent number theorist (Columbia University) and author of the long-running Silicon Reckoner newsletter on the mechanization of mathematics. He is one of the ~16 working-group authors of the Leiden Declaration and co-organized the September 2025 Lorentz Center workshop where it originated, so this is effectively a primary-source/insider channel rather than third-party press coverage. Harris is widely quoted in Science and other coverage ("recover control of the narrative about the values and goals of mathematics from the A.I. industry").
-
 ## Notes
 
 Passes the false-positive guard: explicitly the 2026 AI-and-mathematics declaration (proof, verification, peer review, Lorentz Center origin, IMU endorsement), NOT the 2015 Leiden Manifesto for research metrics. URL is the comments view of the announcement post; both the post and its comment thread were fetched and confirm the subject. Corroborated by the Wikipedia article on the declaration and Science.org coverage, which name Harris as an author.

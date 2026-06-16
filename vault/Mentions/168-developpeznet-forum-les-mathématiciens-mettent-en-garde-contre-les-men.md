@@ -27,10 +27,6 @@ This French-language forum thread (mirroring a Developpez.com news article) repo
 
 > Les mathématiciens devraient trouver assez frappant que les entreprises technologiques s'intéressent soudainement à leur travail (Kevin Buzzard, Imperial College London)
 
-## Significance
-
-Developpez.com is one of the largest French-language developer/IT communities, giving the item meaningful francophone reach. The author, Patrick Ruiz, is a regular news chronicler ("Chroniqueur Actualités") for the site, not a notable mathematician or AI researcher. The thread is a community-discussion reposting of the site's news article on the same topic.
-
 ## Notes
 
 Correctly references THIS 2026 Leiden Declaration on AI and mathematics (Lorentz/Leiden workshop, IMU endorsement, Buzzard quote). No confusion with the 2015 Leiden Manifesto for research metrics. A near-identical full article exists at intelligence-artificielle.developpez.com/actu/383851/. Date 2026-06-04 is the first-post date.

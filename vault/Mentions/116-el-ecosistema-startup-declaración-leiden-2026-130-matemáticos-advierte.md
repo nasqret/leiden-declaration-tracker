@@ -27,10 +27,6 @@ Spanish-language article reporting on the Leiden Declaration on AI and Mathemati
 
 > La IA está erosionando el rigor, la transparencia y la autoría humana en la investigación matemática.
 
-## Significance
-
-Minor-to-mid niche outlet. El Ecosistema Startup is a Spanish startup-tracking platform and news blog focused on the Spanish tech/startup ecosystem (3,000+ mapped companies); it is not a major general-interest publication. Author is the unattributed in-house editorial team ("Equipo Ecosistema Startup"), not a notable mathematician or AI figure. Value here is reach into a Spanish-speaking startup/tech audience rather than authority or expert endorsement.
-
 ## Notes
 
 Confirmed as referencing THIS 2026 Leiden Declaration on AI and Mathematics, not the 2015 Leiden Manifesto for research metrics: page cites the IMU endorsement, the 2 June 2026 publication date, Lean/Coq formal verification, peer-review and authorship concerns, and Peter Scholze (Fields Medal 2018). The headline's "130 matemáticos" figure undercounts the declaration's 2,500+ total signatories (130 likely refers to a subset of named/prominent signatories). Tao and Scholze are not both named individually; only Scholze is mentioned. Page fetched directly and fully readable (not paywalled).

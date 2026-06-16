@@ -27,10 +27,6 @@ Italian-language tech news article reporting on the Leiden Declaration on AI and
 
 > Una scoperta non diventa vera perche appare in un comunicato stampa, ma perche resiste all'esame rigoroso della comunita.
 
-## Significance
-
-Mid-tier coverage. IlSoftware.it is a long-running, fairly well-trafficked Italian consumer technology news site. The author, Michele Nasi, is the site's founder/editor and a veteran tech journalist, not a mathematician or AI researcher. The article cites IMU vice-president Ulrike Tillmann but does not mention the high-profile signatories (Tao, Scholze) or the working group lead (Portegies). Useful as evidence of Italian-language reach to a general tech audience rather than as authoritative academic commentary.
-
 ## Notes
 
 Confirmed via WebFetch of the live page. Explicitly references the "Leiden Declaration on AI and Mathematics" (2026) and mentions Leiden and the International Mathematical Union (vice-president Ulrike Tillmann). Clearly the correct 2026 AI-and-mathematics declaration, not the 2015 Leiden Manifesto for research metrics. The headline cites "over 150 mathematicians," likely reflecting an early signatory count at time of writing rather than the later 2,500+ total. Lorentz Center, Jim Portegies, Tao and Scholze were not named in the article body per the fetch.

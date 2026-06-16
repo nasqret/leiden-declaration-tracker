@@ -27,10 +27,6 @@ A tech-news article covering the 2026 Leiden Declaration on AI and Mathematics, 
 
 > Inaccurate AI-generated drafts are cheap to produce, and there is a risk of cluttering the literature with claimed results that are simply wrong.
 
-## Significance
-
-WinBuzzer is a mid-tier independent tech-news blog (founded 2015), not a major mainstream outlet. The author, Markus Kasanmascheff, is WinBuzzer's founder and managing editor and a long-time tech journalist (15+ years), but not a mathematician or notable AI researcher. Moderate reach within the tech-news niche; reflects broad coverage spread of the declaration into general tech media.
-
 ## Notes
 
 Confirmed via WebFetch to reference THIS 2026 Leiden Declaration on AI and mathematics (IMU endorsement; signatories Terence Tao, Kevin Buzzard cited; Lorentz Center origin). Explicitly NOT the 2015 Leiden Manifesto for research metrics, so false-positive guard passes. Page reported ~1,854 signatories at time of writing (Jun 7), consistent with a snapshot before reaching the 2,500+ total. Quote attributed in-article to Leslie Ann Goldberg.

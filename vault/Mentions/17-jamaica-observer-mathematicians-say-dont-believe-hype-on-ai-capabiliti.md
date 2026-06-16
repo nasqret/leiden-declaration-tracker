@@ -27,10 +27,6 @@ An AFP wire report on the 2026 Leiden Declaration, describing how mathematicians
 
 > There is a competition to the death on the part of the main labs... they are using mathematics... to attract investment so that each of them will be left standing. — Michael Harris, Columbia University, declaration co-author
 
-## Significance
-
-Distributed by AFP, a major international wire service, so the same piece was syndicated widely (Phys.org, Geo.tv, Manila Times, Canadian Affairs), amplifying reach well beyond the Jamaica Observer itself. The Jamaica Observer is a major national daily in Jamaica. The article quotes declaration co-author Michael Harris (Columbia University mathematician) and references Terence Tao, lending it notable-source credibility.
-
 ## Notes
 
 Confirmed reference to THIS 2026 Leiden Declaration on AI and mathematics (Leiden University / Lorentz Center origin, IMU-endorsed, signatories including Terence Tao). Not the 2015 Leiden Manifesto for research metrics. This is a syndicated AFP article; the page reports 150+ signatories (the AFP framing) rather than the later 2,500+ total. Verified by direct WebFetch of the URL plus corroborating search snippets identifying AFP as the source.

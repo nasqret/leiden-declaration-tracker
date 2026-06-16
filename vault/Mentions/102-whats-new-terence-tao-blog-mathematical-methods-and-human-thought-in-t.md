@@ -27,10 +27,6 @@ Terence Tao's blog post announces his arXiv preprint (with Tanya Klowden) "Mathe
 
 > One example of this is a forthcoming "Leiden declaration" of values regarding the use of AI and formalization in mathematics, developed during a recent workshop in Leiden, as discussed in this article of Commelin et al.
 
-## Significance
-
-Very high influence. Terence Tao is a Fields Medalist and one of the most prominent living mathematicians; his blog "What's new" is among the most-read mathematics blogs worldwide. His personal endorsement and contextualization of the Leiden Declaration lends it significant visibility within the global mathematics community. Tao is also listed among the declaration's signatories.
-
 ## Notes
 
 The Leiden Declaration is referenced in Tao's own comment reply (April 2, 2026) rather than the main post body; he notes he was not directly involved in the discussions. Confirmed via direct WebFetch of the live WordPress page. False-positive guard applied: this is unambiguously the 2026 AI-and-mathematics declaration from the Leiden workshop (linked to Commelin et al., arXiv:2603.24914), NOT the 2015 Leiden Manifesto for research metrics. The main paper is also on arXiv at https://arxiv.org/abs/2603.26524.

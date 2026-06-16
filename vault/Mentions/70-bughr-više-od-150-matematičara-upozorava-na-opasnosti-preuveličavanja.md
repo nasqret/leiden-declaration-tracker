@@ -27,10 +27,6 @@ Croatian tech outlet Bug.hr reports that mathematicians worldwide signed the "Le
 
 > AI models can produce "convincing, but entirely inaccurate arguments which are difficult to distinguish from correct proofs."
 
-## Significance
-
-Bug.hr is Croatia's largest and best-known technology magazine/news site, giving the declaration mainstream tech-press coverage in the Croatian-language market. Article cites IMU VP Ulrike Tillmann as a notable signatory.
-
 ## Notes
 
 Page fetched directly without paywall/block. Clearly references THIS 2026 declaration (leidendeclaration.ai, "don't believe marketing exaggeration" hook, AI contaminating math literature, IMU endorsement) - not the 2015 Leiden Manifesto on research metrics. False-positive guard passed. Article does not name Jim Portegies or Terence Tao.

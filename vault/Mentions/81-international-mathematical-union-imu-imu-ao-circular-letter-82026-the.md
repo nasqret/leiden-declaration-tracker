@@ -27,10 +27,6 @@ An official IMU Administrative/Adhering Organizations Circular Letter, addressed
 
 > With its publication, I can now announce that the IMU endorses the Leiden Declaration on Artificial Intelligence and Mathematics.
 
-## Significance
-
-Very high institutional significance: this is the primary-source endorsement document from the International Mathematical Union, the global governing body of mathematics, signed by its Secretary General Christoph Sorger. It is the official record establishing the IMU's endorsement cited throughout coverage of the declaration, and references the IMU Committee on Publishing chaired by Ilka Agricola.
-
 ## Notes
 
 Confirmed via WebFetch plus manual decompression of the PDF's deflate streams, which yielded the full letter text including the endorsement sentence and signatory. The document hyperlinks to leidendeclaration.ai and Zenodo DOI 10.5281/zenodo.20302944, confirming it is THIS 2026 AI-and-mathematics declaration and not the 2015 Leiden Manifesto for research metrics. PDF metadata creator listed as Sylwia Markwardt (IMU office staff); substantive author/signatory is Christoph Sorger.

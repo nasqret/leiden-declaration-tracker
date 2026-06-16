@@ -27,10 +27,6 @@ A LinkedIn post (part of Benjamin Han's "synesis" AI feed) announcing the new Le
 
 > Mathematicians have a new community declaration asking themselves, their organizations and funders, governments, and the AI industry to set rules around AI in math research.
 
-## Significance
-
-Minor reach: a personal LinkedIn post rather than a major outlet. The author, Benjamin Han, is an AI practitioner (agentic AI, knowledge graphs, LLMs) who curates an AI commentary feed branded "synesis," giving the mention some credibility within AI/tech circles, but he is not a notable mathematician or a major media figure.
-
 ## Notes
 
 Confirmed via WebFetch of the post and a corroborating WebSearch. The page references THIS 2026 Leiden Declaration on Artificial Intelligence and Mathematics (IMU endorsement, AI-in-math research rules) and does NOT mention the 2015 Leiden Manifesto for research metrics, so the false-positive guard is satisfied. Exact day of posting not exposed (page shows "1 week ago," consistent with the 2 June 2026 publication); month set to 2026-06.

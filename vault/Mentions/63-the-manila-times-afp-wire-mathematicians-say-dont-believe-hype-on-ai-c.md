@@ -27,10 +27,6 @@ AFP wire story, republished by The Manila Times, reporting on the 2026 Leiden De
 
 > The declaration notes "there is currently a strong commercial incentive on the part of the technology industry to overstate the capabilities of their products."
 
-## Significance
-
-High reach: AFP is a major global newswire, so this single story propagated to many outlets worldwide (phys.org, Geo.tv, Jamaica Observer, myRepublica, Canadian Affairs, etc.). The Manila Times is a leading English-language daily in the Philippines. The piece quotes co-author Michael Harris (Columbia University mathematician), giving it added authority, though the byline itself is the AFP wire desk rather than a named notable individual.
-
 ## Notes
 
 Confirmed via WebFetch of the Manila Times page and corroborated by WebSearch showing identical AFP copy across multiple outlets. The article references THIS 2026 Leiden Declaration on AI and Mathematics (proof, verification, peer review, attribution, human oversight; commercial-hype warning) — not the 2015 Leiden Manifesto for research metrics. False-positive guard satisfied. The Manila Times URL dates the republication 2026-06-04; the underlying declaration/embargo was 2 June 2026.

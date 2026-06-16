@@ -27,10 +27,6 @@ A FigaroVox op-ed by French computational scientist Aurélie Jean arguing that O
 
 > OpenAI s'appuie sur le travail de nombreux mathématiciens qu'elle ne mentionne pas
 
-## Significance
-
-Captures the attribution/crediting critique that is a core theme of the Leiden Declaration ("inadequate attribution of related ideas"). Authored by a prominent French science-tech public intellectual in France's leading conservative daily, extending the declaration's debate into mainstream French opinion media and tying it concretely to OpenAI's uncredited use of mathematicians' prior work in the Erdős-conjecture episode.
-
 ## Notes
 
 Could not read the article body directly: Le Figaro returns a fetch block/paywall, and Wayback Machine and archive.today are also unreachable from the available tools; the specific FigaroVox URL is not indexed by the US-locale search engine. Verification rests on (1) the authentic Le Figaro/FigaroVox dated URL slug (20260611), (2) confirmed author identity (Aurélie Jean, recurring FigaroVox AI columnist), and (3) the title's exact alignment with the Leiden Declaration's attribution theme and the contemporaneous OpenAI Erdős-proof crediting controversy. Explicit in-body mention of the phrase "Leiden Declaration" could not be confirmed, hence confidence is 'likely' rather than 'confirmed'. False-positive guard cleared: this is the 2026 AI-and-mathematics declaration context, not the 2015 Leiden Manifesto on research metrics.

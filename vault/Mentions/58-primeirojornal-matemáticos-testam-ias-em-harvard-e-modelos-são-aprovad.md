@@ -27,10 +27,6 @@ Brazilian news aggregator article (republishing an Olhar Digital piece) reportin
 
 > Paralelamente, a comunidade lançou a Declaração de Leiden, com mais de 2.300 signatários, que traça diretrizes éticas para uso transparente da IA na matemática. O documento reconhece o potencial da tecnologia, mas aponta riscos como a falta de crédito às ideias utilizadas pelos modelos e a promessa de resultados sem transparência sobre falhas.
 
-## Significance
-
-PrimeiroJornal is a minor Brazilian online news aggregator; the content is a syndicated republication of Olhar Digital (a major Brazilian tech outlet). The declaration is mentioned as secondary context to the Harvard AI-testing story rather than being the main subject. No notable mathematician or AI figure authored the piece. Low-to-moderate reach; value is in confirming Portuguese-language / Brazilian coverage of the declaration.
-
 ## Notes
 
 Confirmed reference to THIS 2026 Leiden Declaration on AI and Mathematics (not the 2015 Leiden Manifesto for research metrics): explicitly "Declaração de Leiden," cites 2,300+ signatories, ethical guidelines for transparent AI use in mathematics, and risks around attribution/credit and transparency — matching the subject. Signatory count (2,300+) is slightly lower than the 2,500+ figure, consistent with an earlier snapshot. Article is an aggregated/syndicated republication crediting Olhar Digital; original at olhardigital.com.br/2026/06/14/inteligencia-artificial/.

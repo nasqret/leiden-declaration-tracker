@@ -27,10 +27,6 @@ Italian-language coverage by the AI-news magazine Rivista AI of the 2026 Leiden 
 
 > la ricerca resti umana
 
-## Significance
-
-Rivista AI is a dedicated Italian AI-news magazine with regular daily output; the piece appears to be staff/editorial coverage with no named individual byline and no notable mathematician or AI figure as author. Its value is as evidence of Italian-language media reach of the declaration rather than as a high-prestige or authored endorsement. It correctly attributes IMU support and the Lorentz Center origin; it does not name individual signatories such as Tao, Scholze, or working-group lead Portegies.
-
 ## Notes
 
 False-positive guard applied and passed: the article is explicitly about the 2026 Leiden Declaration on AI and mathematics (published 2 June 2026), not the 2015 Leiden Manifesto for research metrics. Confirmed via direct WebFetch of the page plus corroborating search snippets. Author not individually bylined on the page; left blank. Date reflects the URL/publication date of 13 June 2026.

@@ -27,10 +27,6 @@ Spanish-language news article reporting on the Leiden Declaration on Artificial 
 
 > La «Declaración de Leiden»... advirtió a los gobiernos que no «se creyeran el bombo publicitario» sobre las capacidades matemáticas de los sistemas.
 
-## Significance
-
-Minor/aggregator-style Spanish-language outlet (Mediatize.info); not a major national newspaper. Coverage reflects the broad Spanish-language media pickup of the declaration alongside outlets like wwwhatsnew, DiarioBitcoin, and Menéame.
-
 ## Notes
 
 Direct page returns HTTP 403 (blocked to WebFetch); web.archive.org is not fetchable in this environment. Content confirmed via two WebSearch result snippets that quote the article's text directly, including the publication date (2 June 2026), 16 authors / 130+ signatories, IMU backing, the four risks, and the "don't believe the hype" warning. This clearly references the 2026 AI-and-mathematics declaration, not the 2015 Leiden Manifesto for research metrics. Confidence set to 'likely' rather than 'confirmed' because the live page could not be directly retrieved; author byline not recoverable from snippets.

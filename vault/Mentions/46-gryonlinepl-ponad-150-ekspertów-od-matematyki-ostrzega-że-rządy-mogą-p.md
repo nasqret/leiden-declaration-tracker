@@ -27,10 +27,6 @@ A Polish-language tech/gaming news article reporting that over 150 mathematician
 
 > Zdaniem naukowców władze państw powinny unikać czerpania wiedzy w temacie AI z obietnic korporacji.
 
-## Significance
-
-GRYOnline.pl is one of Poland's largest and most-visited gaming and tech news portals, giving this declaration meaningful reach to a Polish general/consumer-tech audience. No individually notable signatory is named in the article; the piece is a secondary news report rather than original coverage.
-
 ## Notes
 
 Confirmed via direct WebFetch of the page and corroborating search snippet; both explicitly name the "Leiden Declaration on Artificial Intelligence and Mathematics" (2026), so the false-positive guard (2015 Leiden Manifesto) does not apply. The headline says "over 150" experts; the actual signatory count is far higher (2,500+), but the article clearly concerns this declaration.

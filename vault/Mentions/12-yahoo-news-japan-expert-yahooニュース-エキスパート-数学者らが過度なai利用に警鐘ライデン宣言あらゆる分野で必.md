@@ -27,10 +27,6 @@ A Yahoo News Japan "Expert" opinion column by tech/AI commentator Sato Jin repor
 
 > ライデン宣言の意義は、AIを研究から排除することではなく、AIを使った成果に透明性と責任を求めた点にある (The significance of the Leiden Declaration lies not in excluding AI from research, but in demanding transparency and responsibility for AI-assisted results.)
 
-## Significance
-
-Yahoo News Japan is one of Japan's largest and most-read news portals; its "Expert" (エキスパート) channel features vetted commentators. The author Sato Jin (佐藤仁) is a recognized Japanese journalist/analyst specializing in AI, technology and international affairs who publishes regularly on the platform. This is mainstream-reach coverage in the Japanese-language market, though the author is a tech commentator rather than a mathematician or AI researcher.
-
 ## Notes
 
 The target URL returned HTTP 403 to direct fetch, but the article was corroborated via multiple search results that returned the exact matching title, author (佐藤仁/Sato Jin), and the "エキスパート" (Expert) channel path. Content snippets confirm it references THIS 2026 declaration (Leiden University Lorentz Center workshop, IMU endorsement, 150+ signatories, proof verification, peer review, AI disclosure/accountability). Not the 2015 Leiden Manifesto for research metrics. Confidence set to confirmed based on exact title/author/URL match plus substantive content snippets, despite the page itself being blocked to the fetch tool. Date confirmed as June 2026 (declaration published 2 June 2026); exact day not visible in snippets.

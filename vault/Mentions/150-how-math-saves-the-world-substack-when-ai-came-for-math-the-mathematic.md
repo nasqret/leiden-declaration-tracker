@@ -27,10 +27,6 @@ This Substack post covers the mathematical community's response to AI breakthrou
 
 > Mathematics "is, and should always remain, a profoundly human endeavour" (attributed to Ulrike Tillmann, IMU vice president).
 
-## Significance
-
-A small independent Substack newsletter amplifying the declaration to a general/educational audience. Notable angle: it cites the October 2025 episode of OpenAI's premature claims about solving Erdos problems being debunked as a cautionary tale showing why expert verification matters, and positions the declaration as a reusable governance template for other fields confronting transformative tech.
-
 ## Notes
 
 Confirmed via WebFetch of the live URL; explicitly references the 2026 declaration (Jim Portegies working group, IMU endorsement, AI threatening core values of mathematics), so the 2015 Leiden Manifesto false-positive is ruled out. Author shown only as first name "Thomas"; full byline not surfaced.

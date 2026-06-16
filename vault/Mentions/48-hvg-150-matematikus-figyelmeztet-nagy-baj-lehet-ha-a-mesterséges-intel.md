@@ -27,10 +27,6 @@ Hungarian news outlet HVG reports on the joint declaration in which 150+ mathema
 
 > Ulrike Tillmann, a Nemzetközi Matematikai Unió alelnöke azt érvelte, hogy a mesterséges intelligencia „olyan kérdéseket vet fel, amelyeket nem lehet válasz nélkül hagyni”, és hogy „a matematikai kutatások jövőjét az emberi ítélőképességnek, a tisztességes és átlátható gyakorlatoknak, valamint a globális matematikai közösség közös értékeinek kell irányítaniuk”.
 
-## Significance
-
-HVG (Heti Világgazdaság) is one of Hungary's leading and most widely-read mainstream news outlets, giving the declaration significant reach in Hungarian-language media. The article foregrounds the IMU endorsement (quoting vice-president Ulrike Tillmann) and echoes the declaration's core "don't believe the hype" message by urging policymakers to consult mathematicians rather than be swayed by headlines about AI capabilities driven by commercial interests.
-
 ## Notes
 
 Confirmation via WebSearch snippets only; the direct page returned HTTP 403 and web.archive.org was not fetchable in this environment. Content clearly references the 2026 Leiden Declaration on AI and Mathematics (joint statement of ~150-2,500+ mathematicians, IMU endorsement via Ulrike Tillmann, concern over AI in proofs/verification/values, appeal to policymakers) and is NOT the 2015 Leiden Manifesto for research metrics. Author byline could not be recovered due to the paywall/403; date inferred from the URL slug (20260609) and "about 1 week ago" relative to 2026-06-16. Confidence set to 'likely' because the page itself could not be directly fetched.

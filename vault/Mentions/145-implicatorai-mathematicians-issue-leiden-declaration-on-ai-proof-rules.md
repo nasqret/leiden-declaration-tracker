@@ -27,10 +27,6 @@ Covers the June 2026 Leiden Declaration on Artificial Intelligence and Mathemati
 
 > Mathematicians should disclose AI tools, retain responsibility for correctness and keep automated systems out of authorship.
 
-## Significance
-
-Implicator.ai is an independent San Francisco-based AI news/analysis newsletter (Schuler Media LLC) with a stated ~20,000 monthly readers; a niche but AI-focused outlet rather than a major mainstream publication. Author Marcus Schuler is the founder/editor-in-chief, a veteran technology journalist (former ARD correspondent), not a mathematician or AI researcher.
-
 ## Notes
 
 Passed false-positive guard: the article explicitly references the 2026 Leiden Declaration on AI and mathematics (IMU endorsement, AI proof/authorship norms), not the 2015 Leiden Manifesto for research metrics. Article cites IMU vice president Ulrike Tillmann and Leiden anthropologist Rodrigo Ochigame (who helped write the declaration), plus mathematicians Tim Gowers, Jacob Tsimerman, Thomas Bloom and others commenting on AI proofs. It does not specifically name Terence Tao, Peter Scholze, Jim Portegies, or the Lorentz Center workshop, but the declaration described matches the subject. Verified directly via WebFetch of the live page (not paywalled).

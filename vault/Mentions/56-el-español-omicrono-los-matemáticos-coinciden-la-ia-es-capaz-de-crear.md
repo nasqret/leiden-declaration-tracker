@@ -27,10 +27,6 @@ A Spanish-language article in El Español's technology vertical Omicrono coverin
 
 > Las técnicas actuales de computación pueden generar argumentos que parecen correctos pero resultan poco fiables.
 
-## Significance
-
-El Español is one of Spain's largest digital newspapers and Omicrono is its widely-read technology section, giving this strong mainstream Spanish-language reach. The author (Álvarez del Vayo) is a technology journalist, not a notable mathematician or AI researcher. The article does not name individual signatories (Tao, Scholze, etc.), Jim Portegies, the Lorentz Center workshop, or signatory counts, but correctly attributes the declaration and the IMU endorsement.
-
 ## Notes
 
 Relevance confirmed via WebFetch and corroborating WebSearch: the page explicitly names the Leiden Declaration on Artificial Intelligence and Mathematics (leidendeclaration.ai) backed by the IMU and the 2026 AI-and-math theme. Not the 2015 Leiden Manifesto for research metrics; false-positive guard passes.

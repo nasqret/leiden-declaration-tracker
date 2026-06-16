@@ -27,10 +27,6 @@ Blog post by mathematician Jordan Ellenberg endorsing the 2026 Leiden Declaratio
 
 > An AI optimist like me should surely sign on, because those bad futures can be, at the same time, unlikely (that's what I'm optimistic about) but likely enough to be worth worrying about.
 
-## Significance
-
-Quomodocumque is a well-known and widely-read mathematics blog. Its author, Jordan Ellenberg, is a prominent mathematician (University of Wisconsin-Madison) and best-selling popular-math author ("How Not to Be Wrong," "Shape"), making this a notable commentary on the declaration from a respected figure who self-identifies as an AI optimist.
-
 ## Notes
 
 Confirmed via WebFetch of the post and corroborating web search. This references THIS 2026 Leiden Declaration on AI and mathematics (IMU endorsement; signatories Scholze, Tao, Buzzard), NOT the 2015 Leiden Manifesto for research metrics. Author byline appears as "JSE" (Jordan Stephen Ellenberg), the blog's owner.

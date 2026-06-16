@@ -27,10 +27,6 @@ A Japanese business/IT magazine feature arguing that mathematics may be reaching
 
 > 世界15カ国の大学や研究機関に所属する16人の研究者が「ライデン宣言」を発表した。緊急声明ともいえる「ライデン宣言」 (Sixteen researchers from universities and institutions across 15 countries issued the "Leiden Declaration"... a "Leiden Declaration" that can be called an emergency statement.)
 
-## Significance
-
-Business+IT (SBBIT) is a well-established, high-traffic Japanese business and IT news outlet run by SB Creative (SoftBank group), giving the declaration meaningful reach to a Japanese professional/enterprise audience. The article is editorial/journalistic rather than authored by a notable mathematician or AI figure, though it cites Fields Medalist Terence Tao's commentary on an AI-generated proof. Note: a related Yahoo! News Japan expert piece by Hitoshi Sato (佐藤仁) also covers the declaration.
-
 ## Notes
 
 Confirmed via WebFetch of the page and corroborating WebSearch snippets. Applied the false-positive guard: this is unambiguously the 2026 Leiden Declaration on AI and mathematics (AIによる証明・数学のパラダイムシフト, AI/human roles), NOT the 2015 Leiden Manifesto for research metrics. The article does not name Jim Portegies, the IMU, Lorentz Center, or Zenodo explicitly, and gives signatory count as "16 researchers from 15 countries" (its framing) rather than the 2,500+ total; it does mention Terence Tao in the context of an AI proof. No individual author byline was visible on the page.

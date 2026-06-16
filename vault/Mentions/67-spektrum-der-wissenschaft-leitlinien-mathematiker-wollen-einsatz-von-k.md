@@ -27,10 +27,6 @@ German-language article reporting on the 2026 Leiden Declaration on Artificial I
 
 > Richtig eingesetzt, könne KI »äußerst nützlich und hilfreich« sein.
 
-## Significance
-
-Spektrum der Wissenschaft is the leading German-language popular-science magazine (the German licensee of Scientific American), giving the declaration significant reach in the German-speaking scientific public. The piece is a translation of a Scientific American / Quanta-style report by science journalist Leila Sloman; no notable mathematician or AI figure authored it, but the outlet itself is major.
-
 ## Notes
 
 Confirmed as referencing THIS 2026 Leiden Declaration on AI and Mathematics (leidendeclaration.ai), not the 2015 Leiden Manifesto. Markers matched: Lorentz Center autumn 2025 workshop (~60 researchers), IMU endorsement, project leader Jim Portegies (TU Eindhoven), and IMU publication committee chair Ilka Agricola. Article also quotes Leiden anthropologist Rodrigo Ochigame. Terence Tao and Peter Scholze are not named in this particular article, but the subject identification is unambiguous.

@@ -27,10 +27,6 @@ A Benchmark Forum thread reposting the Benchmark.rs news article about the 2026 
 
 > Međunarodna matematička zajednica objavila je Leiden deklaraciju ... dokument koji upozorava da veštačka inteligencija ugrožava principe matematičkog istraživanja, od atribucije i autorskih prava do pouzdanosti dokaza.
 
-## Significance
-
-Minor influence. This is a forum repost on a Serbian tech community (Benchmark.rs is a well-known Serbian IT/tech portal, but the forum thread itself is a low-reach discussion item) of the original Benchmark.rs news article. It does demonstrate the declaration's reach into Serbian-language tech media. The companion article names Fields Medalist Peter Scholze as a signatory.
-
 ## Notes
 
 Direct page fetch succeeded; no paywall. Corroborated via WebSearch, which also surfaced the source article at benchmark.rs/vesti/nauka-i-tehnologija and a Naslovi.net aggregator entry dated 2026-06-04. Clearly references THIS 2026 declaration (explicitly names "Leiden deklaracija", AI vs mathematics, attribution/copyright/proof reliability, Scholze). False-positive guard passed: not the 2015 Leiden Manifesto.

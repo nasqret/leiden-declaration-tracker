@@ -27,10 +27,6 @@ A short news post in which the Norwegian Mathematical Society (Norsk matematisk 
 
 > NMF deler tankene som kommer frem i Leiden Declaration on Artificial Intelligence and Mathematics og oppfordrer alle medlemmer til å følge rådene for god bruk av kunstig intelligens spesielt, og forsvarlig og etterprøvbar forskningsformidling generelt.
 
-## Significance
-
-Institutional endorsement from a national mathematics society (the Norwegian Mathematical Society), the official member organization for mathematicians in Norway. Not a mass-media outlet or a famous individual, but a credible professional body whose endorsement signals adoption of the declaration within the Norwegian mathematics community.
-
 ## Notes
 
 Page fetched directly and confirmed (not blocked/paywalled). It explicitly references THIS 2026 declaration about responsible AI use and verifiable research communication, linking to leidendeclaration.ai. It is NOT the 2015 Leiden Manifesto for research metrics. The post does not name the IMU, Jim Portegies, or specific signatories, and does not contain the "don't believe the hype" hook; it is a brief endorsement announcement categorized under "Nyheter" (News).

@@ -27,10 +27,6 @@ A French tech-news article on the Leiden Declaration on AI and Mathematics, fram
 
 > Un système d'IA ne fait que produire des arguments qui ont la forme d'une preuve, mais dont personne ne garantit la correction.
 
-## Significance
-
-Mid-tier French consumer-tech outlet (Clubic) coverage that extends the declaration's reach to a French-language general/tech audience. Notable angle: it anchors the story in the July 2024 Google DeepMind/AlphaProof IMO announcement and critiques the practice of releasing AI math results on "commercial timelines" before the community can evaluate the method; it also raises the attribution/citation problem (models trained on math publications failing to cite the human work they rely on, which breaks independent verifiability). Names signatories Leslie Ann Goldberg (Oxford) and references Tim Gowers and Joseph Myers (AlphaProof verification). A companion Clubic forum discussion thread exists.
-
 ## Notes
 
 Confirmed as referencing the correct 2026 Leiden Declaration, not the 2015 Leiden Manifesto for research metrics: the article cites the 17-member working group, the eight-month drafting process, the September 2025 Lorentz Center workshop in Leiden, the International Mathematical Union (IMU) and Leiden University consultation, and the AI-and-mathematics proof-reliability theme. The page was fetchable directly (not paywalled). The "don't believe the hype"/"ne croyez pas le battage" hook does NOT appear in this article. Does not name Tao, Scholze, Dijkgraaf, Buzzard, Avigad, Portegies, or LeCun. A related French-language piece (issues.fr) and an aggregator (moyens.net) cover the same declaration.

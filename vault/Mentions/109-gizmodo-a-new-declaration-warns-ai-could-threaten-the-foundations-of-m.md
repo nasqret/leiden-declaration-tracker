@@ -27,10 +27,6 @@ Gizmodo reports on the 2026 Leiden Declaration on Artificial Intelligence and Ma
 
 > Mathematics is, and should always remain, a profoundly human endeavor. (attributed to Ulrike Tillmann, IMU Vice President)
 
-## Significance
-
-Gizmodo is a major mainstream technology/science news outlet with broad reach, giving the declaration significant general-audience visibility. The author, Gayoung Lee, is a Gizmodo staff science writer (not a notable mathematician or AI figure), but the piece quotes notable figures connected to the declaration, including IMU Vice President Ulrike Tillmann and Leiden anthropologist of AI Rodrigo Ochigame.
-
 ## Notes
 
 Confirmed this references THIS 2026 Leiden Declaration on AI and Mathematics, not the 2015 Leiden Manifesto for research metrics: the article cites the IMU connection, AI-generated proofs, verification/peer review, transparency/disclosure of AI use, and the "profoundly human endeavor" framing. WebFetch reported "over 130 signatories" and "16 mathematicians" at time of publication (2 June 2026), which predates the 2,500+ total cited later. Corroborated via WebSearch (Google News mirror and Gizmodo author page for Gayoung Lee).

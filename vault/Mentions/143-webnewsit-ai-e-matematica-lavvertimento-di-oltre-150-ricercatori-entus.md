@@ -27,10 +27,6 @@ Italian tech news article covering the 2026 Leiden Declaration on AI and Mathema
 
 > l'entusiasmo per i nuovi strumenti non può prendere il posto della verifica indipendente
 
-## Significance
-
-Webnews.it is a mid-tier Italian consumer tech news outlet with broad general readership but not a major national newspaper or specialist scientific publication. The author, Silvia Dalia, is a staff tech journalist, not a notable mathematician or AI figure. Influence is moderate, mainly extending coverage of the declaration to an Italian-language tech audience. The piece cites IMU vice president Ulrike Tillmann and signatories including Thomas Bloom, Tim Gowers, Noga Alon, and Leslie Ann Goldberg.
-
 ## Notes
 
 Page fetched and confirmed to reference THIS 2026 Leiden Declaration on AI and Mathematics (mentions Leiden, the declaration, IMU/Ulrike Tillmann, and multiple named signatories). Not the 2015 Leiden Manifesto for research metrics. Article does not mention Lorentz Center, Jim Portegies, or the Tao/Scholze signatories by name, but core subject identification is unambiguous.

@@ -138,6 +138,27 @@ mathematics (proof, verification, attribution, peer review, human oversight).
   un-enumerated ones. The catalogue remains an explicit lower bound ("probably
   even more out there").
 
+## 2026-06-16 — Neutralized: facts only, analysis removed
+
+- Per request, the website and project are now **fact-only and neutral**. Removed
+  all interpretive/opinion content (much of it derived from opinion pieces):
+  - Landing page: deleted the **"Reception & analysis"** panel and the
+    **Executive summary / Recurring themes / Notable voices / Reach** panel;
+    replaced with a neutral **"About this tracker"** panel (what it is + counts +
+    "lower bound, not exhaustive").
+  - Vault: deleted the **Analysis note**; removed the synthesis sections from
+    **Home**; removed the per-mention **"Significance"** (editorial `influence`)
+    section. Neutralized the Yann LeCun People bio to facts only.
+  - Data: removed the `analysis` and `synthesis` blocks and the per-mention
+    `influence` field from `data/mentions.json`.
+- **Kept (facts):** the full catalogue (outlet, type, author, date, country,
+  language, URL, a factual summary of what each source says, and attributed
+  quotes), the map, filters, counts, and the declaration's factual details.
+  Opinion pieces remain **listed as mentions** (factual record that they exist);
+  their opinions are no longer adopted as project analysis.
+- This development journal and git history remain as a factual record of the work
+  (including that analysis was added and then removed on request).
+
 ### Notes for next time
 - Re-run the research workflow periodically (signatory count and coverage keep
   growing); add new rows to `data/mentions.json` and run `python3

@@ -27,10 +27,6 @@ An AI Weekly alert covering the 2026 Leiden Declaration on Artificial Intelligen
 
 > AI's entry into mathematics isn't just a productivity story; it threatens the attribution and credit systems that determine careers and funding in academic research.
 
-## Significance
-
-AI Weekly is a curated AI-news newsletter claiming 44,000+ subscribers ("AI professionals"), publishing breaking alerts ~3x/week. This item is an aggregated alert sourced from Gizmodo rather than original reporting, so it is a secondary/redistribution mention with moderate niche reach rather than a major outlet or notable author. No named author byline.
-
 ## Notes
 
 Passes the false-positive guard: explicitly the 2026 AI-and-mathematics declaration (IMU endorsement, Sept 2025 Lorentz Center origin, proof/attribution/peer-review themes), not the 2015 Leiden Manifesto for metrics. Page loaded directly (no paywall/block). Article does not specifically include the "don't believe the hype" hook or name Tao/Portegies. Corroborated via WebSearch snippets and related coverage (WinBuzzer, The Next Web, Wikipedia, leidendeclaration.ai).

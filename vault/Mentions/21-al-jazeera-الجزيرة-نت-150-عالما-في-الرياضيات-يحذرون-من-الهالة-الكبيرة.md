@@ -27,10 +27,6 @@ Arabic-language Al Jazeera science article reporting on the 2026 Leiden Declarat
 
 > بيان علمي أصدرته مجموعة دولية من الباحثين للتنبيه إلى أن الذكاء الاصطناعي لا يضع الرياضيات أمام فرصة تقنية فقط (An international scientific statement issued by a group of researchers warning that AI does not place mathematics before a merely technical opportunity)
 
-## Significance
-
-Al Jazeera is a major pan-Arab news outlet with very large regional and international reach, giving the declaration significant Arabic-language coverage. No individual author is bylined, and none appears to be a notable mathematician or AI figure. The article's context references OpenAI's late-May 2026 claim of disproving an 80-year-old conjecture, tying the declaration to topical AI-in-math news.
-
 ## Notes
 
 Page fetched and confirmed to reference THIS 2026 Leiden Declaration on AI and Mathematics (Lorentz Center/Leiden origin, IMU-endorsed, AI-and-math themes). Not the 2015 Leiden Manifesto for research metrics. The headline's "150 mathematicians" reflects an early signatory count at publication time (3 June 2026), distinct from the later 2,500+ total. Author field left blank as the article carries no explicit byline.

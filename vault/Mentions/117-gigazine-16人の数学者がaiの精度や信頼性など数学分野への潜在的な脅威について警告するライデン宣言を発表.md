@@ -27,10 +27,6 @@ GIGAZINE reports that a working group of mathematicians issued the Leiden Declar
 
 > AIを著者として扱うべきではなく、信用と責任は数学共同体に属する人間に残るべき (AI should not be treated as an author; credit and responsibility should remain with humans in the mathematics community.)
 
-## Significance
-
-GIGAZINE is a major, high-traffic Japanese technology news site, giving the declaration notable reach in the Japanese-language tech audience. The article quotes Jim Portegies (TU/e, working group lead) and Ulrike Tillmann (IMU Vice President), but the author (pen name log1i_yk) is a staff writer, not a mathematician or AI figure. No mention of Terence Tao.
-
 ## Notes
 
 Confirmed reference to THIS 2026 Leiden Declaration on AI and mathematics (not the 2015 Leiden Manifesto for research metrics): article explicitly cites the September 2025 Lorentz Center workshop at Leiden University, Jim Portegies of Eindhoven University of Technology leading the working group, IMU endorsement, and the proof/verification/attribution/peer-review/human-oversight themes. Page fetched successfully and fully readable. The headline frames the working group as "16 mathematicians" rather than citing the 2,500+ signatory total.

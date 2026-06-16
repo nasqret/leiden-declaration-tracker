@@ -27,10 +27,6 @@ Polish-language tech blog article reporting on the Leiden Declaration on Artific
 
 > Rezultatem jest 11-stronicowa Deklaracja z Lejdy w sprawie sztucznej inteligencji i matematyki, przygotowana przez 16 matematyków w konsultacji z organizacjami takimi jak Międzynarodowa Unia Matematyczna (IMU).
 
-## Significance
-
-Minor outlet: Moyens I/O (pl.moyens.net) is a Polish edition of a tech-news aggregator/blog that republishes and translates technology coverage; not an authoritative or original source. Value here is as an instance of international (Polish-language) pickup of the declaration, broadening its non-English reach, rather than independent reporting. No notable named author identified.
-
 ## Notes
 
 Direct page (and AMP variant) returned HTTP 403 to WebFetch; Wayback Machine and archive.today are not fetchable from this environment. Confirmation is via Google/WebSearch result snippets, which quote the article describing the "11-stronicowa Deklaracja z Lejdy" (11-page Leiden Declaration), 16 mathematicians, and the IMU - unambiguously THIS June 2026 AI-and-mathematics declaration, not the 2015 Leiden Manifesto on research metrics. Author not recoverable from snippets; date narrowed to June 2026 (declaration published 2 June 2026; related TU/e announcement 3 June 2026). Confidence set to 'likely' because full-text could not be directly retrieved.

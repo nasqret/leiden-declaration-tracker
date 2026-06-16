@@ -27,10 +27,6 @@ A Japanese-language blog post on note.com reflecting on the Leiden Declaration o
 
 > 答えは出る。しかし「なぜ正しいのか」を共同体が確認できるか—— (Answers emerge, but can the community verify "why it is correct"—)
 
-## Significance
-
-note.com is a large, widely-used Japanese blogging/newsletter platform, but this is an individual blogger's personal post. The author "mhamadajp" is not a recognized mathematician or notable AI figure. Low individual influence; value is as an example of Japanese-language public discussion of the declaration. It sits among several other Japanese pieces (Yahoo! News expert column, SB Bit, the Mathematical Society of Japan notice) covering the same declaration.
-
 ## Notes
 
 Relevance confirmed via WebFetch: the post explicitly discusses the 2026 "ライデン宣言" (Leiden Declaration) on AI and mathematics, its 2 June 2026 announcement, and its five core threats to proof/verification/attribution/peer review/autonomy. Not the 2015 Leiden Manifesto for research metrics — false-positive guard passed. The article gives the count as "16 researchers from 15 universities," which differs slightly from the subject brief's signatory framing but refers to the same declaration.

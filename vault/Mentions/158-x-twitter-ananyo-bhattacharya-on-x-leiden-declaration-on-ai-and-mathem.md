@@ -27,10 +27,6 @@ A post by science writer Ananyo Bhattacharya announcing the publication of the L
 
 > Leiden Declaration on AI and Mathematics-published today! >>Recommendation 2 for policymakers: "Don't believe the hype." Endorsed by @stevenstrogatz, Peter Scholze, Robbert Dijkgraaf, Kevin Buzzard and others
 
-## Significance
-
-Author is a prominent science writer (former senior editor at Nature, former science correspondent at The Economist, currently chief science writer at the London Institute for Mathematical Sciences, and author of "The Man from the Future: The Visionary Ideas of John von Neumann"). His mathematics-focused journalistic platform and reach lend the post notable amplification value despite being an individual social-media post rather than a major outlet.
-
 ## Notes
 
 The X URL returned HTTP 402 (paywalled to WebFetch) and could not be opened directly, so confidence is 'likely' rather than 'confirmed'. However, the WebSearch result reproduced the exact tweet text, which matches the candidate verbatim and clearly references THIS 2026 Leiden Declaration on Artificial Intelligence and Mathematics (publication "today" = 2 June 2026, policymaker recommendations, signatories Scholze/Dijkgraaf/Buzzard/Strogatz). Not the 2015 Leiden Manifesto for research metrics. Date inferred from the post stating the declaration was "published today" (2 June 2026). The trailing t.co link (https://t.co/h7abwpSJAH) presumably points to the declaration site.

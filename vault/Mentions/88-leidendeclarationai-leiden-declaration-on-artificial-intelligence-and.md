@@ -27,10 +27,6 @@ This is the official website of the 2026 Leiden Declaration on Artificial Intell
 
 > Mathematical proofs are regarded as conferring the highest degree of certainty to their conclusions, as well as imparting understanding of why their conclusions are true.
 
-## Significance
-
-Primary/canonical source: the declaration's own official site. Authoritative because it hosts the full text, the Zenodo DOI (10.5281/zenodo.20302944), the IMU endorsement (with a statement from IMU Vice President Ulrike Tillmann), and the full signatory list (2,524 total), including Terence Tao, Peter Scholze, and Robbert Dijkgraaf. Led by Jim Portegies (TU/e); emerged from the September 2025 Lorentz Center "Mechanization and Mathematical Research" conference at Leiden University.
-
 ## Notes
 
 Confirmed as THIS 2026 AI-and-mathematics declaration, not the 2015 Leiden Manifesto for research metrics. All identifying details verified: DOI, June 2, 2026 publication date, Lorentz Center origin, IMU endorsement, and named signatories all match the candidate subject.

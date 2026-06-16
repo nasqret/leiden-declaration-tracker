@@ -27,10 +27,6 @@ Japanese feature article (syndicated to Yahoo!ニュース from SB Creative's Bu
 
 > 緊急声明ともいえる「ライデン宣言」を発表（an "emergency statement" — the Leiden Declaration — was issued, signaling the changing roles of AI and humans in mathematics）
 
-## Significance
-
-Yahoo!ニュース is Japan's largest news aggregator and the syndicated source Business+IT (SB Creative) is a major Japanese business/IT outlet, giving this wide mainstream reach. The article cites Fields Medalist Terence Tao and the IMU endorsement, anchoring it to notable mathematicians; no individual author byline, so influence derives from the outlet rather than the author.
-
 ## Notes
 
 The exact candidate URL (Yahoo page 2) returned HTTP 403 to automated fetch, so confidence is set to 'likely' rather than 'confirmed'. Relevance is corroborated via (a) the identical original article at https://www.sbbit.jp/article/cont1/185773 (Business+IT, dated 2026-06-16), which I fetched successfully and which discusses the 2026 Leiden Declaration, IMU endorsement, 150+ signatories, and Terence Tao; and (b) search snippets matching this Yahoo article ID. False-positive guard applied: this is the 2026 Leiden Declaration on AI and mathematics, NOT the 2015 Leiden Manifesto for research metrics. The article references AI proving Erdős problem #1196 in ~80 minutes via GPT-5.4 Pro. Page 2 specifically covers the declaration and the AI/human role change (per the subtitle ライデン宣言が示すAIと人の役割変化).

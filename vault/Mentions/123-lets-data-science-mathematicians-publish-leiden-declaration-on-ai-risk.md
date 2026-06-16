@@ -27,10 +27,6 @@ News blog post reporting that mathematicians released the Leiden Declaration on 
 
 > Rather than calling for a ban, the declaration recommends that authors disclose AI assistance, that results undergo peer review, and that funders and professional bodies develop policies to preserve scrutiny and accessibility.
 
-## Significance
-
-Minor outlet. Let's Data Science is a small data-science news/aggregation blog with no individual author byline, not a major publication. The coverage is accurate but derivative (an automated/aggregated news summary) and carries limited independent influence. No notable mathematician or AI figure is associated with authorship.
-
 ## Notes
 
 Confirmed as referencing THIS 2026 Leiden Declaration on Artificial Intelligence and Mathematics (proof reliability, attribution, peer review, IMU endorsement, no outright ban) and NOT the 2015 Leiden Manifesto for research metrics. The page does not name individual leaders/signatories (Portegies, Tao, Scholze) and cites ~130 signatories (figure likely reflecting an early snapshot vs. the 2,500+ later total). No author byline present on the page.

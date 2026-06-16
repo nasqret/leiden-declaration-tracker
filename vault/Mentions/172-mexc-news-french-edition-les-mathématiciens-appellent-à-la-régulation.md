@@ -27,10 +27,6 @@ A syndicated news item (originally from Rappler) on the crypto-exchange MEXC's n
 
 > There is a risk that inaccurate AI-generated drafts could clutter the literature with claimed results that are simply wrong.
 
-## Significance
-
-Low-to-moderate reach via a niche channel: MEXC is a large global cryptocurrency exchange, but this is its general news-aggregation feed rather than a math/science outlet, so editorial authority on this topic is minimal. The substance derives entirely from the original Rappler article (a major Philippines-based news outlet). No notable mathematician or AI figure authored this piece; the only named expert quoted is Leslie Ann Goldberg (head of computer science, University of Oxford). Value is as a syndication data point showing international/French-language and crypto-adjacent pickup of the declaration.
-
 ## Notes
 
 False-positive guard passed: the article references THIS 2026 Leiden Declaration on AI and Mathematics (developed after a 2025 Lorentz Center workshop in Leiden), not the 2015 Leiden Manifesto for research metrics. The candidate French title matches the /fr/ edition URL; however, when fetched, the page body rendered in English (headline "Mathematicians call for AI regulation, warn of research integrity crisis") and credited Rappler as the source, indicating an auto-localized/syndicated aggregation. This MEXC version did not name Tao, Scholze, the IMU, the Lorentz Center, or Jim Portegies; it cited ~2,000 signatories and a June 2026 publication. Original source: https://www.rappler.com/technology/mathematicians-leiden-declaration-ai-regulation-research-integrity/

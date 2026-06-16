@@ -27,10 +27,6 @@ Vietnamese-language news article reporting on the 2026 Leiden Declaration on Art
 
 > Các chính phủ không nên tin vào lời thổi phồng của AI (Governments should not believe the hype about AI).
 
-## Significance
-
-Việt Báo is a long-established Vietnamese-American outlet (Việt Báo Foundation, a US nonprofit), giving the declaration reach within the Vietnamese diaspora community; the article specifically highlights the participation of Vietnamese-origin signatories, a localization angle not found in mainstream English coverage.
-
 ## Notes
 
 Direct page returned HTTP 403 and both the Wayback Machine and archive.today were unreachable from this environment. Confirmed via multiple WebSearch snippets that the article concerns THIS 2026 Leiden Declaration on AI and Mathematics (leidendeclaration.ai), references the "don't believe the hype" warning to governments, the 1,841 signatory count, and Vietnamese-origin scientists. The article also cites a Futurism (June 5, 2026) source and mentions Rodrigo Ochigame. Not the 2015 Leiden Manifesto. Confidence set to "likely" because the full page text could not be directly retrieved; date estimated as ~6 June 2026 ("Saturday afternoon" of the signature count) but not directly confirmed.

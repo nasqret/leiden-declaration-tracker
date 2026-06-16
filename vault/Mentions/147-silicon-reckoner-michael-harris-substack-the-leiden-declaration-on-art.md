@@ -27,10 +27,6 @@ Michael Harris's Silicon Reckoner post covers the newly released 2026 Leiden Dec
 
 > AI is fundamentally transforming the way we do mathematics, and it is doing so at incredible speed. It offers fantastic possibilities when used honestly and competently as a 'research assistant'. (quoting Ilka Agricola, IMU Committee on Publishing chair)
 
-## Significance
-
-High
-
 ## Notes
 
 Confirmed via WebFetch on 2026-06-16 that the page is about the 2026 Leiden Declaration on AI and Mathematics (IMU endorsement, AI-and-math focus), not the 2015 Leiden Manifesto for research metrics or any unrelated Leiden item. False-positive guard passed. Published same day as the declaration (2 June 2026).

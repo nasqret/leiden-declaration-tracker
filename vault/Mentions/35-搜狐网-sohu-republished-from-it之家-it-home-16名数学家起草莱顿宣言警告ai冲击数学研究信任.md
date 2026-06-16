@@ -27,10 +27,6 @@ Chinese-language news report stating that 16 mathematicians from 15 universities
 
 > 数学研究的核心价值包括证明带来的高确定性、作者责任、第三方可验证性、共同体评价标准，以及自主塑造研究问题的能力。
 
-## Significance
-
-Sohu is one of China's largest web portals; this is a republication of an IT之家 (IT Home) tech-news piece, giving the declaration substantial Chinese-language reach. The article has no notable individual author byline (institutional/staff reporting), but its wide aggregation across major Chinese portals (Sina, NetEase/163, Wenxuecity) amplifies the declaration's visibility in the Chinese math/AI community.
-
 ## Notes
 
 Page confirmed via WebFetch to reference THIS 2026 Leiden Declaration on AI and mathematics (Lorentz Center workshop, IMU endorsement, proof/verification/attribution themes) — not the 2015 Leiden Manifesto for research metrics. Sohu URL is a syndicated copy of the IT之家 original (also mirrored at Sina finance.sina.com.cn 2026-06-04 and 163.com). Reported signatory counts in related coverage range from 550-650+ as of early June 2026, consistent with the declaration's growth toward 2,500+. Date 2026-06-04 taken from corroborating Sina/163 republications of the same article.

@@ -27,10 +27,6 @@ Spanish-language coverage of the 2026 Leiden Declaration on AI and Mathematics, 
 
 > Una prueba matemática que nadie puede seguir no es una prueba en el sentido epistemológico que la disciplina ha construido durante siglos.
 
-## Significance
-
-WWWhat's New is a long-established, fairly popular Spanish-language technology news blog with broad reach across Spain and Latin America, giving the declaration Spanish-language coverage. The author, Natalia Polo, is a staff tech journalist, not a notable mathematician or AI researcher.
-
 ## Notes
 
 WebFetch of the URL confirmed the article is about the 2026 Leiden Declaration on AI and Mathematics (endorsed by the IMU), not the 2015 Leiden Manifesto for research metrics. The page emphasizes AI threatening mathematical proof, verification, and peer review, matching the subject. Note: the title/article cites "130 mathematicians" signing, which reflects an early figure shortly after the 2 June 2026 publication rather than the later 2,500+ total.

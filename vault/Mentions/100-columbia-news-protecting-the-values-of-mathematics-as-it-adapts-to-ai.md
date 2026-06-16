@@ -27,10 +27,6 @@ Columbia University's news outlet covers the 2026 Leiden Declaration on Artifici
 
 > Mathematics is more than a machine for producing correct answers—it's a deeply human endeavor built on creativity, understanding, collaboration, and the pursuit of knowledge for its own sake. These values often clash with the incentives driving AI development.
 
-## Significance
-
-Major institutional outlet (Columbia University's official news site). The article is authored by/centered on Michael Harris, a prominent number theorist at Columbia who was one of the ~16 co-authors of the declaration, making this both a high-profile institutional endorsement and a primary-source perspective from a declaration author.
-
 ## Notes
 
 Confirmed as THIS 2026 AI-and-mathematics Leiden Declaration (not the 2015 Leiden Manifesto on research metrics): search snippets explicitly reference the IMU endorsement, signatories Terence Tao and Peter Scholze, 2,100+ signatories, and the September 2025 Lorentz Center workshop at Leiden University (60 participants, 10 countries; conference titled "Mechanization and Mathematical Research"). Direct WebFetch of the URL returned HTTP 403, so details were corroborated via multiple consistent WebSearch snippets rather than the full live page; hence confidence='likely'. Publication date (~June 11, 2026) inferred from search-engine relative-date metadata and not independently confirmed to the day; author byline attributed to Michael Harris based on snippets.

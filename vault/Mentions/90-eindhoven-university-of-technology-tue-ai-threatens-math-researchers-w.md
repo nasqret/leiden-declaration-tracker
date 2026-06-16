@@ -27,10 +27,6 @@ TU/e's official news page reports on the 2026 Leiden Declaration on Artificial I
 
 > Who is responsible for any errors, and who gets the credit if the argument is correct?
 
-## Significance
-
-High-credibility primary/institutional source: this is the home institution of working-group lead Jim Portegies, so it functions as a near-authoritative announcement. It quotes notable figures (Terence Tao; IMU Vice President Ulrike Tillmann) and was syndicated by outlets like Mirage News, amplifying reach. No individual author byline (institutional newsroom piece).
-
 ## Notes
 
 Confirmed via WebFetch of the page plus corroborating WebSearch results. Page explicitly references THIS 2026 Leiden Declaration on AI and mathematics (leidendeclaration.ai), Jim Portegies, the Lorentz Center workshop at Leiden University, IMU endorsement, and Terence Tao — not the 2015 Leiden Manifesto for research metrics. False-positive guard satisfied. Page also notes Portegies will present the declaration at ICM Philadelphia on 26 July 2026.

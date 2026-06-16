@@ -27,10 +27,6 @@ Romanian education-news article reporting on the 2026 Leiden Declaration on Arti
 
 > tehnologiile automate „pot produce argumente plauzibile, dar nesigure (sau chiar incorecte) care sunt dificil de distins de dovezi matematice corecte"
 
-## Significance
-
-Edupedu.ro is a well-known, established Romanian education-news outlet with significant reach in Romania's education sector, giving the declaration coverage in the Romanian-language press. Authored by staff journalist Matei Pop.
-
 ## Notes
 
 Confirmed via WebFetch of the live page and corroborated by WebSearch snippets. Correctly references THIS 2026 AI-and-mathematics declaration (Lorentz Center / Leiden University origin, IMU endorsement, proof/verification/attribution themes); it is NOT the 2015 Leiden Manifesto for research metrics. The page is publicly accessible.

@@ -27,10 +27,6 @@ This AFP wire article reports on the 2026 Leiden Declaration, signed by 150+ mat
 
 > There is a competition to the death on the part of the main labs... they are trying, using mathematics... to attract investment so that each of them will be left standing.
 
-## Significance
-
-High reach: this is an AFP wire dispatch syndicated across numerous international outlets (Phys.org, Manila Times, Jamaica Observer, Geo.tv, Republica, Canadian Affairs, etc.). The Star is Malaysia's leading English-language daily. The piece quotes notable figures: declaration co-author Michael Harris (Columbia University) and IMU vice-president Ulrike Tillmann endorsing it; references Terence Tao (Fields Medalist). The byline is the AFP wire service rather than a single notable author.
-
 ## Notes
 
 Correctly references THIS 2026 Leiden Declaration on AI and Mathematics (not the 2015 Leiden Manifesto for research metrics). Confirmed via WebFetch of the page itself plus corroborating search results. Mentions IMU endorsement, Terence Tao, co-author Michael Harris, and the declaration's core concerns about proof verification, attribution, and peer review. Note: the article cites 150+ signatories (early count) rather than the later 2,500+ total. This is an AFP wire story carried by many outlets; The Star is one syndication instance.

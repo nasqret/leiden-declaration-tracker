@@ -27,10 +27,6 @@ Science-section coverage in de Volkskrant of the Leiden Declaration on AI and Ma
 
 > OpenAI is totaal niet open over wat ze precies hebben gedaan.
 
-## Significance
-
-de Volkskrant is one of the Netherlands' leading national daily newspapers — major mainstream Dutch coverage, foregrounding the transparency/attribution critique of OpenAI.
-
 ## Notes
 
 Added 2026-06-16, flagged as missed by co-author Rodrigo Ochigame. Page is paywalled and blocks automated fetch (WebFetch failed); title reconstructed from the URL slug, relevance corroborated by Dutch-language search snippets describing the Leiden Declaration. Confidence 'likely'; exact date/author to confirm against the live page. Not the 2015 Leiden Manifesto.

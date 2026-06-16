@@ -27,10 +27,6 @@ AFP wire report on the 2026 Leiden Declaration, signed by 150+ mathematics profe
 
 > "There is a competition to the death on the part of the main labs... they are trying, using mathematics... to attract investment so that each of them will be left standing." — Michael Harris, Columbia University, declaration co-author
 
-## Significance
-
-High influence: AFP is a major global wire service, so this single story was syndicated across dozens of international outlets (Phys.org, The Star, Manila Times, Jamaica Observer, Geo.tv, myRepublica, Canadian Affairs, etc.), driving much of the worldwide coverage of the declaration. It quotes Michael Harris (Columbia mathematician and a declaration co-author), a notable figure in the math-and-AI debate.
-
 ## Notes
 
 Confirmed reference to THIS 2026 Leiden Declaration on AI and mathematics (proof verification, attribution, peer review, human oversight themes) — not the 2015 Leiden Manifesto for research metrics. The Phys.org page is the AFP-sourced version; the same text appears across many syndicated outlets. Phys.org gives an explicit publication date of 2026-06-02 and credits AFP with editing by Andrew Zinin.

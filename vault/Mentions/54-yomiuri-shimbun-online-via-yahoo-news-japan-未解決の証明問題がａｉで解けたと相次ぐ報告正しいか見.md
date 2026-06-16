@@ -27,10 +27,6 @@ The Yomiuri Shimbun reports that Western mathematicians have issued the "Leiden 
 
 > 信頼性に欠ける論証を展開することがあり、正しい証明なのか見分けることが困難 (AI may develop unreliable arguments, making it hard to tell whether a proof is correct.)
 
-## Significance
-
-High reach: the Yomiuri Shimbun is Japan's largest-circulation newspaper, and this is its syndicated piece carried on Yahoo News Japan, the country's dominant news aggregator — giving the declaration significant mainstream Japanese coverage. The article cites the IMU endorsement and quotes Cornell applied mathematician Steven Strogatz as a notable supporter. No individual journalist byline (institutional Yomiuri authorship).
-
 ## Notes
 
 Yahoo News Japan URL returns HTTP 403 to automated fetch (paywall/bot block), but the article is the same Yomiuri Shimbun piece confirmed verbatim via the Infoseek mirror (https://news.infoseek.co.jp/article/yomiuri_20260613_gyt1t00238/), identical title and date. Clearly references the 2026 AI-and-mathematics declaration (June 2026, Leiden University origin, IMU, AI proof-verification threats), NOT the 2015 Leiden Manifesto for research metrics. False-positive guard passed. Date reflects the Yomiuri/Yahoo publication (2026-06-13); the declaration itself was published 2026-06-02.

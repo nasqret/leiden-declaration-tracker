@@ -27,10 +27,6 @@ German-language blog post on the long-running Mathlog (ScienceBlogs.de) announci
 
 > Ein großer Teil der Mathematik ist die Tätigkeit des Beweises.
 
-## Significance
-
-Mathlog is one of the best-known German-language mathematics blogs, written by mathematician Thilo Kuessner and hosted on the established ScienceBlogs.de platform; it reaches a substantial German-speaking math/science audience. The author is a working mathematician (topology), giving the post some specialist credibility, though it is a personal blog rather than a major news outlet.
-
 ## Notes
 
 Page genuinely references the 2026 Leiden Declaration on AI and Mathematics (IMU support; AI threats to proof, attribution, transparency, responsibility for correctness; demands on institutions, policymakers, and AI companies). False-positive guard applied: this is NOT the 2015 Leiden Manifesto for research metrics. The post does not name Jim Portegies, the Lorentz Center, Terence Tao, or the 2,500+ signatory count, but its content unambiguously matches this declaration. Author given as "Thilo" on the byline; full name is Thilo Kuessner, the known Mathlog author.

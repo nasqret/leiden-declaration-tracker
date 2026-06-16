@@ -27,10 +27,6 @@ Mathematician Jason Polak harshly criticizes the 2026 Leiden Declaration on AI a
 
 > It's negatively disruptive regardless of good intentions. The fact is, in a highly competitive field like mathematics, people will use it to get ahead.
 
-## Significance
-
-Minor outlet: a personal Substack newsletter, not a major media outlet. The author, Dr. Jason Polak, is a mathematician (algebra/number theory background) and active math-and-AI commentator with a recurring AI-skeptic series, so this is a domain-relevant critical voice from within the math community rather than a high-reach publication. The piece is notable as a dissenting reaction arguing the declaration does not go far enough.
-
 ## Notes
 
 Confirmed via WebFetch and corroborating search snippets that the article references THIS 2026 Leiden Declaration on Artificial Intelligence and Mathematics (disclosure of AI tools, proof assistants, LLMs), not the 2015 Leiden Manifesto for research metrics. Stance is strongly critical (from an AI-skeptic angle: the declaration is too soft). Author is part of a broader set of his posts on AI and mathematics.

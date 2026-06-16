@@ -27,10 +27,6 @@ The article reports OpenAI's claim that an internal AI model solved an ~80-year-
 
 > "A empresa não divulgou nada sobre os métodos, os comandos escritos por humanos, os dados de treino ou os recursos computacionais consumidos." (The company disclosed nothing about methods, human-written prompts, training data, or computational resources consumed.) — attributed to declaration co-author Rodrigo Ochigame.
 
-## Significance
-
-Público is one of Portugal's two leading national daily newspapers, giving the declaration significant mainstream Portuguese-language reach. The article ties the declaration to a topical OpenAI news hook and quotes declaration co-author Rodrigo Ochigame, plus references mathematician Melanie Matchett Wood (Harvard). Author Sérgio Magno is a tech journalist, not a notable mathematician/AI figure.
-
 ## Notes
 
 Confirmed via WebFetch of the page and corroborating WebSearch snippets. This is THIS 2026 Leiden Declaration on AI and Mathematics (Leiden University workshop, ~60 participants Sept 2025, published 2 June 2026), NOT the 2015 Leiden Manifesto for research metrics; false-positive guard passed. The candidate-provided title was a paraphrase; the actual published headline is "OpenAI resolveu um enigma matemático com 80 anos, mas cientistas criticam processo". The article is in the ENTER (tech) section.

@@ -27,10 +27,6 @@ In this post, mathematician Steven Strogatz praises a New York Times article by 
 
 > This terrific article by @sioroberts will help elevate the public discussion of AI in mathematics. The interview about the Leiden Declaration is especially helpful.
 
-## Significance
-
-High influence. Steven Strogatz is a prominent applied mathematician and Distinguished Professor for the Public Understanding of Science and Mathematics at Cornell University, a well-known science communicator with a large public following. He is himself quoted in support of the Leiden Declaration. His amplification points to a major mainstream-press piece (a New York Times article by Siobhan Roberts) covering the declaration, giving the post notable reach and credibility.
-
 ## Notes
 
 The X/Twitter page itself returned HTTP 402 (paywalled to automated fetch), so direct page content could not be retrieved. However, the tweet text, author, and subject are corroborated verbatim by web search snippets, and the referenced article (Siobhan Roberts, NYT, "As A.I. makes strides in mathematics, mathematicians urge caution," ~2 June 2026) clearly concerns THIS 2026 Leiden Declaration on AI and Mathematics. False-positive guard applied: this is NOT the 2015 Leiden Manifesto for research metrics. Date not directly confirmable from the page; the underlying NYT article dates to ~2 June 2026, so the tweet is from on/after that date.

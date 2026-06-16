@@ -27,10 +27,6 @@ A French-language news article reporting on the 2026 Leiden Declaration on AI an
 
 > Les outils automatisés peuvent produire des arguments plausibles en apparence mais incorrects.
 
-## Significance
-
-Minor/regional outlet. Breizh-Info is a Brittany-based French website (founded 2013, run by Yann Vallerie) characterized as far-right/identitarian and criticized by Le Monde's fact-checking service for disseminating false or misleading content. No named author and no notable mathematician/AI figure attached; low editorial authority. The article itself is a straightforward, accurate summary of the declaration.
-
 ## Notes
 
 Relevance confirmed via WebFetch: the page clearly references THIS 2026 declaration (Lorentz Center Sept 2025 workshop, Leiden University, IMU endorsement, five vulnerability areas) and is NOT the 2015 Leiden Manifesto for research metrics. The false-positive guard passes. Note minor headline detail: WebFetch initially rendered "solemnel" but the canonical URL/title spelling is "solennel"; effective publication date of the declaration cited as 2 June 2026 with the article dated 6 June 2026.

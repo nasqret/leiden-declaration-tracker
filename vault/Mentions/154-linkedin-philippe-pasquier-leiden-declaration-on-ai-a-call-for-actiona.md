@@ -27,10 +27,6 @@ In this LinkedIn post, Philippe Pasquier recommends reading the 2026 Leiden Decl
 
 > It boils down to a set of concrete and actionable recommendations for individuals, non-profit organisations, governments and policy makers, and finally, private corporations.
 
-## Significance
-
-Moderate. The outlet is a personal LinkedIn post (social media), not a major publication. However, the author Philippe Pasquier is a notable AI figure: Full Professor at the School of Interactive Arts and Technology, Simon Fraser University, and director of the Metacreation Lab for Creative AI, a recognized researcher in generative/creative AI. He also appears as a signatory of the declaration on the official leidendeclaration.ai site, lending some credibility/reach within the generative-AI community.
-
 ## Notes
 
 Confirmed via WebFetch of the LinkedIn post, which references the "Leiden Declaration on Artificial Intelligence and Mathematics" and its actionable recommendations structure (individuals / non-profits / governments / corporations), consistent with the 2026 declaration. False-positive guard applied: this is the 2026 AI-and-mathematics declaration, NOT the 2015 Leiden Manifesto for research metrics. Pasquier is also listed as a signatory at leidendeclaration.ai/signatories. The post itself does not print the year "2026" but context and title confirm identity. Exact posting day not visible (shown as "1 week ago" relative to a June 2026 fetch), so date given as month-level precision.

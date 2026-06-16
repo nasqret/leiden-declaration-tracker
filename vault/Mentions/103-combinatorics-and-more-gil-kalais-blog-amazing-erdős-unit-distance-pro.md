@@ -27,10 +27,6 @@ In a blog post about an AI-assisted disproof of Erdős's unit distance conjectur
 
 > (June 3, 2026) There is an interesting Leiden Declaration on Artificial Intelligence and Mathematics.
 
-## Significance
-
-High-profile mention. Gil Kalai is a very prominent mathematician (Israel Prize laureate, Hebrew University / Reichman University) whose blog "Combinatorics and more" is one of the most widely read mathematics research blogs, frequently cited within the math community. The reference is a brief link/pointer rather than analysis, but its placement in a high-traffic, respected blog gives it notable reach among mathematicians.
-
 ## Notes
 
 Page genuinely references THIS 2026 Leiden Declaration (links directly to https://leidendeclaration.ai/), not the 2015 Leiden Manifesto for research metrics — false-positive guard applied. The mention is a parenthetical update dated June 3, 2026 appended to a post originally published May 21, 2026 (the post's own date), consistent with the declaration's 2 June 2026 publication. The post's main topic is the AI-assisted disproof of the Erdős unit distance problem, unrelated to the declaration itself; the declaration appears only as a supplementary link.

@@ -27,10 +27,6 @@ The London Mathematical Society news page announces the 2026 Leiden Declaration 
 
 > It highlights concerns about how AI may affect established practices in mathematical research.
 
-## Significance
-
-High institutional credibility. The London Mathematical Society is the UK's principal learned society for mathematics and a major national professional body; its formal news endorsement/coverage signals significant disciplinary uptake of the declaration. No individual byline is given (institutional editorial post).
-
 ## Notes
 
 Confirmed as referencing THIS 2026 AI-and-mathematics declaration (mentions 2025 Lorentz Center workshop in Leiden, AI reliability/attribution/peer-review concerns, links to leidendeclaration.ai). False-positive guard applied: not the 2015 Leiden Manifesto for research metrics. The LMS page itself does not name IMU endorsement, signatory count, Jim Portegies, or Terence Tao, but its description of scope matches the subject exactly. No named author/byline on the page.

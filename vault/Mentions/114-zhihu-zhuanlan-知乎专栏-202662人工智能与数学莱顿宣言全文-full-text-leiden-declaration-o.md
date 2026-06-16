@@ -27,10 +27,6 @@ A Zhihu column post reproducing a Chinese-language full text / translation of th
 
 > 数学研究的核心价值在于证明带来的高度确定性、作者的责任、第三方的可验证性、社区的评价标准，以及自主塑造研究问题的能力。 (The core values of mathematical research lie in the high certainty brought by proof, the responsibility of authors, third-party verifiability, the community's evaluation standards, and the ability to autonomously shape research questions.)
 
-## Significance
-
-Zhihu is one of China's largest Q&A and knowledge-sharing platforms, so a full-text Chinese reproduction gives the declaration significant reach within the Chinese-language academic and tech audience. The companion Zhihu Q&A thread ("国际数学联盟发布《人工智能与数学莱顿宣言》...如何理解这份宣言?") shows active community discussion. The individual columnist/author is not a notable mathematician or AI figure based on available snippets; influence stems from the platform's scale rather than the author.
-
 ## Notes
 
 Page returned HTTP 403 to WebFetch (Zhihu blocks automated fetching), so content was corroborated via WebSearch snippets rather than direct page read; hence confidence='likely' rather than 'confirmed'. Search confirms the exact candidate URL and title and that the content concerns the 2026 IMU-endorsed Leiden Declaration on AI and Mathematics (Lorentz Center origin, Fields Medalist signatories, proof/verification/attribution themes) — NOT the unrelated 2015 Leiden Manifesto for research metrics. A related Zhihu discussion thread exists at https://www.zhihu.com/question/2045460062915621128. Author and exact post timestamp could not be extracted due to the 403.

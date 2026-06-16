@@ -27,10 +27,6 @@ An AFP wire story reporting on the 2026 Leiden Declaration, a statement signed b
 
 > There is a strong commercial incentive ... to overstate the capabilities of their products.
 
-## Significance
-
-Syndicated AFP (Agence France-Presse) wire article, giving it broad international reach; the same AFP piece was carried by many outlets (phys.org, Manila Times, Jamaica Observer, Geo TV, myRepublica). Canadian Affairs is a regional Canadian news outlet republishing the wire copy. The article quotes notable figures including IMU vice-president Ulrike Tillmann and co-author Michael Harris (Columbia University).
-
 ## Notes
 
 False-positive guard applied: the article references THIS 2026 Leiden Declaration on AI and Mathematics, not the 2015 Leiden Manifesto for research metrics. Confirmed by direct WebFetch of the URL plus corroborating search showing the AFP story widely syndicated. Byline is the AFP wire service rather than an individual reporter.

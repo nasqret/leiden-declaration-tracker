@@ -27,10 +27,6 @@ Spanish-language article reporting on the Leiden Declaration on Artificial Intel
 
 > La responsabilidad por la corrección y adecuación de los argumentos... sigue perteneciendo exclusivamente a los autores humanos.
 
-## Significance
-
-Specialized technology/AI media outlet (a focused tech publication/newsletter rather than a major general-interest newspaper). The piece is by the editorial staff (Redacción), not a notable mathematician or AI figure. Provides Spanish-language coverage of the declaration, extending its reach to Spanish-speaking audiences. Note: the candidate labels the outlet as Mexico-based, but search indicates Paréntesis.Media is associated with Spain (Barcelona); there is a separate Mexican "Parentesis.com" tech site. Outlet location should be treated as somewhat uncertain.
-
 ## Notes
 
 Page fetched and content confirmed to reference THIS 2026 Leiden Declaration on AI and Mathematics (not the 2015 Leiden Manifesto for research metrics). It explicitly names the IMU endorsement, the 2 June 2026 publication date, the Lorentz Center workshop origin, and signatories Peter Scholze, Terence Tao, Robbert Dijkgraaf, Jeremy Avigad, and Kevin Buzzard. False-positive guard passed.

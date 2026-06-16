@@ -27,10 +27,6 @@ Hungarian-language tech news article reporting that around 150 scientists who si
 
 > A nyilatkozat szerint jelenleg erős kereskedelmi ösztönzés hajtja a technológiai ipart arra, hogy eltúlozza termékei képességeit. (The declaration states that there is currently a strong commercial incentive driving the technology industry to exaggerate the capabilities of its products.)
 
-## Significance
-
-Niche Hungarian ICT/technology news site, not a major mainstream outlet; no notable byline identified. Indicates international (Hungarian-language) pickup of the declaration's "don't believe the AI hype" message aimed at policymakers/governments.
-
 ## Notes
 
 Direct page returns HTTP 403 (blocked to WebFetch); web.archive.org not fetchable from this environment. Confirmation rests on a detailed US-locale WebSearch snippet from the article itself, which explicitly names the "Leiden Declaration," the ~150 signatories, the AI-hype warning to governments, the commercial-incentive-to-exaggerate quote, and the use of mathematicians' work without consent. This matches the 2026 AI-and-mathematics declaration (not the 2015 Leiden Manifesto for research metrics). Exact author and full publication date could not be verified due to the 403; date inferred as June 2026 from declaration timing and "recently published" framing. Confidence set to 'likely' rather than 'confirmed' because the live page could not be directly rendered.

@@ -27,10 +27,6 @@ The article reports on the "First Proof" initiative in which 30 mathematicians a
 
 > A declaração reconhece o potencial da tecnologia, mas aponta riscos: os modelos não creditam as ideias que utilizam, e as empresas promovem sucessos sem transparência sobre os casos de falha.
 
-## Significance
-
-Olhar Digital is a major Brazilian technology news outlet with broad reach, extending coverage of the declaration into Portuguese-language media. The declaration is mentioned as secondary context to the main First Proof/Harvard AI testing story rather than being the central focus; the byline author (Layse Ventura) is a tech journalist, not a mathematician or AI researcher.
-
 ## Notes
 
 Confirmed via WebFetch. The article cites the 2026 Leiden Declaration on AI and mathematics with matching themes (attribution of ideas, transparency about failures) and signatory count (2,300+; subject states 2,500+, consistent with a growing total). This is NOT the 2015 Leiden Manifesto for research metrics, so the false-positive guard is satisfied. The page does not provide a direct URL or DOI to the declaration. Signatory figure of 2,300+ is slightly below the 2,500+ in the subject brief, likely reflecting the count at time of writing (14 June 2026).

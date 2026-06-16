@@ -27,10 +27,6 @@ Spanish-language tech blog article reporting on the Leiden Declaration on Artifi
 
 > "Una prueba matemática que nadie puede seguir no es una prueba en el sentido epistemológico que la disciplina ha construido durante siglos."
 
-## Significance
-
-Minor outlet: CK Geek (ckgeek.ckweb.cl) is a small Chilean tech news aggregator that republished content from the Spanish tech blog WWWhat's new. Low independent reach/influence; functions as syndicated coverage rather than original reporting, but confirms Spanish-language Latin American distribution of the declaration's message.
-
 ## Notes
 
 Content corroborated against the original source wwwhatsnew.com/2026/06/04/declaracion-leiden-ia-amenaza-matematicas-autonomia-pruebas-2026/. Correctly references THIS 2026 AI-and-mathematics declaration (IMU endorsement, June 2, 2026, proof verification/authorship/originality themes); not the 2015 Leiden Manifesto. False-positive guard passed.

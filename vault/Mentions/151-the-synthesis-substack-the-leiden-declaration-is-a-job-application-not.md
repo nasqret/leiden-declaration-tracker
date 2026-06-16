@@ -27,10 +27,6 @@ A Substack analysis arguing that the June 2026 Leiden Declaration on AI and Math
 
 > The guild is not arguing that AI cannot do math. It is accepting that it can and repositioning the mathematician.
 
-## Significance
-
-Distinctive contrarian/critical reframing that gives the candidate its memorable hook: the declaration as "a job application, not a protest letter." Argues mathematicians are credentialing AI as an instrument rather than resisting it, citing the community's ability to distinguish genuine breakthroughs (the May 2026 Erdos/unit-distance result) from inflated claims (the October 2025 GPT-5 false claim). Names notable signatories (Tao, Scholze, Buzzard, Tillmann, Gowers, Aaronson) and correctly attributes the lead working group to Portegies at TU Eindhoven.
-
 ## Notes
 
 False-positive guard passed: the article references the 2026 declaration on AI and Mathematics (Portegies/TU Eindhoven, IMU endorsement, 2,000+ signatories, OpenAI proof context), not the 2015 Leiden Manifesto for research metrics. The candidate "title" is actually the post's subtitle/tagline; the on-page headline is simply "The Leiden Declaration." Confirmed via WebFetch of the live URL (two passes); the post is publicly accessible. Date confirmed as 10 June 2026 (the declaration itself was published 2 June 2026). No individual author byline is shown.

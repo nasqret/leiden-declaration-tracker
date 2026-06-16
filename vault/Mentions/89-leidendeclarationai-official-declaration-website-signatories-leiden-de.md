@@ -27,10 +27,6 @@ Official signatories page of the 2026 Leiden Declaration on Artificial Intellige
 
 > 2,524 signatories total — entries with names, affiliations, ORCID identifiers, and signature dates ranging through June 2026.
 
-## Significance
-
-This is the canonical primary source for the declaration itself (the official site, tied to DOI 10.5281/zenodo.20302944). It is the authoritative record of the 2,500+ signatories, which reportedly include leading mathematicians and AI figures such as Terence Tao, Peter Scholze, Kevin Buzzard, and Scott Aaronson, and reflects the International Mathematical Union's endorsement. As the source of record rather than third-party coverage, it carries high authority for verifying signatory claims.
-
 ## Notes
 
 Confirmed as THIS 2026 AI-and-mathematics declaration, not the 2015 Leiden Manifesto for research metrics. The fetched page (page 1 of 26) did not itself display Tao/Scholze/Buzzard etc. because it shows the most recent signatures first, but corroborating coverage (Quomodocumque, TheNextWeb, Wikipedia) confirms these notable signatories and the IMU endorsement. Visible sample signatories on the page included Danny Calegari (University of Chicago) and Alicia Dickenstein (University of Buenos Aires). Date reflects the declaration's 2 June 2026 publication; the signatory list updates continuously.

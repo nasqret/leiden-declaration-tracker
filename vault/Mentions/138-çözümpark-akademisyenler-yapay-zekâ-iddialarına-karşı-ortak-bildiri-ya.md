@@ -27,10 +27,6 @@ Turkish IT-community article reporting on the "Leiden Artificial Intelligence an
 
 > matematik araştırmalarında alınacak kararların ticari söylemler yerine bilimsel doğrulama süreçlerine dayanmasını istedi ("[the signatories] called for decisions in mathematical research to be based on scientific validation processes rather than commercial narratives")
 
-## Significance
-
-ÇözümPark is a well-known Turkish IT/technology community portal (Microsoft/sysadmin/developer audience) rather than a mainstream news outlet; it has solid reach within the Turkish tech community but is not a major general-press source. The author, Gürkan Küçükali, is a regular ÇözümPark contributor/tech writer, not a notable mathematician or AI researcher. Value here is primarily as evidence of Turkish-language coverage of the declaration.
-
 ## Notes
 
 Confirmed via WebFetch to be the 2026 Leiden Declaration on AI and Mathematics (mentions exaggerated AI math claims, scientific validation vs commercial narratives, training-data transparency). NOT the 2015 Leiden Manifesto for research metrics, so the false-positive guard is satisfied. Article cites 150+ signatories (likely an early-snapshot count lower than the later 2,500+ total). Date and author extracted directly from the page.

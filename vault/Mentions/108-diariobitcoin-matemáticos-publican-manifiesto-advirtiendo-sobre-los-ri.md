@@ -27,10 +27,6 @@ Spanish-language article reporting on the Leiden Declaration on Artificial Intel
 
 > Los sistemas actuales pueden generar argumentos plausibles, pero poco fiables o incorrectos.
 
-## Significance
-
-DiarioBitcoin is one of the longest-running and most-read Spanish-language cryptocurrency/fintech news outlets in Latin America, giving the declaration reach into a regulation/tech-policy audience beyond mathematics. It is a niche crypto news site rather than a major general-interest outlet, and the article cites the working group (Jim Portegies) and IMU endorsement but does not feature comments from headline signatories like Tao or Scholze.
-
 ## Notes
 
 Direct page fetched successfully (no paywall). Corroborated by US-locale WebSearch results showing extensive parallel Spanish-language coverage of the same June 2026 Leiden Declaration (El Español, wwwhatsnew, Paréntesis.Media, Menéame). False-positive guard cleared: explicitly references the 2026 AI-and-mathematics declaration, Lorentz Center, Portegies, and IMU — not the 2015 Leiden Manifesto for research metrics.

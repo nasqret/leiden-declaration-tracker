@@ -6,42 +6,11 @@ tags: [moc, home]
 
 Knowledge base tracking **every traced mention** of the [[Leiden Declaration on AI and Mathematics]] across the internet — newspapers, magazines, blogs, institutional announcements and social media.
 
-- **Total verified mentions:** 173
+- **Total mentions catalogued:** 173
 - **Declaration published:** 2026-06-02
 - **Knowledge base generated:** 2026-06-16
 
-## Executive summary
-
-The Leiden Declaration on Artificial Intelligence and Mathematics, published 2 June 2026 and endorsed by the International Mathematical Union, generated rapid, global press and community coverage within roughly two weeks. The 131 catalogued mentions span elite general-science and news outlets (The New York Times, Scientific American, Science, AFP wire), mathematical institutions and societies across at least a dozen countries, tech and AI trade press, academic blogs and Substacks by leading mathematicians, and high-traffic social and forum platforms. Coverage clusters around two dominant frames: the "don't believe the hype" warning to policymakers about AI's mathematical capabilities, and a defense of mathematics' core values (verifiable proof, human authorship/attribution, autonomy from Big Tech). The story achieved substantial international reach, with heavy syndication of the AFP wire and the Futurism piece, and extensive non-English pickup in Chinese, Japanese, Spanish, Italian, German, French, Russian, Korean, Arabic, Portuguese, and Turkish.
-
-## Reach
-
-Reach was broad and genuinely global rather than niche. Tier-one validation came from The New York Times, Scientific American, and Science, while the AFP wire ('don't believe hype') and a Futurism article drove a long tail of syndication across at least 25 countries and 12+ languages, including major regional outlets (Al Jazeera, Yomiuri Shimbun, NRC, NZZ, Público, Российская газета, Korea's Newsspace). Institutional weight was substantial: the IMU endorsement plus official statements from national mathematical societies (UK/LMS, Italy/UMI, Japan/MSJ, Korea/KMS) and leading universities (Oxford, Columbia, Northwestern, Edinburgh, Leiden, TU/e). Penetration into AI/tech trade press (Gizmodo, The Next Web, WinBuzzer, Habr, multiple Italian and Spanish tech blogs) and active community discussion on Hacker News, Slashdot, Lobsters, Zhihu, and Mastodon shows it crossed from the math community into broader tech-policy discourse. The compressed timeline (most coverage within ~2 weeks of the 2 June launch) and rising signatory tallies indicate strong, sustained momentum.
-
-## Recurring themes
-
-- "Don't believe the hype": the declaration's Recommendation 2 to policymakers became the single most-quoted hook, headlining the AFP wire and dozens of derivative pieces worldwide.
-- Defense of core mathematical values: verifiable proof, peer review, human authorship, and attribution were framed as under threat from AI-generated but plausible-looking arguments.
-- Big Tech and consent: a recurring angle that AI companies should stop training on mathematicians' work without permission, and that big tech should not dictate which mathematics matters.
-- Trust and verification crisis: emphasis on AI producing convincing-but-wrong proofs that are 'hard to distinguish', undermining trust in the literature.
-- Authority and legitimacy: heavy reliance on the IMU endorsement and marquee signatories (Tao, Scholze, Dijkgraaf, Buzzard) to establish credibility; signatory counts (16 drafters, then 150+, 550+, 1,800+, 2,500+) tracked as a momentum narrative.
-- AI breakthroughs as trigger context: many pieces tie the declaration to recent AI proof claims (e.g., the Erdős unit-distance problem, OpenAI/80-year-old problem, Harvard benchmark tests).
-- Career and human-stakes angle: concern that AI erodes opportunities for young mathematicians (notably RTVI).
-- Skeptical/contrarian takes: a minority of bloggers and mathematicians critiqued the declaration as weak, pathetic, or 'press-release science' (Jason Polak, Webnews.it).
-- Origin story: framing around the September 2025 Lorentz Center workshop and the TU/e-led working group convened by Jim Portegies.
-
-## Notable voices
-
-- Terence Tao (announced it on Mathstodon; headline signatory)
-- Siobhan Roberts / The New York Times (anchor mainstream feature)
-- Leila Sloman / Scientific American (and German translation in Spektrum der Wissenschaft)
-- Science (AAAS) and AFP wire (driving the widest syndication)
-- International Mathematical Union — Christoph Sorger, Secretary General (institutional endorsement)
-- Jim Portegies, TU/e (working-group lead and IMU/ICM panel spokesperson)
-- Michael Harris (Columbia; co-author, Silicon Reckoner Substack and Columbia News)
-- Other marquee signatories: Peter Scholze, Robbert Dijkgraaf, Kevin Buzzard, Jeremy Avigad, Bryna Kra, Ursula Martin
-- Mathematician-bloggers Jordan Ellenberg (Quomodocumque), Peter Woit (Not Even Wrong), Gil Kalai (Combinatorics and more)
-- Steven Strogatz and Ananyo Bhattacharya (amplification on X)
+_A factual catalogue of public mentions. This list is a lower bound, not exhaustive._
 
 ## Mentions by category
 
@@ -297,10 +266,6 @@ Reach was broad and genuinely global rather than niche. Tier-one validation came
 - [[South Africa (country)\|South Africa]] — 1
 - [[Thailand (country)\|Thailand]] — 1
 - [[Venezuela (country)\|Venezuela]] — 1
-
-## Analysis
-
-- [[AI-industry response and reception]] — the industry's silence, how commentators framed it, the Yann-LeCun-signature correction, and the most-quoted line
 
 ## Indexes
 

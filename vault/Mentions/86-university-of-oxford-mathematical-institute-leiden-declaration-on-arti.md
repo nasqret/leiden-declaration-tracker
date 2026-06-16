@@ -27,10 +27,6 @@ The Oxford Mathematical Institute announces the release of the 2026 Leiden Decla
 
 > The Declaration...focusses on the threats (and opportunities) that AI presents such as: unreliable results; copyright and attribution issues (AI using human work without citation); inequality and dependence on expensive proprietary technology; misleading hype and overestimation of AI capabilities; and loss of human autonomy over research agendas.
 
-## Significance
-
-Major institutional source: the University of Oxford's Mathematical Institute is one of the world's leading mathematics departments. Significance is heightened because Oxford professor Ursula Martin (a notable figure in mathematics and formal verification) is one of the 16 authors, making this an institutional endorsement from an author's home department rather than mere reporting.
-
 ## Notes
 
 Confirmed via direct WebFetch of the page and corroborated by WebSearch. Correctly references THIS 2026 AI-and-mathematics declaration (Lorentz Center / Leiden origin, IMU endorsement, Portegies working group), not the 2015 Leiden Manifesto for research metrics. Note: page cites ~1,500 signatories (likely an early figure relative to the 2,500+ total cited in the task brief), reflecting its publication-date timing.

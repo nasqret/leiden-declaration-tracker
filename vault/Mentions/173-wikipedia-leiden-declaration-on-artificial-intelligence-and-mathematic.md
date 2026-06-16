@@ -27,10 +27,6 @@ English-language Wikipedia article dedicated to the 2026 Leiden Declaration, des
 
 > Technology companies' involvement in research raises the risk that research questions are prioritized... because of their amenability to AI methods rather than their deeper significance.
 
-## Significance
-
-Wikipedia is a top-tier, extremely high-traffic reference site; a standalone dedicated article confers significant visibility and signals notability of the declaration. The article correctly attributes leadership to Jim Portegies and IMU endorsement. No named individual author (collaborative editing).
-
 ## Notes
 
 Confirmed this is the 2026 AI-and-mathematics declaration and NOT the 2015 Leiden Manifesto for research metrics. Verified directly via WebFetch of the page (last edited 16 June 2026) and corroborated by search results showing the page alongside Leiden University, TU/e, IMU and press coverage referencing the same DOI/Zenodo record (20302944). Outlet_type set to 'other' as encyclopedia/reference wiki does not map cleanly to listed categories.

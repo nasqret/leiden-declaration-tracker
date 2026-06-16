@@ -27,10 +27,6 @@ Vietnamese tech-news article reporting that hundreds of mathematicians (650+ cit
 
 > Rodrigo Ochigame, an anthropologist and historian of computing and AI at Leiden University, a co-author of the declaration, states that in announcements like those from OpenAI, "essential basic information needed to assess the scientific significance of results is kept secret."
 
-## Significance
-
-GenK is a well-known, high-traffic Vietnamese technology and science news outlet (part of the VCCorp/CafeF media network), giving the declaration mainstream Vietnamese-language coverage. The article is syndicated from doisongphapluat.nguoiduatin.vn. It cites notable figures (Peter Scholze, Rodrigo Ochigame), confirming substantive coverage of the actual declaration rather than a passing mention.
-
 ## Notes
 
 Confirmed via direct WebFetch and corroborating WebSearch snippets. Clearly references THIS 2026 Leiden Declaration on AI and Mathematics (proof/verification/peer-review/attribution themes, tech-company hype criticism), not the 2015 Leiden Manifesto for research metrics. Byline "Đức Khương" with source attribution to doisongphapluat.nguoiduatin.vn.

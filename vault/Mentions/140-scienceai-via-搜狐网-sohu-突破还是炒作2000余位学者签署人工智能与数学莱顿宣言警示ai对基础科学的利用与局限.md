@@ -27,10 +27,6 @@ Chinese-language article reporting that over 2,000 scholars have signed the 2026
 
 > AI has opened exciting new opportunities, but also raises questions requiring scrutiny. Mathematics research's future must be guided by human judgment, fair transparent practices, and shared global values.
 
-## Significance
-
-ScienceAI is a science/AI-focused Chinese content account; this piece is republished on Sohu, a major Chinese web portal, giving it broad mainstream reach in the Chinese-language sphere. Author is an editorial team (coisini), not a notable mathematician or AI figure. The article cites notable figures associated with the declaration — Terence Tao (Fields Medal) and IMU Vice President Ulrike Tillmann — but they are subjects, not the author.
-
 ## Notes
 
 Confirmed as referencing THIS 2026 Leiden Declaration on AI and Mathematics (Lorentz Center Sep 2025 workshop origin, IMU involvement, 2,000+/2,500+ signatories, Terence Tao), not the 2015 Leiden Manifesto for research metrics. Page fetched successfully (full text accessible, not paywalled). Title and date (2026-06-10 16:35) read directly from the page.

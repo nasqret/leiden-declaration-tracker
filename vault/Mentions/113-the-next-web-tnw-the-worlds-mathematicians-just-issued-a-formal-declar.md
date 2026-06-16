@@ -27,10 +27,6 @@ TNW reports on the IMU-endorsed Leiden Declaration on AI and Mathematics, framin
 
 > Mathematics is, and should always remain, a profoundly human endeavour. (Ulrike Tillmann, IMU vice president, as quoted in the article)
 
-## Significance
-
-The Next Web (TNW) is a major, widely-read international technology news outlet (owned by the Financial Times), giving the declaration mainstream tech-press visibility. The author, Alina Maria Stan, is a tech journalist rather than a notable mathematician or AI researcher. The article amplifies notable signatories (Peter Scholze, IMU endorsement) but its influence stems from the outlet's broad tech audience reach rather than author expertise.
-
 ## Notes
 
 Confirmed via WebFetch: page genuinely covers THIS 2026 Leiden Declaration on AI and Mathematics (IMU endorsement, AI threats to proof/attribution/peer review, Lorentz Center origin) — not the 2015 Leiden Manifesto for research metrics. NOTE: the candidate-supplied title ("Mathematicians issue Leiden Declaration against AI misuse of their work") does not match the actual on-page headline ("The world's mathematicians just issued a formal declaration telling AI companies to stop using their work without permission"); the candidate title appears to be a search-result/summary variant. The actual headline is recorded above. URL resolved and content fully readable (not paywalled). TNW is owned by the Financial Times.

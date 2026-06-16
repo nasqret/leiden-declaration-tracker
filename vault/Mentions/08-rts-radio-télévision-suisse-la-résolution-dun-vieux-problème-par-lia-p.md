@@ -27,10 +27,6 @@ The Swiss public broadcaster RTS reports that an OpenAI model (a version of Chat
 
 > Une partie de la communauté scientifique veut désormais encadrer cette nouvelle façon d'utiliser l'IA. Plus de 1200 mathématiciens ont ainsi signé une déclaration de bonnes pratiques, pour garder l'humain au centre de cette discipline millénaire.
 
-## Significance
-
-National Swiss public-service broadcaster coverage giving the declaration mainstream francophone reach. Notable angle: it frames the declaration as a reaction to OpenAI's solving of an Erdős problem, foregrounding the worry that AI threatens mathematicians' central role, and balances this with a nuanced caveat from a doctoral researcher that formulating problems remains the human core of research while AI handles technical tasks. Quotes EPFL mathematics professor Kathryn Hess Bellwald ("Pour la première fois, on a une intelligence artificielle qui a trouvé quelque chose de vraiment novateur").
-
 ## Notes
 
 The live page returns HTTP 403 to automated fetches (also blocked on web.archive.org via this tool and Google cache behind a consent redirect), so the exact byline, full date, and verbatim use of the name "Leiden" / specific signatories (Tao, Scholze, etc.) could not be confirmed from the source itself. Confidence set to 'likely' rather than 'confirmed' on that basis. However, multiple independent search snippets (including from the RTS URL itself) confirm the content: OpenAI solving an 80-year Erdős problem and 1,200+ mathematicians signing a declaration of good practices to keep humans central — matching the Leiden Declaration on AI and Mathematics (published 2 June 2026, a Tuesday; the article notes the launch was "mardi"/Tuesday). The "1200+" figure is a snapshot shortly after launch (vs. the later 2,500+). FALSE-POSITIVE GUARD cleared: this concerns the 2026 AI-and-mathematics declaration, NOT the 2015 Leiden Manifesto for research metrics.

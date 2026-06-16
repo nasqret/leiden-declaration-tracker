@@ -27,10 +27,6 @@ An event/session in the ICM 2026 program: as part of the IMU panel "Challenges f
 
 > On 26 July 2026, the Leiden Declaration will be presented and discussed at the International Congress of Mathematicians (ICM) in Philadelphia.
 
-## Significance
-
-High influence: the ICM is the most prestigious global mathematics congress (held by the IMU, which endorsed the declaration), giving the declaration a flagship in-person platform. The presenter, Jim Portegies, leads the declaration's working group, so this is an authoritative primary presentation rather than secondary coverage.
-
 ## Notes
 
 The catalog URL is JavaScript-rendered, so WebFetch returned only the event title with no body text. Relevance to THIS 2026 AI-and-mathematics declaration was confirmed via the official leidendeclaration.ai/news page (which links to this exact ICM event and dates it 26 July 2026) and corroborating search snippets describing the IMU panel and Portegies talk. False-positive guard applied: this is the 2026 AI-and-mathematics declaration, not the 2015 Leiden Manifesto for research metrics. Confidence set to 'likely' rather than 'confirmed' only because the target page body could not be directly scraped; cross-source corroboration is strong.

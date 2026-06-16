@@ -27,10 +27,6 @@ News article in Science (AAAS) reporting on the 2026 Leiden Declaration on Artif
 
 > New declaration argues the technology jeopardizes the field's values and culture.
 
-## Significance
-
-High influence: Science (AAAS) is one of the world's most prominent and authoritative general-science publications, giving the Leiden Declaration major mainstream scientific visibility. The article was widely picked up (Hacker News, Slashdot/Lemmy, and multiple republishers), amplifying its reach.
-
 ## Notes
 
 Confirmed this references THIS 2026 Leiden Declaration on AI and Mathematics (16 researchers, Lorentz Center 2025 workshop, IMU endorsement, peer-review/attribution/proof concerns) and NOT the 2015 Leiden Manifesto for research metrics. The science.org page itself returned HTTP 403 (paywall/bot block), so content was corroborated via WebSearch snippets and cross-referencing (Hacker News submission ~13 days before 2026-06-16, consistent with a ~June 2-3 2026 date). Exact author byline could not be extracted; date set to 2026-06-02 based on the declaration's publication and corroborating coverage, with mild uncertainty (hence confidence=likely). Note one republisher (myengineers.com.ng) dated its repost 2026-06-08 but that is the republication date, not the original Science date.

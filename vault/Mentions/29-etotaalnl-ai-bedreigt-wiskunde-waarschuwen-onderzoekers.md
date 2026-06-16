@@ -27,10 +27,6 @@ Dutch-language news article reporting on the 2026 Leiden Declaration on Artifici
 
 > Wiskunde is mensenwerk en moet dat altijd blijven (Mathematics is human work and must always remain so) - Ulrike Tillmann, IMU vice-president
 
-## Significance
-
-etotaal.nl is a minor Dutch technology/electronics trade news outlet (not a major national newspaper). No individual author is bylined; the text appears to be a syndicated press item that also ran on Engineers Online (engineersonline.nl), suggesting shared distribution rather than original reporting. Limited independent influence, but it broadens the declaration's reach into the Dutch tech/engineering trade press.
-
 ## Notes
 
 Confirmed reference to THIS 2026 declaration, not the 2015 Leiden Manifesto for research metrics. Article correctly attributes the working group to Jim Portegies (TU/e), the Lorentz Center / Leiden University origin, IMU endorsement, and high-profile signatories (Tao, Dijkgraaf). Page date 3 June 2026 (one day after the 2 June publication). No byline present. Appears to be a press-release-derived item also published on engineersonline.nl with the same headline.

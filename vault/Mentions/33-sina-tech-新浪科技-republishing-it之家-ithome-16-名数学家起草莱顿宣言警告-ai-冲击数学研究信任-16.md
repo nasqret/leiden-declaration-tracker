@@ -27,10 +27,6 @@ A Chinese-language tech news report on the 2026 Leiden Declaration on AI and Mat
 
 > 数学不只是结果集合，更是培养理解、清晰表达和判断力的人类活动 ("Mathematics is not merely a collection of results, but a human activity that cultivates understanding, clear expression, and judgment.")
 
-## Significance
-
-Significant reach: Sina Tech is one of China's largest tech news portals, and the source piece from IT之家 (ITHome) is a major Chinese tech outlet. The article was widely syndicated across Chinese platforms (Sohu, NetEase/163, Wenxuecity), giving the declaration substantial Chinese-language exposure. No notable mathematician or AI figure authored it; it is straight news/aggregation coverage.
-
 ## Notes
 
 Confirmed via WebFetch and corroborating WebSearch. Clearly references the 2026 AI-and-mathematics declaration (16 mathematicians, Sept 2025 Lorentz Center workshop, IMU endorsement, AI threats to proof/attribution/verification), NOT the 2015 Leiden Manifesto for research metrics, so the false-positive guard is satisfied. The candidate's stated outlet "IT之家 / Sina Tech" is accurate: this URL is the Sina Tech republication of the original IT之家 report. The byline is the outlet itself rather than a named individual.

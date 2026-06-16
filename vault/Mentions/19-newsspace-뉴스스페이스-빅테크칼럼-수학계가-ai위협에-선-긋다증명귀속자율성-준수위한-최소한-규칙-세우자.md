@@ -27,10 +27,6 @@ A Korean "Big Tech column" reporting on the Leiden Declaration on Artificial Int
 
 > AI는 도구일 수는 있어도, 증명과 판단의 주체가 되어서는 안 된다 (AI can be a tool, but must not become the subject of proof and judgment.)
 
-## Significance
-
-Newsspace is a South Korean science/tech-focused online news outlet (space, big tech, industry); a niche/specialist rather than a major national daily. The byline reporter (이종화 / Lee Jong-hwa) is a staff journalist, not a notable mathematician or AI figure. The piece extends coverage of the declaration to the Korean-language audience. Note: the article frames the document as authored by 16 scholars from 15 universities and names only four signatories (Lenni Taelman, Rodrigo Okigame, Mateja Zamnic, Johan Commelin) in the photo caption; it does not mention the high-profile signatories (Tao, Scholze, Buzzard, Avigad, Dijkgraaf) or working-group lead Jim Portegies, and does not cite the 2,500+ signatory figure.
-
 ## Notes
 
 Relevance confirmed via WebFetch and WebSearch: matches THIS 2026 Leiden Declaration (IMU endorsement, Lorentz Center workshop at Leiden University, 2 June 2026 publication, proof/verification/attribution/autonomy themes, upcoming ICM discussion). Not the 2015 Leiden Manifesto for research metrics or any other unrelated "Leiden" item—false-positive guard passed. Page fully accessible.

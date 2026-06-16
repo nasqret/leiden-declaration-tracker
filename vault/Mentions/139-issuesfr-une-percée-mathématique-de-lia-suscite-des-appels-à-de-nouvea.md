@@ -27,10 +27,6 @@ French-language article on OpenAI's AI refutation of Erdős's unit distance conj
 
 > Le 2 juin, un groupe d'experts a publié une déclaration appelant à des garde-fous stricts autour de l'IA dans la recherche mathématique. Au 5 juin, la déclaration comptait 1 590 signatures.
 
-## Significance
-
-Issues.fr is a minor French general-interest news aggregator/blog, not a major outlet; the article appears to be a French rewrite of English-language coverage (e.g., the OpenAI Erdős breakthrough and the declaration). The author, Bertrand Mongne, is a staff/contributor byline, not a notable mathematician or AI figure. Low individual influence, but it extends coverage of the declaration into the French-language press.
-
 ## Notes
 
 The article references the June 2, 2026 declaration but does not explicitly name it the "Leiden Declaration," nor mention the Lorentz Center, Jim Portegies, the IMU, or signatories like Tao/Scholze. Identification rests on the unique combination of date (June 2), theme (strict safeguards on AI in mathematical research), the OpenAI Erdős unit distance trigger, and a growing signature count (1,590 by June 5) — all consistent with corroborating coverage of the Leiden Declaration (which grew from 150+ signatories toward 1,854+). Clearly NOT the 2015 Leiden Manifesto for research metrics. Confidence set to "likely" because the name is not stated in-article, though the contextual match is strong.

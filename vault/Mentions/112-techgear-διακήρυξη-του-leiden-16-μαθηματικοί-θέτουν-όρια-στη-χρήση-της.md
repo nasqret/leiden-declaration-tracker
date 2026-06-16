@@ -27,10 +27,6 @@ Greek-language tech news article reporting on the Leiden Declaration on Artifici
 
 > Allowing algorithms to produce theorems no one can verify transforms mathematics from exact science into an act of faith.
 
-## Significance
-
-Minor regional outlet: Techgear (techgear.gr) is a Greek consumer technology news blog, not a major international publication. The author is staff writer Christos Elpidis. It demonstrates international/Greek-language pickup of the declaration but carries limited standalone influence; a sister Greek site (techmaniacs.gr) ran a parallel story, indicating syndicated coverage.
-
 ## Notes
 
 WebFetch of the live URL succeeded and confirmed the article references THIS 2026 declaration (IMU endorsement, verification/peer review/attribution themes). Not the 2015 Leiden Manifesto. Article cites 23 recommendations across three axes and over 130 signatories at time of writing.

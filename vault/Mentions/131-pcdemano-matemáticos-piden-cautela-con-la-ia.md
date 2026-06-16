@@ -27,10 +27,6 @@ Spanish-language tech article reporting on the 2026 "Declaración de Leiden," si
 
 > existe una diferencia fundamental entre generar una respuesta aparentemente correcta y demostrar rigurosamente que dicha respuesta es válida
 
-## Significance
-
-PcDeMano is a mid-tier Spanish-language consumer technology/IT news site, not a major outlet, and the article carries no bylined notable author. Its significance is as evidence of broad Spanish-language tech-press pickup of the declaration rather than independent influence. The article does not name marquee signatories (no Tao, Scholze, IMU, Lorentz Center mentioned by name) and undercounts signatories (150+ vs 2,500+), indicating it is a derivative summary of wire/aggregator coverage.
-
 ## Notes
 
 Confirmed via WebFetch of the URL: page is in Spanish, dated 7 June 2026, titled "Matemáticos piden cautela con la IA," and explicitly references the 2026 "Declaración de Leiden" on AI and mathematics (proof/verification, hallucinations, independent funding, Lean/Coq/Isabelle). This is THIS 2026 declaration, not the 2015 Leiden Manifesto for research metrics — false-positive guard passed. No author byline found.

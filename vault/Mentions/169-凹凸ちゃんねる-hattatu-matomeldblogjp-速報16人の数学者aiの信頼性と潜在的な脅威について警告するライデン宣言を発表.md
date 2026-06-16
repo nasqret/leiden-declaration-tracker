@@ -27,10 +27,6 @@ A Japanese 2ch-style thread-aggregator (matome) blog post reporting on the Leide
 
 > 証明の信頼性、著作権や貢献の帰属、研究の自律性などに影響を及ぼす (affecting proof reliability, attribution of contributions and copyright, and research autonomy)
 
-## Significance
-
-Minor outlet. 凹凸ちゃんねる is a Japanese 2ch-style aggregator/matome blog (built around a neurodivergence community but reposting general news threads), not a major or authoritative publication. The post is anonymous, with no notable mathematician or AI figure as author. Value is mainly as evidence of grassroots Japanese-language reach/translation of the declaration into community discussion forums.
-
 ## Notes
 
 Confirmed via WebFetch and corroborating WebSearch. Clearly references THIS 2026 Leiden Declaration on AI and mathematics (IMU endorsement, 2 June 2026 release, five threats incl. proof reliability and attribution) — NOT the 2015 Leiden Manifesto for research metrics. The post summarizes/translates coverage of the declaration; note the post cites "16 mathematicians / 150+ signatories," figures lower than the subject's stated 2,500+ total, likely reflecting early reporting at time of posting (9 June 2026).

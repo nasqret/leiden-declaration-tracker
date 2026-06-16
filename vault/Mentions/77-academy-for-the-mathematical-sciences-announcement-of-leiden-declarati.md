@@ -27,10 +27,6 @@ An institutional announcement from the UK's Academy for the Mathematical Science
 
 > The message of the Leiden Declaration is clear: AI offers major opportunities, but without deliberate choices and shared responsibility, it may place the foundations of science under pressure.
 
-## Significance
-
-The Academy for the Mathematical Sciences is the UK's national academy for the mathematical sciences (a significant disciplinary body), so its endorsement/announcement carries institutional weight and amplifies the Declaration within the UK mathematics community. No individual author byline; this is an organizational post.
-
 ## Notes
 
 Direct WebFetch of the page returned HTTP 403 Forbidden, but multiple independent search snippets (including the page's own title and content) confirm it is a genuine announcement of THIS June 2026 AI-and-mathematics Leiden Declaration, not the 2015 Leiden Manifesto for research metrics. Date narrowed to June 2026 based on the Declaration's 2 June 2026 publication and the announcement context; exact day not visible in snippets. Confidence treated as confirmed given consistent corroboration of title, outlet, and subject matter.

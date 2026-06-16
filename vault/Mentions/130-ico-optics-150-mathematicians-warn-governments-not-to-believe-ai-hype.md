@@ -27,10 +27,6 @@ The article reports on the 2026 Leiden Declaration on AI and Mathematics, descri
 
 > AI can help with computation and pattern-spotting... But jumping from helping to proving on its own? That's a massive leap.
 
-## Significance
-
-Low influence. ICO Optics (ico-optics.org) is a small niche optical-sciences content/blog site, not a major news outlet, and the piece carries no individual byline. The article reads as a derivative/aggregated rewrite of the wider coverage (e.g., Futurism). It correctly references the IMU endorsement (Ulrike Tillmann) and Leiden University origin, but adds no original reporting or notable mathematician/AI-figure authorship.
-
 ## Notes
 
 Confirmed as referencing THIS 2026 Leiden Declaration on AI and Mathematics (Leiden University / Lorentz Center origin, IMU endorsement via VP Ulrike Tillmann, drafter Rodrigo Ochigame, core values proof/verification/peer review). False-positive guard passed: not the 2015 Leiden Manifesto for research metrics. Page fetched successfully (not paywalled). Article cites ~150 signatories (early count) rather than the later 2,500+ total; published 2026-06-07, a few days after the 2 June 2026 launch.

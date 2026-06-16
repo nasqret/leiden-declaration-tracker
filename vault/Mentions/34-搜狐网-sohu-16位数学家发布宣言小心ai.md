@@ -27,10 +27,6 @@ A Chinese-language news article reporting on the 2026 "Artificial Intelligence a
 
 > 科技行业遵循商业逻辑行事，这与数学的价值观背道而驰。 (The technology industry operates according to commercial logic, which runs counter to mathematics' values.)
 
-## Significance
-
-Sohu (搜狐) is one of China's largest web portals, giving the declaration significant reach to a Chinese audience. This piece is syndicated/republished from 北京日报 (Beijing Daily), a major state-affiliated newspaper; the article references Columbia University mathematician Michael Harris (a notable signatory). The author Li Muzi is a journalist, not a notable mathematician/AI figure. Part of a broad cluster of Chinese coverage (Sina, NetEase, Zhihu, Wenxuecity) of the declaration.
-
 ## Notes
 
 Relevance confirmed via WebFetch of the URL and corroborated by WebSearch showing multiple Chinese outlets covering the same 2026 declaration originating from the Sept 2025 Lorentz Center / Leiden University workshop. False-positive guard applied: this is the AI-and-mathematics declaration, NOT the 2015 Leiden Manifesto for research metrics. Note: the article and several Chinese reports cite "16 mathematicians" as drafters/authors of the declaration text, distinct from the 2,500+ total signatories.

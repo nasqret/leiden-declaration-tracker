@@ -27,10 +27,6 @@ Polish-language article covering the Leiden Declaration on Artificial Intelligen
 
 > The aim of mathematical research is human understanding of mathematics, so it can only develop within a community of human researchers. (Peter Scholze)
 
-## Significance
-
-MamStartup is a well-known Polish startup/tech news outlet, giving the declaration reach within Poland's tech and entrepreneurship community. The piece quotes notable figures (Peter Scholze, IMU vice-president Ulrike Tillmann) and ties the declaration to the OpenAI Erdős-conjecture proof controversy. Moderate influence: niche-but-established national tech media rather than a top-tier general newspaper.
-
 ## Notes
 
 Confirmed via direct WebFetch of the page plus corroborating search snippets. Clearly references the 2026 AI-and-mathematics Leiden Declaration (not the 2015 Leiden Manifesto for research metrics); false-positive guard passed. A syndicated/mirror copy also exists at lex.media.pl.

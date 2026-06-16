@@ -27,10 +27,6 @@ Dutch newspaper NRC reports on the 2026 Leiden Declaration on Artificial Intelli
 
 > Laat big tech niet bepalen welke wiskunde ertoe doet
 
-## Significance
-
-NRC is one of the Netherlands' leading national quality newspapers, giving the declaration prominent mainstream Dutch coverage. The author, Alex van den Brandhof, is NRC's regular mathematics journalist (himself a mathematician/teacher), lending domain credibility to the reporting.
-
 ## Notes
 
 Direct WebFetch of the NRC URL failed (publisher blocks fetching / paywall). Relevance and metadata were confirmed via the declaration's official news page (leidendeclaration.ai/news), which lists this exact NRC article by title, author (Alex van den Brandhof), outlet, and date (3 June 2026) as coverage of THIS 2026 AI-and-mathematics declaration. False-positive guard applied: this is the 2026 Leiden Declaration on AI and Mathematics, not the 2015 Leiden Manifesto for research metrics.

@@ -27,10 +27,6 @@ A Dutch-language article from HCC (the Dutch Hobby Computer Club) reporting on t
 
 > In de zogeheten Leiden Declaration on Artificial Intelligence and Mathematics waarschuwen zij dat AI grote kansen biedt, maar tegelijkertijd fundamentele waarden van de wiskunde onder druk zet.
 
-## Significance
-
-HCC (Hobby Computer Club) is one of the largest and oldest Dutch consumer computing/technology associations, giving the declaration broad reach to a general Dutch tech-enthusiast audience. The article appears to be a staff/editorial review piece (no individually notable author bylined); reach is moderate-to-major within the Netherlands consumer-tech sphere rather than an academic or international outlet.
-
 ## Notes
 
 Confirmed via WebFetch of the page and corroborating WebSearch results. The page explicitly names the "Leiden Declaration on Artificial Intelligence and Mathematics" and describes its AI-and-mathematics theme (proof verifiability, attribution, black-box concerns), matching the 2026 subject. This is NOT the 2015 Leiden Manifesto for research metrics. No individual author byline was identifiable. Publication date 2026-06-10 confirmed by search snippet.

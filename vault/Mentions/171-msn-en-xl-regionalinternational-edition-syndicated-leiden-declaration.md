@@ -27,10 +27,6 @@ Syndicated MSN news article reporting on the 2026 Leiden Declaration on AI and M
 
 > Some AI models are being commercialized for uses that raise serious ethical concerns, including warfare, oppression, mass surveillance, and the erosion of democracy. Many mathematicians did not anticipate their research being used for such purposes.
 
-## Significance
-
-MSN is a major high-traffic news aggregation/syndication platform owned by Microsoft, giving the declaration broad international reach. This en-xl edition appears to carry an English-translated syndicated wire/newspaper version of the story (phrasing such as "issued ... on the 2nd, local time" suggests translation from a foreign-language original).
-
 ## Notes
 
 Confirmed as referencing THIS 2026 declaration, not the 2015 Leiden Manifesto for research metrics: the article cites the Sept 2025 Leiden Lorentz Center workshop, IMU endorsement, 15 universities in five countries, the 16-member working group, and the proof/verification/peer-review themes. Confidence set to "likely" rather than "confirmed" because the live MSN page is JS-rendered/blocked (WebFetch returned only "MSN") and Wayback (web.archive.org) and archive.today were unreachable from this environment; verification relied on the US-locale search index, which surfaced the exact URL and substantive article content matching the declaration. Author byline and exact day-of-month could not be confirmed (date narrowed to June 2026, declaration published 2 June 2026).

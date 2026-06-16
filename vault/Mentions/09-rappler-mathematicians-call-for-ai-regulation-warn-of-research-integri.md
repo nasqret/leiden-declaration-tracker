@@ -27,10 +27,6 @@ Rappler reports on the 2026 Leiden Declaration on Artificial Intelligence and Ma
 
 > The declaration warns that AI produces "plausible but unreliable (or even incorrect)" arguments that are difficult to distinguish from correct proofs.
 
-## Significance
-
-Rappler is a major, internationally recognized Philippine news organization (founded by Nobel Peace Prize laureate Maria Ressa), giving the declaration significant reach in Southeast Asian and global English-language audiences. The article appears to be a staff/wire-style technology report rather than authored by a notable mathematician or AI figure; author byline could not be confirmed.
-
 ## Notes
 
 The live page returns HTTP 403 (bot-blocked) to WebFetch, so author and exact publication date could not be read directly. Relevance to THIS 2026 Leiden Declaration on AI and Mathematics is strongly corroborated via multiple search snippets that quote declaration-specific content (human autonomy, "plausible but unreliable" arguments, attribution/copyright concerns, policymaker recommendations, ~2,000 signatories, June 2026). False-positive guard applied: this is NOT the 2015 Leiden Manifesto for research metrics. Confidence set to 'likely' because the page text was confirmed only via snippets, not a full fetch. Date narrowed to June 2026 (publication month of the declaration, 2 June 2026); exact day unconfirmed.

@@ -27,10 +27,6 @@ Denise Vella-Chemla, an independent French mathematician (known for work on the 
 
 > "Recent developments in artificial intelligence threaten each of these values, often in ways that disproportionately affect students and early-career mathematicians, and hence the long term future of the discipline."
 
-## Significance
-
-Low-to-moderate reach. The host site is a personal academic page rather than a major outlet, but the owner, Denise Vella-Chemla, is a published French mathematician (number theory / Goldbach Conjecture), so this represents adoption/dissemination of the declaration within the working mathematics community. It signals the declaration's circulation in French mathematical circles.
-
 ## Notes
 
 CONFIRMED reference to THIS 2026 Leiden Declaration on AI and Mathematics (not the 2015 Leiden Manifesto): verified by extracting the PDF text, which contains the exact preamble, "June 2026", DOI 10.5281/zenodo.20302944, and the working-group list (Jim Portegies/Eindhoven, Bartosz Naskrecki, Rodrigo Ochigame/Leiden, etc.). CAVEAT: the candidate title describes this as a "traduction française (French translation)", but the hosted PDF is actually the ORIGINAL ENGLISH text of the declaration — zero French-accented characters were found across all 11 pages. The French-looking filename ("Declaration-de-Leyde-sur-IA-versus-maths.pdf") is just the host's naming; the document itself is in English. Language field set to 'en' accordingly. WebFetch could not parse the PDF directly; confirmation came from downloading and running pdftotext on the 11-page file.

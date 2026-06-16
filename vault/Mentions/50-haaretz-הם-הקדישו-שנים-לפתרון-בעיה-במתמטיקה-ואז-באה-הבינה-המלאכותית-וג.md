@@ -27,10 +27,6 @@ A feature story (Hebrew translation of a New York Times article by Gregory Barbe
 
 > The declaration recognized the benefits of AI, but also called for caution, expressing concern about tech companies' unwillingness to disclose fundamental insights into their methods, inadequate credit to human creators, and the tendency to present mathematical achievements as proof of "superintelligence."
 
-## Significance
-
-Major reference. Haaretz is Israel's leading liberal newspaper of record, and this is a syndicated translation of a New York Times piece by tech/science journalist Gregory Barber. The article frames the Leiden Declaration within a high-profile case (Viazovska's sphere-packing proof and AI attribution), giving the declaration prominent mainstream exposure in both Hebrew and English-speaking audiences.
-
 ## Notes
 
 Confirmed via WebFetch: article explicitly references the June 2, 2026 declaration with its signature themes (caution, method disclosure, credit to humans, anti-"superintelligence" hype). Not the 2015 Leiden Manifesto for research metrics. Originally a New York Times article; byline credits "New York Times / Gregory Barber." Page is accessible (not blocked); search snippet corroborated content.

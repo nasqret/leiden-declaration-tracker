@@ -27,10 +27,6 @@ Portuguese-language Tecnoblog Comunidade forum thread (the community/discussion 
 
 > Se simplesmente perguntamos a uma máquina e aceitamos sua resposta cegamente, sem entender o caminho, perdemos nossa independência intelectual.
 
-## Significance
-
-Tecnoblog is one of the largest and most established Brazilian technology news outlets, giving the declaration meaningful reach in the Portuguese-speaking world. This specific item, however, is the Tecnoblog Comunidade forum thread (user-facing community mirror), so its standalone editorial weight is lower than the main Tecnoblog news article; the poster is not a notable mathematician or AI figure.
-
 ## Notes
 
 Both the forum URL and the parent Tecnoblog news article returned HTTP 403 to direct WebFetch, so details were corroborated via WebSearch snippets rather than full-page read; hence confidence=likely. Relevance confirmed: snippets describe the 2026 Leiden Declaration on AI and Mathematics (Leiden University, ~60 academics, published 2 June 2026, 2,300+ signatories, calls for AI regulation/transparency), clearly NOT the 2015 Leiden Manifesto for research metrics. Exact author byline and precise day of publication could not be verified from snippets; date set to month-level (likely early June 2026, matching the 2 June 2026 declaration release).

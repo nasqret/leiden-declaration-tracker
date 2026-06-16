@@ -27,10 +27,6 @@ French-language tech news article reporting on the "Déclaration de Leyde sur l'
 
 > Les modèles d'intelligence artificielle peuvent produire des arguments plausibles mais peu fiables (voire erronés) qu'il est difficile de distinguer de preuves mathématiques correctes.
 
-## Significance
-
-Developpez.com is a major, long-established French-language software developer and IT news community (one of the largest francophone tech portals), giving the declaration meaningful reach into the French-speaking developer/IT audience. The author, Patrick Ruiz, is a regular Developpez.com news contributor rather than a notable mathematician or AI researcher.
-
 ## Notes
 
 Confirmed reference to THIS 2026 Leiden Declaration on AI and Mathematics (Lorentz Center/Leiden University origin, IMU endorsement, ~2,000+ signatories, "plausible but erroneous proofs" theme). Not the 2015 Leiden Manifesto for research metrics. The article outlines the declaration's five main concerns: unreliable proofs, improper citation/attribution, disrupted recruitment and funding mechanisms, informal research communication, and increased corporate influence on mathematical autonomy. Cross-checked via WebSearch; a companion forum discussion thread exists on developpez.net.

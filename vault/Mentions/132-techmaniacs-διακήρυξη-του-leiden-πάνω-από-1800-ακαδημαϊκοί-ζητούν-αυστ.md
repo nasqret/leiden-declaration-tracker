@@ -27,10 +27,6 @@ Greek-language tech news article reporting on the 2026 Leiden Declaration on AI 
 
 > Θα πρέπει να αναφέρουν αν έχει γίνει χρήση κάποιου LLM και τι ακριβώς έχει συνεισφέρει στην έρευνα (Researchers must disclose whether an LLM has been used and exactly what it contributed to the research).
 
-## Significance
-
-Techmaniacs is a Greek technology news blog/portal with regional readership; not a major international outlet, but it extends coverage of the declaration into Greek-language media. Authored by Dimitrios Amprazis, a regular Techmaniacs tech writer. Reflects moderate, localized reach rather than broad influence.
-
 ## Notes
 
 Direct page fetched successfully (not blocked). Confirmed as referencing THIS 2026 declaration via explicit mentions of mathematics, peer review, human accountability, LLM-disclosure, and IMU endorsement; passes the false-positive guard (not the 2015 Leiden Manifesto for research metrics). Signatory count cited in headline (1,800+) is lower than the 2,500+ figure, consistent with an earlier reporting snapshot. Corroborated via WebSearch snippet.

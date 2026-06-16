@@ -27,10 +27,6 @@ Slashdot post (sourced from Ars Technica) covering the 2026 Leiden Declaration, 
 
 > "The Leiden Declaration is a well-thought-through response to what is currently happening, as AI continues to disrupt this space." — Kevin Buzzard, Imperial College London
 
-## Significance
-
-Slashdot is a major, long-running, high-traffic tech news aggregation/discussion site, so the post carries significant reach within the tech and developer community and drives substantial discussion. The post is by editor BeauHD (not a mathematician), aggregating an Ars Technica article; the embedded quote is from Kevin Buzzard, a notable mathematician (Lean/formalization) and a named signatory of the declaration.
-
 ## Notes
 
 Confirmed this references THIS 2026 Leiden Declaration on AI and mathematics, not the 2015 Leiden Manifesto for research metrics. Opening sentence: "A new Leiden Declaration, endorsed by the International Mathematical Union and published on June 2, 2026, warns that AI could undermine mathematics..." Original source is Ars Technica; Slashdot dept line is "tech-influence dept." Outlet_type set to 'forum' as Slashdot is primarily a community discussion/aggregation site; could also be characterized as a tech news blog.

@@ -27,10 +27,6 @@ Russian-language news item (republished from Tochka.by on the regional Belarusia
 
 > Более 150 ведущих математиков из разных стран опубликовали «Лейденскую декларацию», в которой призвали научное сообщество и власти не принимать громкие заявления разработчиков искусственного интеллекта за реальные математические прорывы.
 
-## Significance
-
-Minor regional Belarusian news aggregator (virtualbrest.ru, Brest), not a major outlet; this is a syndicated republication of Tochka.by content. No notable mathematician or AI figure is the author. Demonstrates how the Leiden Declaration story spread through regional Russian-language news syndication, but low individual influence.
-
 ## Notes
 
 Confirmed as THIS 2026 Leiden Declaration on AI and Mathematics, NOT the 2015 Leiden Manifesto for research metrics. WebFetch's summarizer could only extract the headline, intro and metadata (date 2026-06-14, source tochka.by) and did not surface the body text, so the in-body 'Лейденская декларация' reference could not be read directly. However, the exact headline and lede match the broad Russian coverage cluster of this declaration (Rambler, Naked Science, Habr, Shazoo), all of which explicitly name «Лейденскую декларацию об искусственном интеллекте и математике» with matching themes (hallucinated/plausible-but-wrong proofs, avoiding peer review, attribution/license violations, IMU endorsement). Set to 'likely' rather than 'confirmed' because the Leiden reference was corroborated via the syndication cluster and search snippets rather than read directly on this page. Date is the republication timestamp shown on Virtual Brest (June 14, 2026, 22:23).

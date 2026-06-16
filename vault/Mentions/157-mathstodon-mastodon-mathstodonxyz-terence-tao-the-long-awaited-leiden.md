@@ -27,10 +27,6 @@ Mathematician Terence Tao announces on Mastodon that the Leiden Declaration on A
 
 > The long-awaited "Leiden Declaration" on Artificial Intelligence and Mathematics is now live and seeking signatories.
 
-## Significance
-
-High influence. Terence Tao is a Fields Medalist and one of the world's most prominent mathematicians, and is a named notable signatory of the declaration; his Mathstodon account has a very large following, so this post is a major amplification channel. He notes he gave feedback on an early version but was not part of the working group itself.
-
 ## Notes
 
 Confirmed via the public Mastodon API (https://mathstodon.xyz/api/v1/statuses/116681023979910132): created_at 2026-06-02T14:38:52Z, language en, account display_name "Terence Tao", username "tao". The post unambiguously references THIS 2026 Leiden Declaration on AI and Mathematics (cites the September Leiden/Lorentz workshop and AI-and-mathematics theme), not the 2015 Leiden Manifesto for research metrics. The HTML page is JS-rendered so direct WebFetch of the page returned only the header; the API call returned the post body and metadata.

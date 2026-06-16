@@ -27,10 +27,6 @@ The Italian Mathematical Union's website reports on the 2026 Leiden Declaration 
 
 > La dichiarazione e ufficialmente sostenuta dall'Unione Matematica Internazionale (IMU).
 
-## Significance
-
-The UMI (Unione Matematica Italiana) is Italy's national mathematical society and the official institutional voice of the Italian mathematics community, giving this an authoritative national-society reach. The post is editorial coverage rather than authored by a notable mathematician; byline shown as Luigi Amedeo. Significance comes from the outlet's institutional standing relaying the IMU-endorsed declaration to Italian mathematicians.
-
 ## Notes
 
 Confirmed via WebFetch this is the 2026 Leiden Declaration (AI and mathematics), explicitly distinct from the 2015 Leiden Manifesto for research metrics. Corroborating details present: IMU endorsement, Lorentz/NIAS September 2025 workshop, Jim Portegies/Eindhoven, 60 participants from 10 countries, link to leidendeclaration.ai. The page does not mention Terence Tao or the 2,500+ signatory count; it cites 16 authors from 15 universities. URL path date (06/05) and on-page date (5 Giugno 2026) agree; the declaration itself was published 2 June 2026.

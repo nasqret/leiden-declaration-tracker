@@ -27,10 +27,6 @@ Tecnoblog reports on the 2026 Leiden Declaration on Artificial Intelligence and 
 
 > A IA tende a apresentar resultados de forma tão convincente que parece não haver erros, mesmo quando há. (per article summary: AI tends to present results so convincingly that it seems there are no errors, even when there are.)
 
-## Significance
-
-Tecnoblog is one of Brazil's largest and most-read consumer technology news outlets, giving the declaration significant reach with a Portuguese-speaking general/tech audience. The piece is staff-written technology journalism rather than authored by a notable mathematician or AI figure.
-
 ## Notes
 
 Both the news URL and the Tecnoblog community mirror return HTTP 403 to WebFetch, so author and exact day-of-month could not be confirmed; details (Leiden University, ~60 academics, 2 June 2026 publication, regulation/transparency/no-AI-co-authorship asks) corroborated via multiple search-result snippets. Confidently THIS 2026 Leiden Declaration on AI and mathematics, not the 2015 Leiden Manifesto for research metrics. Confidence set to 'likely' because the page itself was unreachable. A separate Tecnoblog Comunidade forum thread mirrors the same article at https://tecnoblog.net/comunidade/t/matematicos-alertam-nao-confiem-cegamente-na-ia/161644

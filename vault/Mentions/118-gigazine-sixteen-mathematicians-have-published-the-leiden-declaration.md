@@ -27,10 +27,6 @@ English-edition GIGAZINE article reporting that sixteen mathematicians published
 
 > mathematics is not merely an accumulation of results, but a human endeavor that fosters understanding, clarity, and judgment
 
-## Significance
-
-GIGAZINE is a high-traffic Japanese technology/news site (this is its English edition), giving the declaration reach into Japanese and international tech audiences. The article correctly attributes the project to Jim Portegies (Eindhoven University of Technology), cites the IMU endorsement and IMU Vice President Ulrike Tillmann, and traces the origin to the September 2025 Lorentz Center workshop at Leiden University.
-
 ## Notes
 
 Confirmed via direct WebFetch of the page plus corroborating US-locale WebSearch snippet. References match all guard criteria for the 2026 AI-and-mathematics declaration (Portegies, TU/e, IMU, Lorentz Center, five threats); not the 2015 Leiden Manifesto. Outlet typed as 'blog' given GIGAZINE's blog-style news format; could reasonably be 'newspaper'/online news.

@@ -27,10 +27,6 @@ A LinkedIn News curated "story" aggregating coverage of the Leiden Declaration o
 
 > [The declaration] seeks to address the growing influence of artificial intelligence on mathematics, and raises concerns about accuracy and ethical implications... It aims to ensure that the values of the math community are upheld as AI continues to evolve.
 
-## Significance
-
-LinkedIn News is a major professional-network aggregator with very large reach (LinkedIn News stories surface to millions of users), giving the declaration significant business/professional visibility. The story is editorially curated rather than authored by a notable mathematician; it cites supporter Ken Ono (mathematician, former AMS VP) and points to leidendeclaration.ai.
-
 ## Notes
 
 Confirmed via WebFetch of the page (references leidendeclaration.ai, June 2 2026 publication, AI-overhype warning, 150+ professors) and corroborated by parallel search results (Scientific American, BigGo Finance, Let's Data Science) describing the same 2026 Leiden Declaration on AI and Mathematics. False-positive guard applied: this is NOT the 2015 Leiden Manifesto for research metrics. LinkedIn News stories are curated link-collections, so there is no single named author and the displayed body text is an editorial summary.

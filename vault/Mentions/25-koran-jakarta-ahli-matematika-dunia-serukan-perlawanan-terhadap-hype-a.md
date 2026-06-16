@@ -27,10 +27,6 @@ An Indonesian-language newspaper report on the 2026 Leiden Declaration on Artifi
 
 > AI developers have strong commercial incentives to exaggerate product capabilities; claims following market timelines rather than peer-reviewed science can mislead by using certain mathematical tasks as metrics of general reasoning ability.
 
-## Significance
-
-Koran Jakarta is an established Indonesian national daily newspaper, giving the declaration coverage in the Indonesian-language press. The article cites IMU Vice President Ulrike Tillmann and declaration author Michael Harris (Columbia), and references Fields Medalist Terence Tao, indicating substantive reporting.
-
 ## Notes
 
 Confirmed via WebFetch of the live page and corroborating WebSearch snippets. The article names the "Leiden Declaration," IMU endorsement, AI-hype/verification themes, and signatory-related figures (Terence Tao, Michael Harris). Jim Portegies and the Lorentz Center are not named in this particular article, but the subject is unambiguously the 2026 AI-and-mathematics declaration. False-positive guard passed (not the 2015 Leiden Manifesto). Author byline not specified in the page content.

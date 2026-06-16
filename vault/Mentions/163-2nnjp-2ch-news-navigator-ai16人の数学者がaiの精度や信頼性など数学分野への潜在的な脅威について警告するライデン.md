@@ -27,10 +27,6 @@ A 2ch/5ch news-thread aggregator page (Science+ board) collecting discussion aro
 
 > 16人の数学者がAIの精度や信頼性など数学分野への潜在的な脅威について警告する「ライデン宣言」を発表
 
-## Significance
-
-Low individual influence. 2nn.jp is a Japanese thread/headline aggregator (2ch news navigator) that mirrors and links community discussion of an upstream GIGAZINE report rather than original reporting; no named author or notable mathematician/AI figure is involved. Value is as evidence of Japanese-language pickup and grassroots online discussion of the declaration. The page itself omits Tao/IMU/Portegies/Lorentz Center details (those appear in fuller Japanese coverage such as GIGAZINE, Ledge.ai, and Yahoo News Japan).
-
 ## Notes
 
 Relevance confirmed via WebFetch of the page and corroborating Japanese searches; this references THIS 2026 AI-and-mathematics declaration, NOT the 2015 Leiden Manifesto for research metrics. The page is an aggregator of a GIGAZINE article; details (16 mathematicians, 15 universities, 2 June 2026, proof reliability/attribution/autonomy) match the subject. Related Japanese coverage of the same declaration found: GIGAZINE (source), Ledge.ai, Yahoo News Japan (expert column by 佐藤仁), business+IT/sbbit.jp, plus note.com commentary.

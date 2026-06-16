@@ -27,10 +27,6 @@ Northwestern's Weinberg College news announces the release of the 2026 Leiden De
 
 > Mathematicians must be part of shaping these changes rather than merely reacting to them. This declaration is a call for such engagement. (Bryna Kra)
 
-## Significance
-
-Institutional outlet (Northwestern University / Weinberg College news), so reach is primarily within the university and academic community rather than mass-market. However, it is notable because the subject, Bryna Kra (Sarah Rebecca Roland Professor of Mathematics, former president of the American Mathematical Society, member of the U.S. National Academy of Sciences), is a prominent mathematician and one of the declaration's 16 authors who served on the drafting working group. This corroborates the declaration's authorship and institutional uptake.
-
 ## Notes
 
 Confirmed reference to THIS 2026 Leiden Declaration on AI and Mathematics (Lorentz Center Sept 2025 workshop, five AI threats to proof/peer review/attribution). Not the 2015 Leiden Manifesto for research metrics. No individual byline; institutional press piece. Page fetched successfully and not paywalled.

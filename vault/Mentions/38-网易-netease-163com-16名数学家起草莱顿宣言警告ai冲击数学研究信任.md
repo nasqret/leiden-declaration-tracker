@@ -27,10 +27,6 @@ Chinese-language news report (a NetEase republication of an IT之家/IT Home art
 
 > 数学不仅是一系列结果的集合，更是一种培养理解力、清晰表达和判断力的人类活动 ("mathematics is not merely a collection of results, but a human activity cultivating understanding, clear expression, and judgment").
 
-## Significance
-
-NetEase (163.com) is one of China's largest web portals; this is a syndicated republication of an IT之家 (IT Home) article, itself a major Chinese tech-news outlet. The piece was widely syndicated across Chinese media (Sina, Sohu, Wenxuecity), indicating broad reach in the Chinese-language tech press. The byline is an outlet, not a notable mathematician or AI figure; no individual signatories (Tao, Scholze, etc.) are named in the article.
-
 ## Notes
 
 Confirmed via WebFetch of the target URL and corroborated by WebSearch showing the same headline syndicated across Sina, Sohu, and Wenxuecity. False-positive guard applied: this is the 2026 AI-and-mathematics Leiden Declaration (Lorentz Center workshop, IMU endorsement, AI threats to proof/attribution), NOT the 2015 Leiden Manifesto for research metrics. The article does not name individual signatories. Outlet_type set to "newspaper" as the closest match for a major news portal; effectively a wire/syndicated republication.

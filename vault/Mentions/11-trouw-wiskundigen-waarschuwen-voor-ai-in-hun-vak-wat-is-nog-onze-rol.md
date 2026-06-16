@@ -27,10 +27,6 @@ Science-section feature in Trouw on the Leiden Declaration on AI and Mathematics
 
 > Wiskundigen waarschuwen voor AI in hun vak: wat is nog onze rol?
 
-## Significance
-
-Trouw is a leading Dutch national daily — significant mainstream Dutch coverage, emphasising the human-authorship/responsibility angle of the declaration.
-
 ## Notes
 
 Added 2026-06-16, flagged as missed by co-author Rodrigo Ochigame. Page is paywalled and blocks automated fetch (WebFetch failed); title reconstructed from the URL slug, relevance corroborated by Dutch-language search snippets. Confidence 'likely'; exact date/author to confirm. Not the 2015 Leiden Manifesto.

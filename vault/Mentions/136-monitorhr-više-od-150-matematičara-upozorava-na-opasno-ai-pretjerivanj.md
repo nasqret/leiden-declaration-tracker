@@ -27,10 +27,6 @@ Croatian tech news article reporting that 150+ prominent mathematicians signed t
 
 > Više od 150 uglednih matematičara potpisalo je 'Leidensku deklaraciju'... upozorava na etičke rizike komercijalizacije takvih modela.
 
-## Significance
-
-Monitor.hr is a Croatian technology news website; this is a regional/secondary outlet that sourced the story from Bug.hr (another Croatian tech site). Demonstrates the declaration's reach into Croatian-language tech media, though not a major international outlet. No notable individual author or signatories named.
-
 ## Notes
 
 Confirmed via WebFetch of the live page and corroborated by WebSearch snippet. Explicitly references THIS 2026 Leiden Declaration on AI and Mathematics (the "don't believe the hype"/policymaker warning, proof/verification, human oversight, AI hallucinations). Not the 2015 Leiden Manifesto. Article notes it is sourced from Bug.hr; no individual byline. Specific signatories (Tao, Scholze) not named in the article.

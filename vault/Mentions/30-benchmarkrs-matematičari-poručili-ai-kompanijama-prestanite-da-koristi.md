@@ -27,10 +27,6 @@ Serbian tech news article covering the Leiden Declaration, in which the internat
 
 > trenutni način razvoja i primene AI sistema ugrožava nekoliko temeljnih principa na kojima matematika počiva (the current way AI systems are developed and applied threatens several foundational principles on which mathematics rests)
 
-## Significance
-
-Benchmark.rs is one of Serbia's most established and widely read technology news outlets, indicating the declaration received mainstream coverage in the Serbian-language tech press. The article highlights the endorsement by Fields Medalist Peter Scholze and the International Mathematical Union.
-
 ## Notes
 
 Confirmed via direct WebFetch of the live page; content explicitly references the 2026 Leiden Declaration on AI and Mathematics, IMU endorsement, Scholze, and the AI-threatens-mathematics theme. Not the 2015 Leiden Manifesto. Date June 4, 2026, two days after the June 2 publication of the declaration.

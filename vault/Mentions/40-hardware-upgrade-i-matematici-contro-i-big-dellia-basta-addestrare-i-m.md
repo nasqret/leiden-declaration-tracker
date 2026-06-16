@@ -27,10 +27,6 @@ Italian tech-news article covering the 2026 Leiden Declaration on AI and Mathema
 
 > La matematica è, e dovrebbe sempre restare, un'impresa profondamente umana
 
-## Significance
-
-Hardware Upgrade (hwupgrade.it) is one of Italy's largest and long-established consumer tech/IT news outlets, giving the declaration mainstream Italian-language reach. The article is written by staff journalist Andrea Bai (not a mathematician or AI figure). It correctly references the IMU endorsement, the September 2025 Lorentz Center workshop in Leiden, the working group, and signatories including Fields medalist Peter Scholze and IMU vice president Ulrike Tillmann.
-
 ## Notes
 
 Confirmed via WebFetch as referencing THIS 2026 Leiden Declaration on AI and mathematics (leidendeclaration.ai); not the unrelated 2015 Leiden Manifesto for research metrics. Article correctly cites IMU approval, the September 2025 Lorentz Center workshop, the ~8-month development, and named signatories (Peter Scholze, Ulrike Tillmann, Leslie Ann Goldberg). The cited representative quote is attributed in the article to Ulrike Tillmann.

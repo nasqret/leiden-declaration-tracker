@@ -27,10 +27,6 @@ Turkish tech news site reports on the 2026 "Leiden Yapay Zekâ ve Matematik Bild
 
 > Yapay zekânın matematiksel akıl yürütmede devrim yarattığı yönündeki iddialar gerçeği yansıtmıyor; sistemler kulağa son derece ikna edici gelen ama gerçekte hatalı olan matematiksel kanıtlar üretebiliyor.
 
-## Significance
-
-Donanım Haber is one of Turkey's largest and most-visited technology news outlets, giving the declaration meaningful reach to a Turkish-language general-tech audience. The article names declaration-related figures Rodrigo Ochigame (Leiden University) and Leslie Ann Goldberg (Oxford); no notable mathematician or AI figure is the author (staff/editorial piece).
-
 ## Notes
 
 Confirmed via WebFetch of the page plus corroborating WebSearch snippets (related Turkish coverage by TGRT Haber, Dünya Gazetesi, ÇözümPark). Clearly references THIS 2026 Leiden Declaration on AI and Mathematics (11-page document, AI-generated false proofs, IMU-context themes), not the 2015 Leiden Manifesto for research metrics. Author byline not surfaced; treated as staff/editorial.

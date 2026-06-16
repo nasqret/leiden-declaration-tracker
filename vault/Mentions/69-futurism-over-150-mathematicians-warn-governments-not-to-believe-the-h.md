@@ -27,10 +27,6 @@ Futurism reports on the 2026 Leiden Declaration on AI and Mathematics, signed by
 
 > "Current automated techniques can produce plausible but unreliable (or even incorrect) arguments which are difficult to distinguish from correct mathematical proofs."
 
-## Significance
-
-Futurism is a major, high-traffic English-language tech/science news outlet with broad reach (article also syndicated to Yahoo News and aggregated by Memeburn). Author Victor Tangermann is a senior/established Futurism tech journalist, not a mathematician or AI researcher, so the influence is via outlet reach rather than authorial expertise.
-
 ## Notes
 
 Confirmed this references THIS 2026 Leiden Declaration (leidendeclaration.ai, Lorentz Center Sept 2025 workshop, AI-and-mathematics theme), not the 2015 Leiden Manifesto for research metrics. WebFetch of the page directly confirmed the declaration name, link, and quotes; corroborated by Wikipedia, The Next Web, Yahoo syndication, and Memeburn aggregation. Headline cites "over 150" signatories (lower than the 2,500+ total noted in the subject brief), likely reflecting an early/initial signatory count at time of publication.

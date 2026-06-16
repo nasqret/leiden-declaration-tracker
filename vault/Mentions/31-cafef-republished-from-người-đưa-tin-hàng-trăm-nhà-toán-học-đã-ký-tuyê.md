@@ -27,10 +27,6 @@ Vietnamese-language news article reporting that hundreds of mathematicians world
 
 > AI-generated papers containing errors are like houses built on rotten foundations that will eventually collapse (paraphrasing Leslie Ann Goldberg, Oxford).
 
-## Significance
-
-CafeF is a major, high-traffic Vietnamese business and finance news portal (run by VCCorp), giving this republished piece (originally from Người Đưa Tin) significant reach in Vietnam. The article cites notable Fields Medalist Peter Scholze and Lean formalization advocate Kevin Buzzard, confirming reference to the genuine 2026 declaration.
-
 ## Notes
 
 Confirmed as referencing THIS 2026 Leiden Declaration on AI and Mathematics, not the 2015 Leiden Manifesto on research metrics: signatory names (Scholze, Buzzard), the Goldberg quote, transparency/attribution/peer-review themes, and criticism of tech-company hype all match. Article does not name Terence Tao or use the exact "don't believe the hype" phrasing, but conveys the same anti-hype warning. Verified via direct WebFetch of the live page plus corroborating WebSearch snippets.

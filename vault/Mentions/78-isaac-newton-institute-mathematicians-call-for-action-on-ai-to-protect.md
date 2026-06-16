@@ -27,10 +27,6 @@ Institutional news article from the Isaac Newton Institute for Mathematical Scie
 
 > A new international declaration is calling on mathematicians, research organisations and governments to act now to protect the core values of mathematics in the age of artificial intelligence.
 
-## Significance
-
-High institutional weight: the Isaac Newton Institute is one of the world's leading mathematical sciences research institutes (University of Cambridge). The piece quotes INI Director Prof. Ulrike Tillmann FRS, a prominent mathematician and IMU vice president, lending notable disciplinary authority; the INI also states it contributed to the declaration's development.
-
 ## Notes
 
 Direct WebFetch of the URL returned HTTP 403 Forbidden, but relevance is strongly corroborated by multiple independent WebSearch snippets quoting the article verbatim (references to the Leiden Declaration on Artificial Intelligence and Mathematics, the 2025 Lorentz Center workshop, IMU endorsement, five threats, and INI Director Ulrike Tillmann). Confirmed as referencing THIS 2026 AI-and-mathematics declaration, not the 2015 Leiden Manifesto for research metrics. Exact publication day within June 2026 not visible in snippets (declaration published 2 June 2026; article is contemporaneous).

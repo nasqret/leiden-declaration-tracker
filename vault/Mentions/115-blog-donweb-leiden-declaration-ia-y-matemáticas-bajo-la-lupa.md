@@ -27,10 +27,6 @@ Spanish-language blog post by web-hosting company DonWeb covering the 2026 Leide
 
 > La matemática no es un negocio de time to market.
 
-## Significance
-
-Minor influence. DonWeb is a Latin American (Argentine) web-hosting/domains company whose blog is general-interest tech content, not a mathematics or scientific outlet, and the post is uncredited editorial rather than authored by a notable mathematician or AI researcher. It correctly links to the official leidendeclaration.ai but does not mention specific signatories (e.g., Tao, Scholze) or the IMU endorsement. Useful as evidence of broad/general-audience Spanish-language pickup of the declaration.
-
 ## Notes
 
 Confirmed this references THIS 2026 Leiden Declaration on AI and mathematics (links to leidendeclaration.ai, June 2026 publication, AI-vs-mathematics theme); not the 2015 Leiden Manifesto for research metrics. Note: WebFetch read the on-page H1 as "Leiden Declaration: la IA desafía a las matemáticas," but the search-indexed/candidate title is "Leiden Declaration: IA y matemáticas bajo la lupa"; the latter was used.
