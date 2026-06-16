@@ -47,14 +47,17 @@ we never explicitly searched.
       reconstructed because the page is paywalled).
 - [x] Regenerated the vault + landing page; redeployed Pages.
 
-### Phase 1 — Close the language/region gap (highest leverage)
-- [ ] Add explicit **per-language lenses** for every missing language, each
-      querying **in-native-language** with *both* "Leiden Declaration" **and** the
-      local translated name. Priority: Polish, Nordic (sv/no/da/fi), Czech,
-      Slovak, Hungarian, Romanian, Bulgarian, Greek, Ukrainian, Hebrew, Hindi +
-      other major Indian languages, Indonesian/Malay, Vietnamese, Thai, Tagalog.
-- [ ] **Seed each language** with that country's top 5–10 national outlets by name
-      (e.g. PL: Wyborcza, Rzeczpospolita, Onet, WP, Spider's Web, Nauka w Polsce).
+### Phase 1 — Close the language/region gap (highest leverage) — DONE 2026-06-16
+- [x] Ran **24 native-language lenses** (querying in-language + local translation,
+      seeded with national outlets). Result: **+33 mentions in 13 new languages**
+      (Catalan, Croatian, Czech, Greek, Hebrew, Hungarian, Indonesian, Norwegian,
+      Persian, Romanian, Serbian, Thai, Vietnamese). Catalogue 131 → 171;
+      languages 15 → 27; now 44 countries.
+- Lesson: the `args` dedup list did not arrive in the workflow as an array
+  (`Array.isArray(args)` false → empty), so the in-workflow pre-filter was a
+  no-op and ~57 already-known URLs were re-verified; final dedupe-on-merge kept
+  the data correct. Next time embed the existing-URL set in the script (as done
+  for the geo-enrichment step) rather than relying on `args`.
 
 ### Phase 2 — Higher-recall discovery beyond keyword search
 - [ ] Mine **Altmetric / Crossref Event Data** for DOI `10.5281/zenodo.20302944`
@@ -82,5 +85,9 @@ we never explicitly searched.
       append only.
 
 ## Honest status line
-This catalog should be read as **"≥132 verified mentions, high precision,
-recall-limited for non-enumerated languages,"** until Phases 1–2 run.
+After Phases 1–2: **171 verified mentions, 27 languages, 44 countries** — high
+precision, far broader recall. Still a lower bound: long-tail regional/social
+coverage continues to grow, and some flagged items remain open (e.g. a John
+Horgan post we could not locate; paywalled items like Le Figaro held at
+`likely`). The adversarial pass also rejected a circulating false claim that
+Yann LeCun signed (he did not — see the vault Analysis note).

@@ -6,7 +6,7 @@ tags: [moc, home]
 
 Knowledge base tracking **every traced mention** of the [[Leiden Declaration on AI and Mathematics]] across the internet — newspapers, magazines, blogs, institutional announcements and social media.
 
-- **Total verified mentions:** 165
+- **Total verified mentions:** 171
 - **Declaration published:** 2026-06-02
 - **Knowledge base generated:** 2026-06-16
 
@@ -45,7 +45,7 @@ Reach was broad and genuinely global rather than niche. Tier-one validation came
 
 ## Mentions by category
 
-### 📰 Newspapers & wire services (56)
+### 📰 Newspapers & wire services (59)
 
 - [[TGRT Haber — Hükümetlere yapay zekâ uyarısı- Bildiri yayınladılar]]
 - [[Neue Zürcher Zeitung (NZZ) — KI knackt ein 80 Jahre altes Mathe-Rätsel – ein Wen]] — _2026_
@@ -54,6 +54,7 @@ Reach was broad and genuinely global rather than niche. Tier-one validation came
 - [[Gazeta Wyborcza — Matematycy bronią matematyki przed AI. Tysiące podpisów pod de]] — _2026-06_
 - [[ICT Global — Az AI-körüli hype veszélyeire figyelmeztet egy századnyi tudós]] — _2026-06_
 - [[Mediatize — Los matemáticos advierten de que «no hay que creerse todo lo que se]] — _2026-06_
+- [[RTS (Radio Télévision Suisse) — La résolution d'un vieux problème par l'IA pouss]] — _2026-06_
 - [[Rappler — Mathematicians call for AI regulation, warn of research integrity cris]] — _2026-06_
 - [[TechRider.ro — Inteligența artificială va schimba radical modul în care facem ma]] — _2026-06 · George Radu_
 - [[Yahoo News Japan Expert (Yahoo!ニュース エキスパート) — 数学者らが過度なAI利用に警鐘「ライデン宣言」――あらゆる分野で必要]] — _2026-06 · 佐藤仁 (Sato Jin)_
@@ -66,6 +67,7 @@ Reach was broad and genuinely global rather than niche. Tier-one validation came
 - [[The New York Times — As A.I. Makes Strides in Mathematics, Mathematicians Urge C]] — _2026-06-02 · Siobhan Roberts_
 - [[Al Jazeera (الجزيرة نت) — 150 عالما في الرياضيات يحذرون من -الهالة الكبيرة- حول]] — _2026-06-03_
 - [[Canadian Affairs — Mathematicians say 'don't believe hype' on AI capabilities]] — _2026-06-03 · Agence France-Presse (AFP)_
+- [[Clubic — Une preuve produite par l'IA est-elle vraiment fiable -]] — _2026-06-03 · Mélina Loupia_
 - [[Dailynews (เดลินิวส์) — นักคณิตศาสตร์เตือน -อย่าหลงเชื่อโฆษณาเกินจริง- เกี่ยวกับ]] — _2026-06-03_
 - [[Koran Jakarta — Ahli Matematika Dunia Serukan Perlawanan terhadap Hype AI, Sebut]] — _2026-06-03_
 - [[NRC — Laat big tech niet bepalen welke wiskunde ertoe doet]] — _2026-06-03 · Alex van den Brandhof_
@@ -95,6 +97,7 @@ Reach was broad and genuinely global rather than niche. Tier-one validation came
 - [[Haaretz — הם הקדישו שנים לפתרון בעיה במתמטיקה. ואז באה הבינה המלאכותית ו-גנבה לה]] — _2026-06-10 · Gregory Barber_
 - [[The Cool Down — More than 150 math experts tell governments not to trust AI hype]] — _2026-06-10 · Vivian Tran_
 - [[Рамблер-новости — Более 150 математиков призвали правительства не верить ажиотаж]] — _2026-06-10 · Naked-Science.ru (syndicated)_
+- [[Le Figaro (FigaroVox) — OpenAI s'appuie sur le travail de nombreux mathématicien]] — _2026-06-11 · Aurélie Jean_
 - [[Yomiuri Shimbun Online (via Yahoo News Japan) — 「未解決の証明問題がＡＩで解けた」と相次ぐ報告、正しいか「見分け]] — _2026-06-13 · Yomiuri Shimbun (読売新聞, staff/no individual byline)_
 - [[Российская газета (via Рамблер-новости) — Более 150 ведущих математиков мира при]] — _2026-06-13_
 - [[El Español (Omicrono) — Los matemáticos coinciden- -La IA es capaz de crear argu]] — _2026-06-14 · Álvarez del Vayo_
@@ -201,7 +204,7 @@ Reach was broad and genuinely global rather than niche. Tier-one validation came
 - [[Shazoo — Более 150 математиков призвали правительства не верить хайпу вокруг воз]] — _2026-06-12 · Коэн (Cohen)_
 - [[Webnews.it — AI e matematica, l'avvertimento di oltre 150 ricercatori- entusiasm]] — _2026-06-12 · Silvia Dalia_
 
-### 📨 Newsletters (6)
+### 📨 Newsletters (9)
 
 - [[AI Weekly — Leiden Declaration on AI and Mathematics- 130+ Researchers and Inter]] — _2026-06-02_
 - [[Implicator.ai — Mathematicians Issue Leiden Declaration on AI Proof Rules]] — _2026-06-02 · Marcus Schuler_
@@ -209,6 +212,9 @@ Reach was broad and genuinely global rather than niche. Tier-one validation came
 - [[Silicon Reckoner (Michael Harris, Substack) — The Leiden Declaration on Artifici]] — _2026-06-02 · Michael Harris_
 - [[Silicon Reckoner (Michael Harris, Substack) — Comments on- The Leiden Declaratio]] — _2026-06-02 · Michael Harris_
 - [[Dr. Jason Polak (Substack) — The Leiden Declaration on AI is pathetic]] — _2026-06-03 · Jason Polak_
+- [[How Math Saves the World (Substack) — When AI Came for Math, The Mathematicians]] — _2026-06-03 · Thomas_
+- [[The Synthesis (Substack) — The Leiden Declaration is a job application, not a pr]] — _2026-06-10 · The Synthesis (no individual byline)_
+- [[Silicon Reckoner — -there's this like massive exogenous force- haunting mathemat]] — _2026-06-13 · Michael Harris_
 
 ### 💬 Social media (8)
 
@@ -245,11 +251,11 @@ Reach was broad and genuinely global rather than niche. Tier-one validation came
 
 ## Mentions by country (44 countries)
 
-- [[United States (country)\|United States]] — 37
+- [[United States (country)\|United States]] — 40
 - [[Netherlands (country)\|Netherlands]] — 13
 - [[Japan (country)\|Japan]] — 12
 - [[China (country)\|China]] — 9
-- [[France (country)\|France]] — 7
+- [[France (country)\|France]] — 9
 - [[Germany (country)\|Germany]] — 7
 - [[Italy (country)\|Italy]] — 6
 - [[Russia (country)\|Russia]] — 6
@@ -257,9 +263,9 @@ Reach was broad and genuinely global rather than niche. Tier-one validation came
 - [[United Kingdom (country)\|United Kingdom]] — 5
 - [[Brazil (country)\|Brazil]] — 4
 - [[Poland (country)\|Poland]] — 4
+- [[Switzerland (country)\|Switzerland]] — 4
 - [[Turkey (country)\|Turkey]] — 4
 - [[Croatia (country)\|Croatia]] — 3
-- [[Switzerland (country)\|Switzerland]] — 3
 - [[Vietnam (country)\|Vietnam]] — 3
 - [[Czechia (country)\|Czechia]] — 2
 - [[Greece (country)\|Greece]] — 2
@@ -289,6 +295,10 @@ Reach was broad and genuinely global rather than niche. Tier-one validation came
 - [[South Africa (country)\|South Africa]] — 1
 - [[Thailand (country)\|Thailand]] — 1
 - [[Venezuela (country)\|Venezuela]] — 1
+
+## Analysis
+
+- [[AI-industry response and reception]] — the industry's silence, how commentators framed it, the Yann-LeCun-signature correction, and the most-quoted line
 
 ## Indexes
 

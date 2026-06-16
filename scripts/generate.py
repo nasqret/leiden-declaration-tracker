@@ -224,6 +224,11 @@ def render_home(data, mentions):
         lines += [""]
 
     lines += [
+        "## Analysis",
+        "",
+        "- [[AI-industry response and reception]] — the industry's silence, how commentators framed it, "
+        "the Yann-LeCun-signature correction, and the most-quoted line",
+        "",
         "## Indexes",
         "",
         "- [[_All mentions]] — master table",
@@ -363,6 +368,51 @@ def render_people(data, mentions):
         write(VAULT / "People" / f"{nm}.md", "\n".join(lines))
 
 
+def render_analysis(data):
+    a = data.get("analysis", {}) or {}
+    lines = [
+        "---",
+        "tags: [analysis, reception]",
+        "---",
+        "",
+        "# AI-industry response & reception",
+        "",
+        "Analytical notes on how the [[Leiden Declaration on AI and Mathematics]] was received — "
+        "beyond the raw catalogue of mentions. See [[Home]] for the full coverage map.",
+        "",
+        "## The AI industry's silence",
+        "",
+        a.get("industry_response", ""),
+        "",
+        "> With 170+ mentions across 44 countries, the most conspicuous non-response is from the "
+        "AI labs whose work prompted the declaration.",
+        "",
+        "## How commentators framed it",
+        "",
+        "- **Critical / strategic reading:** [[The Synthesis (Substack)]] — *\"The Leiden Declaration "
+        "is a job application, not a protest letter\"* — argues mathematicians are repositioning as the "
+        "verifiers/credentialers of AI-generated proofs rather than resisting AI.",
+        "- **Supportive / template reading:** [[How Math Saves the World (Substack)]] frames it as a "
+        "reusable governance template for any field facing transformative technology.",
+        "- **Insider aim:** co-author Michael Harris ([[Silicon Reckoner (Michael Harris, Substack)]]) — "
+        "to *\"recover control of the narrative about the values and the goals of mathematics from the "
+        "A.I. industry.\"*",
+        "- **Attribution critique in the mainstream press:** [[Le Figaro (FigaroVox)]] (Aurélie Jean) — "
+        "*OpenAI relies on the work of many mathematicians it doesn't credit.*",
+        "- **Dismissive take:** [[Dr. Jason Polak (Substack)]] — *\"The Leiden Declaration on AI is pathetic.\"*",
+        "",
+        "## Correction: Yann LeCun did **not** sign",
+        "",
+        a.get("lecun_note", ""),
+        "",
+        "## Most-quoted line",
+        "",
+        a.get("most_quoted", ""),
+        "",
+    ]
+    write(VAULT / "Analysis" / "AI-industry response and reception.md", "\n".join(lines))
+
+
 def render_table(mentions):
     lines = [
         "---",
@@ -408,6 +458,18 @@ def render_landing(data, mentions):
     country_options = "".join(f'<option value="{esc(c)}">{esc(c)}</option>' for c in countries)
     themes = "".join(f"<li>{esc(t)}</li>" for t in synth.get("coverage_themes", []))
     voices = "".join(f"<li>{esc(v)}</li>" for v in synth.get("notable_voices", []))
+    a = data.get("analysis", {}) or {}
+    reception_panel = ("""
+  <div class="panel">
+    <h2>Reception &amp; analysis</h2>
+    <p><b>The AI industry's silence.</b> %s</p>
+    <p><b>Most-quoted line.</b> %s</p>
+    <p><b>How commentators framed it.</b> A critical reading called it
+      <a href="https://thesynthesisai.substack.com/p/the-leiden-declaration" target="_blank" rel="noopener">“a job application, not a protest letter”</a>;
+      others framed it as a <a href="https://howmathsavestheworld.substack.com/p/when-ai-came-for-math-the-mathematicians" target="_blank" rel="noopener">reusable governance template</a>,
+      while co-author Michael Harris described the aim as “recovering control of the narrative&nbsp;… from the A.I. industry.”</p>
+    <p style="color:var(--muted)"><b>Correction.</b> %s</p>
+  </div>""" % (esc(a.get("industry_response", "")), esc(a.get("most_quoted", "")), esc(a.get("lecun_note", "")))) if a else ""
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -494,7 +556,7 @@ def render_landing(data, mentions):
       <div><h2>Notable voices</h2><ul>{voices}</ul></div>
     </div>
   </div>
-
+{reception_panel}
   <div id="mapwrap">
     <h2>🗺️ Where the coverage came from</h2>
     <div class="maptip">Each dot is a mention placed at its outlet's approximate location (jittered so overlapping sources stay visible). Hover for the outlet, click for the article. The filters below also drive the map.</div>
@@ -615,7 +677,7 @@ def main():
                                  str(m.get("date", "")), m.get("outlet", "")))
 
     # clean previous generated notes (keep folders)
-    for sub in ("Mentions", "Outlets", "Countries"):
+    for sub in ("Mentions", "Outlets", "Countries", "Analysis"):
         for p in (VAULT / sub).glob("*.md"):
             p.unlink()
 
@@ -629,6 +691,7 @@ def main():
     render_outlets(mentions)
     render_countries(mentions)
     render_people(data, mentions)
+    render_analysis(data)
     write(LANDING / "index.html", render_landing(data, mentions))
 
     n_countries = len({m.get("country") for m in mentions if m.get("country")})

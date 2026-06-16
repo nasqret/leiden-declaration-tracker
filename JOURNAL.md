@@ -97,6 +97,19 @@ mathematics (proof, verification, attribution, peer review, human oversight).
   regenerated the vault + landing page, redeployed. Recorded a feedback memory so
   future research sweeps query non-enumerated languages natively.
 
+## 2026-06-16 — Country map, multilingual re-sweep, commentary & corrections
+
+- **Suggestions round 2 (collaborators):** country selector + interactive map; WaPo check; then John Horgan, Le Figaro, Yann LeCun's signature, AI-industry silence, more Substacks.
+- **Washington Post:** verified as **not a miss** — no WaPo article exists (NYT is the only major US daily that covered it; Wikipedia's references confirm).
+- **Multilingual re-sweep** (FIXPLAN Phase 1+2): 24 native-language lenses + structured sources → **+33 new mentions in 13 new languages** (Catalan, Croatian, Czech, Greek, Hebrew, Hungarian, Indonesian, Norwegian, Persian, Romanian, Serbian, Thai, Vietnamese). Note: the `args` dedup list didn't reach the workflow as an array, so dedup vs the existing set was done at merge time instead.
+- **Country + map:** geo-enriched **all mentions** (country, city, lat/lon); added a country `<select>` and a Leaflet dot-map (CARTO dark tiles, graceful offline fallback) to the landing page, plus per-country vault notes and a Home "by country" section.
+- **Supplementary commentary sweep:** +6 more (Le Figaro/Aurélie Jean, The Synthesis & How Math Saves the World Substacks, a 2nd Silicon Reckoner post, Clubic, RTS). **Total now 171 mentions, 27 languages, 44 countries.**
+- **Corrections / findings (verified):**
+  - **Yann LeCun did NOT sign.** The claim traces to an AI-generated search summary misreading the Italian MaddMaths line that calls LeCun "one of the great AI experts" — not a signatory. Official list (2,528) and Wikipedia confirm. Recorded in the Analysis note; not added as a signatory.
+  - **AI-industry silence:** no public response from Hassabis/Altman/Amodei/OpenAI/DeepMind/Anthropic/Google/Meta; zero industry-affiliated signatories.
+  - Captured commentator framings ("a job application, not a protest letter"; governance template; Harris's "recover the narrative"; Polak's "pathetic") in a generated **Analysis note** + landing "Reception & analysis" panel.
+- **Unresolved:** could not locate a **John Horgan** post specifically about the declaration (checked his Cross-Check index + site search). Awaiting the URL from collaborators rather than guessing.
+
 ### Notes for next time
 - Re-run the research workflow periodically (signatory count and coverage keep
   growing); add new rows to `data/mentions.json` and run `python3

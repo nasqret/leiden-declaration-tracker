@@ -1,12 +1,12 @@
 ---
 tags: [country]
 country_code: "US"
-mentions: 37
+mentions: 40
 ---
 
 # United States
 
-37 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
+40 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
 
 - [[AI Weekly — Leiden Declaration on AI and Mathematics- 130+ Researchers and Inter]] — _newsletter · English · 2026-06-02_
 - [[Ars Technica — Mathematicians warn of AI threats to profession as industry encro]] — _newspaper · English · 2026-06-02_
@@ -15,6 +15,7 @@ mentions: 37
 - [[Futurism — Over 150 Mathematicians Warn Governments Not to -Believe the Hype- Ab]] — _magazine · English · 2026-06-06_
 - [[Gizmodo — A New Declaration Warns AI Could Threaten the Foundations of Mathemati]] — _blog · English · 2026-06-02_
 - [[Hacker News — Leiden Declaration on Artificial Intelligence and Mathematics]] — _forum · English · 2026-06-03_
+- [[How Math Saves the World (Substack) — When AI Came for Math, The Mathematicians]] — _newsletter · English · 2026-06-03_
 - [[ICO Optics — 150+ Mathematicians Warn Governments Not to Believe AI Hype]] — _blog · English · 2026-06-07_
 - [[Implicator.ai — Mathematicians Issue Leiden Declaration on AI Proof Rules]] — _newsletter · English · 2026-06-02_
 - [[International Congress of Mathematicians (ICM 2026, Philadelphia) — The Leiden D]] — _event · English · 2026-07-26_
@@ -33,11 +34,13 @@ mentions: 37
 - [[Quomodocumque (Jordan Ellenberg's blog) — The Leiden Declaration on Artificial I]] — _blog · English · 2026-06-04_
 - [[Science (AAAS) — Mathematicians issue warning as AI rapidly gains ground]] — _magazine · English · 2026-06-02_
 - [[Scientific American — Mathematicians sign declaration to rein in AI use]] — _magazine · English · 2026-06-02_
+- [[Silicon Reckoner — -there's this like massive exogenous force- haunting mathemat]] — _newsletter · English · 2026-06-13_
 - [[Silicon Reckoner (Michael Harris, Substack) — The Leiden Declaration on Artifici]] — _newsletter · English · 2026-06-02_
 - [[Silicon Reckoner (Michael Harris, Substack) — Comments on- The Leiden Declaratio]] — _newsletter · English · 2026-06-02_
 - [[Slashdot — Mathematicians Warn of AI Threats to Profession As Industry Encroache]] — _forum · English · 2026-06-02_
 - [[The Cool Down — More than 150 math experts tell governments not to trust AI hype]] — _newspaper · English · 2026-06-10_
 - [[The New York Times — As A.I. Makes Strides in Mathematics, Mathematicians Urge C]] — _newspaper · English · 2026-06-02_
+- [[The Synthesis (Substack) — The Leiden Declaration is a job application, not a pr]] — _newsletter · English · 2026-06-10_
 - [[Weinberg College News, Northwestern University — Mathematician Bryna Kra Among A]] — _institutional · English · 2026-06-02_
 - [[What's new (Terence Tao blog) — Mathematical methods and human thought in the ag]] — _blog · English · 2026-03-29_
 - [[Wikipedia — Leiden Declaration on Artificial Intelligence and Mathematics]] — _other · English · 2026-06-16_
