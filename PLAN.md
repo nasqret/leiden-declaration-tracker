@@ -47,6 +47,36 @@ of mathematics (proof, verification, attribution, peer review, human oversight).
 - [x] ~~Private~~ **Public** GitHub repository — <https://github.com/nasqret/leiden-declaration-tracker>
 - [x] Live landing page via GitHub Pages — <https://nasqret.github.io/leiden-declaration-tracker/>
 
+## Round 3 — Deep search & expanded categories (in progress)
+A **very deep** sweep for hard-to-locate citations in obscure places and
+paywalled journals, plus broader context and new content categories.
+
+- **Forums:** notable **Reddit** threads and **Zulip** (especially the Lean
+  community Zulip used by mathematicians), plus Hacker News / Lobsters /
+  MathOverflow / LessWrong / EA Forum / n-Category Café.
+- **New categories — videos & podcasts:** YouTube videos, talks, panels (incl.
+  ICM 2026) and podcast episodes that **explicitly mention** the declaration.
+  Brief/passing mentions are acceptable and wanted.
+- **Academic / paywalled:** Notices & Bulletin of the AMS, Nature/Science
+  editorials, EMS Magazine, *Nieuw Archief voor Wiskunde*, etc., plus scholarly
+  **citations** of the Zenodo DOI (Google Scholar / OpenAlex / Crossref / arXiv).
+- **Policy & scholarly-communication:** Scholarly Kitchen, LSE Impact, Retraction
+  Watch, THE, Inside Higher Ed; niche blogs; deep non-English coverage; Wikipedia
+  references across all language editions.
+
+**Quality bar (hard requirements):**
+- **Legitimate sources only** — real outlets, named forums, real channels/shows,
+  scholarly venues. No spam or SEO content farms.
+- **Avoid automatic-duplication engines / scraper mirrors** and near-duplicate
+  republications; keep the **original** source, drop machine-republished copies.
+- **No duplication** — dedupe by URL against the existing catalogue (the existing
+  set is embedded in the sweep script, not passed via `args`, per the FIXPLAN
+  lesson) and flag/drop content that merely mirrors an already-catalogued piece.
+
+The generator already supports `video`, `podcast`, `forum`, and `academic`
+categories (vault grouping, country map, and landing filters pick them up
+automatically).
+
 ## Maintenance
 To refresh coverage later: re-run the research workflow (or add rows to
 `data/mentions.json` by hand), then `python3 scripts/generate.py` to rebuild the
