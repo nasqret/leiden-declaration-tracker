@@ -5,13 +5,17 @@ type: "newspaper"
 author: ""
 date: ""
 language: "Turkish"
+country: "Turkey"
+country_code: "TR"
+city: "Istanbul"
+coordinates: "41.0082,28.9784"
 confidence: "likely"
 url: "https://www.tgrthaber.com/teknoloji/hukumetlere-yapay-zeka-uyarisi-bildiri-yayinladilar-3340490"
-tags: ["mention", "newspaper", "non-english", "conf/likely"]
+tags: ["mention", "newspaper", "non-english", "conf/likely", "country/turkey"]
 ---
 # Hükümetlere yapay zekâ uyarısı: Bildiri yayınladılar
 
-> **Outlet:** [[TGRT Haber]] · **Type:** 📰 Newspapers & wire services · **Language:** Turkish
+> **Outlet:** [[TGRT Haber]] · **Type:** 📰 Newspapers & wire services · **Language:** Turkish · **Country:** [[Turkey (country)\|Turkey]]
 
 **Link:** https://www.tgrthaber.com/teknoloji/hukumetlere-yapay-zeka-uyarisi-bildiri-yayinladilar-3340490
 

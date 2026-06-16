@@ -5,13 +5,17 @@ type: "newspaper"
 author: ""
 date: "2026-06"
 language: "Arabic"
+country: "Saudi Arabia"
+country_code: "SA"
+city: "Riyadh"
+coordinates: "24.7136,46.6753"
 confidence: "likely"
 url: "https://www.aajae.co/entertainment_media/إعلان-لايدن-علماء-الرياضيات-يحذّرون-من-الذكاء-الاصطناعي"
-tags: ["mention", "newspaper", "non-english", "conf/likely"]
+tags: ["mention", "newspaper", "non-english", "conf/likely", "country/saudi-arabia"]
 ---
 # إعلان لايدن: علماء الرياضيات يحذّرون من الذكاء الاصطناعي
 
-> **Outlet:** [[Aajae (aajae.co)]] · **Type:** 📰 Newspapers & wire services · **Date:** 2026-06 · **Language:** Arabic
+> **Outlet:** [[Aajae (aajae.co)]] · **Type:** 📰 Newspapers & wire services · **Date:** 2026-06 · **Language:** Arabic · **Country:** [[Saudi Arabia (country)\|Saudi Arabia]]
 
 **Link:** https://www.aajae.co/entertainment_media/إعلان-لايدن-علماء-الرياضيات-يحذّرون-من-الذكاء-الاصطناعي
 

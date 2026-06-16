@@ -5,13 +5,17 @@ type: "newspaper"
 author: "AFP (wire agency)"
 date: "2026-06"
 language: "German"
+country: "Germany"
+country_code: "DE"
+city: "Berlin"
+coordinates: "52.52,13.405"
 confidence: "likely"
 url: "https://www.epochtimes.de/wissen/mathematiker-ki-hype-nicht-unkritisch-uebernehmen-a5508586.html"
-tags: ["mention", "newspaper", "non-english", "conf/likely"]
+tags: ["mention", "newspaper", "non-english", "conf/likely", "country/germany"]
 ---
 # Mathematiker: KI-Hype nicht unkritisch übernehmen
 
-> **Outlet:** [[Epoch Times Deutsch]] · **Type:** 📰 Newspapers & wire services · **Author:** AFP (wire agency) · **Date:** 2026-06 · **Language:** German
+> **Outlet:** [[Epoch Times Deutsch]] · **Type:** 📰 Newspapers & wire services · **Author:** AFP (wire agency) · **Date:** 2026-06 · **Language:** German · **Country:** [[Germany (country)\|Germany]]
 
 **Link:** https://www.epochtimes.de/wissen/mathematiker-ki-hype-nicht-unkritisch-uebernehmen-a5508586.html
 

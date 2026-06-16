@@ -5,13 +5,17 @@ type: "newspaper"
 author: ""
 date: "2026-06"
 language: "Polish"
+country: "Poland"
+country_code: "PL"
+city: "Warsaw"
+coordinates: "52.2297,21.0122"
 confidence: "likely"
 url: "https://wyborcza.pl/7,75400,32842045,matematycy-bronia-matematyki-przed-ai-tysiace-podpisow-pod.html"
-tags: ["mention", "newspaper", "non-english", "conf/likely"]
+tags: ["mention", "newspaper", "non-english", "conf/likely", "country/poland"]
 ---
 # Matematycy bronią matematyki przed AI. Tysiące podpisów pod deklaracją
 
-> **Outlet:** [[Gazeta Wyborcza]] · **Type:** 📰 Newspapers & wire services · **Date:** 2026-06 · **Language:** Polish
+> **Outlet:** [[Gazeta Wyborcza]] · **Type:** 📰 Newspapers & wire services · **Date:** 2026-06 · **Language:** Polish · **Country:** [[Poland (country)\|Poland]]
 
 **Link:** https://wyborcza.pl/7,75400,32842045,matematycy-bronia-matematyki-przed-ai-tysiace-podpisow-pod.html
 

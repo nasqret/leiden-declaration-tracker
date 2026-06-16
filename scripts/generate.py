@@ -102,11 +102,14 @@ def render_mention_note(idx, m):
     outlet = m.get("outlet") or "Unknown outlet"
     note_title = safe_name(f"{outlet} — {title}")
     slug = f"{idx:02d}-{slugify(outlet + '-' + title)}"
+    country = m.get("country", "")
     tags = ["mention", m.get("outlet_type", "other")]
     if m.get("language") and m["language"].lower() not in ("english", "en"):
         tags.append("non-english")
     if m.get("confidence"):
         tags.append("conf/" + m["confidence"])
+    if country:
+        tags.append("country/" + slugify(country))
 
     fm = [
         "---",
@@ -116,6 +119,10 @@ def render_mention_note(idx, m):
         f"author: {yaml_value(m.get('author', ''))}",
         f"date: {yaml_value(m.get('date', ''))}",
         f"language: {yaml_value(m.get('language', 'English'))}",
+        f"country: {yaml_value(country)}",
+        f"country_code: {yaml_value(m.get('country_code', ''))}",
+        f"city: {yaml_value(m.get('city', ''))}",
+        f"coordinates: {yaml_value((str(m.get('lat')) + ',' + str(m.get('lon'))) if m.get('lat') is not None and m.get('lon') is not None else '')}",
         f"confidence: {yaml_value(m.get('confidence', ''))}",
         f"url: {yaml_value(m.get('url', ''))}",
         f"tags: {yaml_list(tags)}",
@@ -128,7 +135,8 @@ def render_mention_note(idx, m):
         f"> **Outlet:** [[{safe_name(outlet)}]] · **Type:** {type_label(m.get('outlet_type','other'))}"
         + (f" · **Author:** {m['author']}" if m.get("author") else "")
         + (f" · **Date:** {m['date']}" if m.get("date") else "")
-        + (f" · **Language:** {m['language']}" if m.get("language") else ""),
+        + (f" · **Language:** {m['language']}" if m.get("language") else "")
+        + (f" · **Country:** [[{safe_name(country)} (country)\\|{country}]]" if country else ""),
         "",
         f"**Link:** {m.get('url','')}",
         "",
@@ -203,12 +211,24 @@ def render_home(data, mentions):
             lines.append(f"- [[{nt}]]" + (f" — _{meta}_" if meta else ""))
         lines.append("")
 
+    # by country
+    by_country = defaultdict(list)
+    for m in mentions:
+        if m.get("country"):
+            by_country[m["country"]].append(m)
+    if by_country:
+        lines += [f"## Mentions by country ({len(by_country)} countries)", ""]
+        for country in sorted(by_country, key=lambda c: (-len(by_country[c]), c)):
+            items = by_country[country]
+            lines.append(f"- [[{safe_name(country + ' (country)')}\\|{country}]] — {len(items)}")
+        lines += [""]
+
     lines += [
         "## Indexes",
         "",
         "- [[_All mentions]] — master table",
-        "- Browse the **Outlets/** and **People/** folders",
-        "- Open the **graph view** to see how outlets, people and the declaration connect",
+        "- Browse the **Outlets/**, **Countries/** and **People/** folders",
+        "- Open the **graph view** to see how outlets, countries, people and the declaration connect",
         "",
     ]
     return "\n".join(lines)
@@ -282,6 +302,35 @@ def render_outlets(mentions):
         write(VAULT / "Outlets" / f"{nm}.md", "\n".join(lines))
 
 
+def render_countries(mentions):
+    by_country = defaultdict(list)
+    for m in mentions:
+        c = m.get("country")
+        if c:
+            by_country[c].append(m)
+    for country, items in by_country.items():
+        nm = safe_name(f"{country} (country)")
+        cc = next((x.get("country_code", "") for x in items if x.get("country_code")), "")
+        lines = [
+            "---",
+            "tags: [country]",
+            f"country_code: {yaml_value(cc)}",
+            f"mentions: {len(items)}",
+            "---",
+            "",
+            f"# {country}",
+            "",
+            f"{len(items)} traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **{country}**:",
+            "",
+        ]
+        for m in sorted(items, key=lambda x: (x.get("outlet", ""))):
+            nt = safe_name(f"{m.get('outlet','')} — {m.get('title','')}")
+            meta = " · ".join(filter(None, [m.get("outlet_type", ""), m.get("language", ""), m.get("date", "")]))
+            lines.append(f"- [[{nt}]]" + (f" — _{meta}_" if meta else ""))
+        lines.append("")
+        write(VAULT / "Countries" / f"{nm}.md", "\n".join(lines))
+
+
 def render_people(data, mentions):
     subj = data.get("subject", {})
     # union of curated key people + notable signatories that we know about
@@ -352,9 +401,11 @@ def render_landing(data, mentions):
     payload = json.dumps(mentions, ensure_ascii=False)
     types = sorted({m.get("outlet_type", "other") for m in mentions})
     langs = sorted({m.get("language", "English") or "English" for m in mentions})
+    countries = sorted({m.get("country") for m in mentions if m.get("country")})
     esc = html.escape
     type_options = "".join(f'<option value="{esc(t)}">{esc(t)}</option>' for t in types)
     lang_options = "".join(f'<option value="{esc(l)}">{esc(l)}</option>' for l in langs)
+    country_options = "".join(f'<option value="{esc(c)}">{esc(c)}</option>' for c in countries)
     themes = "".join(f"<li>{esc(t)}</li>" for t in synth.get("coverage_themes", []))
     voices = "".join(f"<li>{esc(v)}</li>" for v in synth.get("notable_voices", []))
 
@@ -364,6 +415,8 @@ def render_landing(data, mentions):
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Leiden Declaration — Media Coverage Tracker</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <style>
   :root {{
     --bg:#0f1020; --card:#1a1b30; --ink:#e8e8f0; --muted:#a4a4c0;
@@ -401,6 +454,14 @@ def render_landing(data, mentions):
             border-radius:999px; padding:1px 10px; font-size:.72rem; text-transform:uppercase; letter-spacing:.04em; }}
   .summary {{ color:#cfd0e6; }}
   .quote {{ border-left:3px solid var(--accent); padding-left:12px; color:var(--muted); font-style:italic; margin:10px 0 0; }}
+  #mapwrap {{ background:var(--card); border:1px solid var(--line); border-radius:16px; padding:16px 18px; margin:18px 0 8px; }}
+  #mapwrap h2 {{ margin:.1em 0 .3em; font-size:1.05rem; color:var(--accent2); }}
+  #map {{ height:460px; border-radius:12px; background:#0b0c18; z-index:1; }}
+  .maptip {{ color:var(--muted); font-size:.8rem; margin:0 2px 12px; }}
+  .legend {{ display:flex; flex-wrap:wrap; gap:8px 14px; margin-top:12px; color:var(--muted); font-size:.78rem; }}
+  .legend i {{ width:10px; height:10px; border-radius:50%; display:inline-block; margin-right:5px; vertical-align:middle; }}
+  .leaflet-popup-content {{ font:13px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; margin:10px 12px; }}
+  .leaflet-popup-content a {{ color:#1d4ed8; }}
   footer {{ max-width:1100px; margin:0 auto; padding:24px; color:var(--muted); font-size:.82rem; border-top:1px solid var(--line); }}
   @media (max-width:720px) {{ .cols {{ grid-template-columns:1fr; }} h1{{font-size:1.9rem;}} }}
 </style>
@@ -414,6 +475,7 @@ def render_landing(data, mentions):
     <div class="stat"><b>{len(mentions)}</b><span>traced mentions</span></div>
     <div class="stat"><b>{len(types)}</b><span>channel types</span></div>
     <div class="stat"><b>{len(langs)}</b><span>languages</span></div>
+    <div class="stat"><b>{len(countries)}</b><span>countries</span></div>
     <div class="stat"><b>{esc(str(subj.get('signatory_count','')))}</b><span>signatories</span></div>
     <div class="stat"><b>{esc(str(subj.get('published','')))}</b><span>published</span></div>
   </div>
@@ -433,9 +495,17 @@ def render_landing(data, mentions):
     </div>
   </div>
 
+  <div id="mapwrap">
+    <h2>🗺️ Where the coverage came from</h2>
+    <div class="maptip">Each dot is a mention placed at its outlet's approximate location (jittered so overlapping sources stay visible). Hover for the outlet, click for the article. The filters below also drive the map.</div>
+    <div id="map"></div>
+    <div class="legend" id="legend"></div>
+  </div>
+
   <div class="controls">
-    <input id="q" type="search" placeholder="Search title, outlet, author, summary…">
+    <input id="q" type="search" placeholder="Search title, outlet, author, country, summary…">
     <select id="type"><option value="">All types</option>{type_options}</select>
+    <select id="country"><option value="">All countries</option>{country_options}</select>
     <select id="lang"><option value="">All languages</option>{lang_options}</select>
     <span class="count" id="count"></span>
   </div>
@@ -448,25 +518,69 @@ def render_landing(data, mentions):
 </footer>
 <script>
 const DATA = {payload};
+const COLORS = {{newspaper:'#60a5fa',wire:'#3b82f6',magazine:'#34d399',academic:'#a78bfa',institutional:'#f59e0b',blog:'#f472b6',newsletter:'#fb923c',social:'#22d3ee',forum:'#c084fc',podcast:'#facc15',video:'#fb7185',event:'#4ade80',preprint:'#94a3b8',other:'#94a3b8'}};
 const list = document.getElementById('list');
 const q = document.getElementById('q');
 const typeSel = document.getElementById('type');
 const langSel = document.getElementById('lang');
+const countrySel = document.getElementById('country');
 const count = document.getElementById('count');
 function esc(s){{ return (s||'').replace(/[&<>"]/g, c => ({{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}}[c])); }}
+
+// ---- map (degrades gracefully if Leaflet/tiles are unavailable, e.g. offline) ----
+let map=null, markerLayer=null;
+try {{
+  if (typeof L !== 'undefined') {{
+    map = L.map('map', {{worldCopyJump:true, scrollWheelZoom:false}}).setView([28,8], 2);
+    L.tileLayer('https://{{s}}.basemaps.cartocdn.com/dark_all/{{z}}/{{x}}/{{y}}{{r}}.png',
+      {{maxZoom:18, attribution:'&copy; OpenStreetMap, &copy; CARTO'}}).addTo(map);
+    markerLayer = L.layerGroup().addTo(map);
+  }}
+}} catch(e) {{ map=null; }}
+if (!map) {{ const w=document.getElementById('mapwrap'); if(w) w.style.display='none'; }}
+
+function jitter(seed){{
+  let h=0; seed=seed||''; for(let i=0;i<seed.length;i++){{h=(h*31+seed.charCodeAt(i))>>>0;}}
+  return [((h%1000)/1000-0.5)*1.1, (((h>>>10)%1000)/1000-0.5)*1.1];
+}}
+function drawMap(rows){{
+  if(!map||!markerLayer) return 0;
+  markerLayer.clearLayers();
+  let n=0;
+  rows.forEach(m => {{
+    if (typeof m.lat !== 'number' || typeof m.lon !== 'number') return;
+    const j = jitter(m.url);
+    const mk = L.circleMarker([m.lat+j[0], m.lon+j[1]], {{
+      radius:6, weight:1, color:'#0b0c18',
+      fillColor: COLORS[m.outlet_type]||COLORS.other, fillOpacity:.85
+    }});
+    mk.bindTooltip(esc(m.outlet));
+    mk.bindPopup('<b>'+esc(m.outlet)+'</b><br><a href="'+esc(m.url)+'" target="_blank" rel="noopener">'+esc(m.title)+'</a><br><small>'+esc(m.outlet_type)+(m.date?' · '+esc(m.date):'')+(m.country?' · '+esc(m.country):'')+'</small>');
+    markerLayer.addLayer(mk); n++;
+  }});
+  return n;
+}}
+(function legend(){{
+  const el=document.getElementById('legend'); if(!el) return;
+  const present=[...new Set(DATA.map(m=>m.outlet_type))];
+  el.innerHTML = present.map(t=>'<span><i style="background:'+(COLORS[t]||COLORS.other)+'"></i>'+esc(t)+'</span>').join('');
+}})();
+
 function render(){{
   const term = q.value.trim().toLowerCase();
-  const t = typeSel.value, l = langSel.value;
+  const t = typeSel.value, l = langSel.value, co = countrySel.value;
   const rows = DATA.filter(m => {{
     if (t && m.outlet_type !== t) return false;
     if (l && (m.language||'English') !== l) return false;
+    if (co && (m.country||'') !== co) return false;
     if (term){{
-      const hay = [m.title,m.outlet,m.author,m.summary,m.key_quote].join(' ').toLowerCase();
+      const hay = [m.title,m.outlet,m.author,m.summary,m.key_quote,m.country].join(' ').toLowerCase();
       if (!hay.includes(term)) return false;
     }}
     return true;
   }});
-  count.textContent = rows.length + ' / ' + DATA.length + ' shown';
+  const located = drawMap(rows);
+  count.textContent = rows.length + ' / ' + DATA.length + ' shown' + (map ? ' · ' + located + ' on map' : '');
   list.innerHTML = rows.map(m => `
     <div class="item">
       <h3><a href="${{esc(m.url)}}" target="_blank" rel="noopener">${{esc(m.title)}}</a></h3>
@@ -475,16 +589,17 @@ function render(){{
         <span><b>${{esc(m.outlet)}}</b></span>
         ${{m.author?`<span>✍ ${{esc(m.author)}}</span>`:''}}
         ${{m.date?`<span>📅 ${{esc(m.date)}}</span>`:''}}
+        ${{m.country?`<span>📍 ${{esc(m.country)}}</span>`:''}}
         ${{m.language?`<span>🌐 ${{esc(m.language)}}</span>`:''}}
       </div>
       <div class="summary">${{esc(m.summary)}}</div>
       ${{m.key_quote?`<p class="quote">${{esc(m.key_quote)}}</p>`:''}}
     </div>`).join('');
 }}
-q.addEventListener('input', render);
-typeSel.addEventListener('change', render);
-langSel.addEventListener('change', render);
+[q].forEach(e=>e.addEventListener('input', render));
+[typeSel,langSel,countrySel].forEach(e=>e.addEventListener('change', render));
 render();
+setTimeout(()=>{{ if(map) map.invalidateSize(); }}, 350);
 </script>
 </body>
 </html>
@@ -499,11 +614,10 @@ def main():
     mentions.sort(key=lambda m: (type_rank.get(m.get("outlet_type", "other"), 99),
                                  str(m.get("date", "")), m.get("outlet", "")))
 
-    # clean previous generated mention notes (keep folder)
-    for p in (VAULT / "Mentions").glob("*.md"):
-        p.unlink()
-    for p in (VAULT / "Outlets").glob("*.md"):
-        p.unlink()
+    # clean previous generated notes (keep folders)
+    for sub in ("Mentions", "Outlets", "Countries"):
+        for p in (VAULT / sub).glob("*.md"):
+            p.unlink()
 
     for i, m in enumerate(mentions, 1):
         slug, _title, content = render_mention_note(i, m)
@@ -513,11 +627,15 @@ def main():
     write(VAULT / "Declaration" / "Leiden Declaration on AI and Mathematics.md", render_declaration(data))
     write(VAULT / "Mentions" / "_All mentions.md", render_table(mentions))
     render_outlets(mentions)
+    render_countries(mentions)
     render_people(data, mentions)
     write(LANDING / "index.html", render_landing(data, mentions))
 
+    n_countries = len({m.get("country") for m in mentions if m.get("country")})
+    n_geo = sum(1 for m in mentions if m.get("lat") is not None and m.get("lon") is not None)
     print(f"Generated {len(mentions)} mention notes + Home + Declaration + "
-          f"{len(set(m.get('outlet') for m in mentions))} outlet notes + landing page.")
+          f"{len(set(m.get('outlet') for m in mentions))} outlet notes + "
+          f"{n_countries} country notes + landing page ({n_geo} geo-located).")
 
 
 if __name__ == "__main__":

@@ -5,13 +5,17 @@ type: "newspaper"
 author: ""
 date: "2026"
 language: "German"
+country: "Switzerland"
+country_code: "CH"
+city: "Zurich"
+coordinates: "47.3769,8.5417"
 confidence: "likely"
 url: "https://www.nzz.ch/wissenschaft/kuenstliche-intelligenz-loest-ein-80-jahre-altes-mathe-raetsel-problem-prompting-koennte-die-zukunft-der-mathematik-sein-ld.10010491"
-tags: ["mention", "newspaper", "non-english", "conf/likely"]
+tags: ["mention", "newspaper", "non-english", "conf/likely", "country/switzerland"]
 ---
 # KI knackt ein 80 Jahre altes Mathe-Rätsel – ein Wendepunkt für die Mathematik?
 
-> **Outlet:** [[Neue Zürcher Zeitung (NZZ)]] · **Type:** 📰 Newspapers & wire services · **Date:** 2026 · **Language:** German
+> **Outlet:** [[Neue Zürcher Zeitung (NZZ)]] · **Type:** 📰 Newspapers & wire services · **Date:** 2026 · **Language:** German · **Country:** [[Switzerland (country)\|Switzerland]]
 
 **Link:** https://www.nzz.ch/wissenschaft/kuenstliche-intelligenz-loest-ein-80-jahre-altes-mathe-raetsel-problem-prompting-koennte-die-zukunft-der-mathematik-sein-ld.10010491
 
