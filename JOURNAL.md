@@ -82,6 +82,21 @@ mathematics (proof, verification, attribution, peer review, human oversight).
 - **Live landing page:** <https://nasqret.github.io/leiden-declaration-tracker/>
   — verified HTTP 200 serving all 131 records.
 
+## 2026-06-16 — Missed-mention fix (Gazeta Wyborcza, PL)
+
+- User flagged a missed mention: **Gazeta Wyborcza** (major Polish daily).
+  Diagnosing it surfaced *more* uncaptured Polish coverage (gry-online.pl,
+  osp1.pl) → a **systematic recall gap**, not a one-off.
+- **Root cause:** discovery-recall failure from **enumerated-language bias** (the
+  16 lenses named ~12 languages; Polish + many others were never queried) plus a
+  **US-locale search index** and the **translated brand name** ("deklaracja
+  lejdejska"). Verification fragility on paywalled regional press is a secondary
+  factor (Wyborcza blocks automated fetch). Full analysis + remediation in
+  `FIXPLAN.md`.
+- **Done now:** added the Wyborcza mention (`likely`; count 131 → 132),
+  regenerated the vault + landing page, redeployed. Recorded a feedback memory so
+  future research sweeps query non-enumerated languages natively.
+
 ### Notes for next time
 - Re-run the research workflow periodically (signatory count and coverage keep
   growing); add new rows to `data/mentions.json` and run `python3

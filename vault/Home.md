@@ -6,7 +6,7 @@ tags: [moc, home]
 
 Knowledge base tracking **every traced mention** of the [[Leiden Declaration on AI and Mathematics]] across the internet — newspapers, magazines, blogs, institutional announcements and social media.
 
-- **Total verified mentions:** 131
+- **Total verified mentions:** 132
 - **Declaration published:** 2026-06-02
 - **Knowledge base generated:** 2026-06-16
 
@@ -45,12 +45,13 @@ Reach was broad and genuinely global rather than niche. Tier-one validation came
 
 ## Mentions by category
 
-### 📰 Newspapers & wire services (40)
+### 📰 Newspapers & wire services (41)
 
 - [[TGRT Haber — Hükümetlere yapay zekâ uyarısı- Bildiri yayınladılar]]
 - [[Neue Zürcher Zeitung (NZZ) — KI knackt ein 80 Jahre altes Mathe-Rätsel – ein Wen]] — _2026_
 - [[Aajae (aajae.co) — إعلان لايدن- علماء الرياضيات يحذّرون من الذكاء الاصطناعي]] — _2026-06_
 - [[Epoch Times Deutsch — Mathematiker- KI-Hype nicht unkritisch übernehmen]] — _2026-06 · AFP (wire agency)_
+- [[Gazeta Wyborcza — Matematycy bronią matematyki przed AI. Tysiące podpisów pod de]] — _2026-06_
 - [[Rappler — Mathematicians call for AI regulation, warn of research integrity cris]] — _2026-06_
 - [[Yahoo News Japan Expert (Yahoo!ニュース エキスパート) — 数学者らが過度なAI利用に警鐘「ライデン宣言」――あらゆる分野で必要]] — _2026-06 · 佐藤仁 (Sato Jin)_
 - [[myRepublica (Nagarik Network, Nepal; NYT partner) — Mathematicians say 'don't be]] — _2026-06 · AFP/RSS (Agence France-Presse wire, republished via RSS)_

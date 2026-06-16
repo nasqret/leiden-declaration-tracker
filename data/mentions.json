@@ -21,11 +21,12 @@
   },
   "generated": "2026-06-16",
   "counts": {
-    "total_unique": 138,
-    "real": 131,
+    "total_unique": 139,
+    "real": 132,
     "rejected": 7,
     "round1_candidates": 90,
-    "round2_candidates": 50
+    "round2_candidates": 50,
+    "manual_additions": 1
   },
   "synthesis": {
     "executive_summary": "The Leiden Declaration on Artificial Intelligence and Mathematics, published 2 June 2026 and endorsed by the International Mathematical Union, generated rapid, global press and community coverage within roughly two weeks. The 131 catalogued mentions span elite general-science and news outlets (The New York Times, Scientific American, Science, AFP wire), mathematical institutions and societies across at least a dozen countries, tech and AI trade press, academic blogs and Substacks by leading mathematicians, and high-traffic social and forum platforms. Coverage clusters around two dominant frames: the \"don't believe the hype\" warning to policymakers about AI's mathematical capabilities, and a defense of mathematics' core values (verifiable proof, human authorship/attribution, autonomy from Big Tech). The story achieved substantial international reach, with heavy syndication of the AFP wire and the Futurism piece, and extensive non-English pickup in Chinese, Japanese, Spanish, Italian, German, French, Russian, Korean, Arabic, Portuguese, and Turkish.",
@@ -2051,6 +2052,21 @@
       "key_quote": "Matematikçiler ve akademisyenler, yapay zekânın matematiksel kabiliyetleri hakkındaki bazı iddiaların gerçeği tam olarak yansıtmadığı uyarısında bulundu.",
       "influence": "TGRT Haber is a mainstream national Turkish television news outlet with a high-traffic website, giving the declaration broad Turkish-language reach. The article is general tech-desk reporting (no named notable mathematician/AI-figure author); it foregrounds Leiden's Rodrigo Ochigame rather than the headline signatories (Tao, Scholze, etc.). Confidence is \"likely\" rather than \"confirmed\" because the live page returned HTTP 403 (bot-blocked) and content was corroborated only via search snippets.",
       "notes": "False-positive guard passed: clearly the 2026 AI-and-mathematics declaration (Lorentz Center, Leiden University, AI/math, Ochigame), NOT the 2015 Leiden Manifesto for research metrics. Direct WebFetch failed with 403 Forbidden; verification relies on consistent WebSearch snippets. Author and exact publication date could not be extracted from the blocked page; the article appears to be from around the early-June 2026 publication window. Note the article uses the rendering \"Leiden Yapay Zekâ ve Matematik Bildirisi\" (Leiden AI and Mathematics Statement)."
+    },
+    {
+      "verified": true,
+      "confidence": "likely",
+      "title": "Matematycy bronią matematyki przed AI. Tysiące podpisów pod deklaracją",
+      "outlet": "Gazeta Wyborcza",
+      "outlet_type": "newspaper",
+      "author": "",
+      "date": "2026-06",
+      "url": "https://wyborcza.pl/7,75400,32842045,matematycy-bronia-matematyki-przed-ai-tysiace-podpisow-pod.html",
+      "language": "Polish",
+      "summary": "Polish national-press coverage in Gazeta Wyborcza of the Leiden Declaration on AI and Mathematics: mathematicians defend mathematics against AI, thousands of signatures under the declaration, echoing the warning to governments not to overestimate AI's real capabilities ('don't believe the hype').",
+      "key_quote": "",
+      "influence": "Gazeta Wyborcza is one of Poland's largest and most influential national daily newspapers — significant mainstream Polish-language pickup of the declaration.",
+      "notes": "Added manually on 2026-06-16 after a user flagged it as missed by the automated sweep. The page is paywalled and blocks automated fetch (WebFetch failed), so title/date are partially reconstructed from the URL slug and corroborating Polish-language search results; confidence 'likely'. Relevance to THIS 2026 declaration confirmed via search snippets describing the Leiden Declaration, its 150+/thousands of signatories, and the 'don't believe the hype' warning to governments. Root cause of the miss: Polish was not among the enumerated discovery languages + US-locale search; see FIXPLAN.md."
     }
   ],
   "rejected": [
