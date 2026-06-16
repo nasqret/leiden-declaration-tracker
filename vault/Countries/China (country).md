@@ -1,13 +1,14 @@
 ---
 tags: [country]
 country_code: "CN"
-mentions: 9
+mentions: 10
 ---
 
 # China
 
-9 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **China**:
+10 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **China**:
 
+- [[Bilibili (channel- 分析学爱好者) — 数学界对AI的防御性反击 - 莱顿人工智能与数学宣言]] — _video · Chinese · 2026-06-04_
 - [[ScienceAI (via 搜狐网 - Sohu) — 突破还是炒作？2000余位学者签署《人工智能与数学莱顿宣言》，警示AI对基础科学的「利用」与「局限」]] — _blog · Chinese · 2026-06-10_
 - [[Sina Tech (新浪科技), republishing IT之家 (ITHome) — 16 名数学家起草《莱顿宣言》，警告 AI 冲击数学研究信任 (1]] — _newspaper · Chinese · 2026-06-04_
 - [[Zhihu (Zhuanlan - 知乎专栏) — 2026.6.2《人工智能与数学莱顿宣言》全文 (Full text- Leiden Declaration]] — _blog · Chinese · 2026-06-02_

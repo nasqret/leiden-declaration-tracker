@@ -6,7 +6,7 @@ tags: [moc, home]
 
 Knowledge base tracking **every traced mention** of the [[Leiden Declaration on AI and Mathematics]] across the internet — newspapers, magazines, blogs, institutional announcements and social media.
 
-- **Total mentions catalogued:** 173
+- **Total mentions catalogued:** 181
 - **Declaration published:** 2026-06-02
 - **Knowledge base generated:** 2026-06-16
 
@@ -14,7 +14,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 
 ## Mentions by category
 
-### 📰 Newspapers & wire services (61)
+### 📰 Newspapers & wire services (62)
 
 - [[TGRT Haber — Hükümetlere yapay zekâ uyarısı- Bildiri yayınladılar]]
 - [[Neue Zürcher Zeitung (NZZ) — KI knackt ein 80 Jahre altes Mathe-Rätsel – ein Wen]] — _2026_
@@ -23,6 +23,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Gazeta Wyborcza — Matematycy bronią matematyki przed AI. Tysiące podpisów pod de]] — _2026-06_
 - [[ICT Global — Az AI-körüli hype veszélyeire figyelmeztet egy századnyi tudós]] — _2026-06_
 - [[Mediatize — Los matemáticos advierten de que «no hay que creerse todo lo que se]] — _2026-06_
+- [[RT DE — Mathematiker widersprechen Behauptungen über KI-Durchbrüche in der Forsc]] — _2026-06_
 - [[RTS (Radio Télévision Suisse) — La résolution d'un vieux problème par l'IA pouss]] — _2026-06_
 - [[Rappler — Mathematicians call for AI regulation, warn of research integrity cris]] — _2026-06_
 - [[TechRider.ro — Inteligența artificială va schimba radical modul în care facem ma]] — _2026-06 · George Radu_
@@ -130,7 +131,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Columbia News — Protecting the Values of Mathematics as It Adapts to AI]] — _2026-06-11 · Michael Harris (Columbia University mathematician, co-author of the declaration)_
 - [[MaddMaths! (SIMAI) — La dichiarazione di Leida – Né luddisti, né futuristi- l'In]] — _2026-06-15 · Massimo Martone_
 
-### ✍️ Blogs (42)
+### ✍️ Blogs (46)
 
 - [[What's new (Terence Tao blog) — Mathematical methods and human thought in the ag]] — _2026-03-29 · Terence Tao_
 - [[Combinatorics and more (Gil Kalai's blog) — Amazing- Erdős' Unit Distance Proble]] — _2026-05-21 · Gil Kalai_
@@ -142,6 +143,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Gizmodo — A New Declaration Warns AI Could Threaten the Foundations of Mathemati]] — _2026-06-02 · Gayoung Lee_
 - [[Memeburn — Over 150 Mathematicians Are Telling Governments to Stop Believing AI']] — _2026-06-02_
 - [[Not Even Wrong (Peter Woit's blog) — End of Civilization News]] — _2026-06-02 · Peter Woit_
+- [[Shtetl-Optimized (Scott Aaronson's blog) — On hope (comment thread)]] — _2026-06-02 · Scott Aaronson (post); commenters "Christopher" and "Jeff" (declaration references)_
 - [[Techgear — Διακήρυξη του Leiden- 16 μαθηματικοί θέτουν όρια στη χρήση της AI στη]] — _2026-06-02 · Christos Elpidis_
 - [[The Next Web (TNW) — The world's mathematicians just issued a formal declaration]] — _2026-06-02 · Alina Maria Stan_
 - [[Zhihu (Zhuanlan - 知乎专栏) — 2026.6.2《人工智能与数学莱顿宣言》全文 (Full text- Leiden Declaration]] — _2026-06-02 · Unknown (Zhihu columnist; not identified in search snippets)_
@@ -152,10 +154,12 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Mathlog (scienceblogs.de) — Leiden Deklaration]] — _2026-06-03 · Thilo Kuessner_
 - [[note (数学の翻訳家) — 「数学は人間の営みである」——世界150人の数学者が静かに仕掛けたAIへの反論]] — _2026-06-03 · 数学の翻訳家 (Math Translator)_
 - [[CK Geek (CKWeb, Chile) — 130 matemáticos firman la Declaración de Leiden- la IA]] — _2026-06-04 · CK Geek (republished from WWWhat's new / Juan Diego Polo)_
+- [[Dan Ma's Topology Blog — More confession by Google AI Gemini]] — _2026-06-04 · Dan Ma_
 - [[Developpez.com (Intelligence artificielle) — Les mathématiciens mettent en garde]] — _2026-06-04 · Patrick Ruiz_
 - [[Let's Data Science — Mathematicians Publish Leiden Declaration on AI Risks to Ma]] — _2026-06-04_
 - [[Quomodocumque (Jordan Ellenberg's blog) — The Leiden Declaration on Artificial I]] — _2026-06-04 · Jordan Ellenberg_
 - [[WWWhat's New — 130 matemáticos firman la Declaración de Leiden- la IA amenaza la]] — _2026-06-04 · Natalia Polo_
+- [[chorasimilarity (Marius Buliga blog) — Leiden Declaration- commercial AI is a th]] — _2026-06-04 · Marius Buliga (chorasimilarity)_
 - [[IT BOLTWISE — Leiden Declaration- KI soll die Mathematik nicht untergraben – For]] — _2026-06-05 · Melanie Schirmer_
 - [[Mind Matters — A moment of sanity- The Leiden Declaration on AI]] — _2026-06-05 · News (Mind Matters staff, no individual byline)_
 - [[MamStartup — Zaczęło się! AI buja kolebką logiki]] — _2026-06-06 · Przemysław Zieliński_
@@ -166,6 +170,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[WinBuzzer — Leiden Declaration- Mathematicians Warn AI Could Strain Math Proof]] — _2026-06-07 · Markus Kasanmascheff_
 - [[知乎 (Zhihu Zhuanlan) — 截至2026.6.7凌晨约1800名数学家已签署莱顿宣言 - 精选留言与投票火热进行中]] — _2026-06-07_
 - [[IlSoftware.it — Perche oltre 150 matematici stanno lanciando un avvertimento sul]] — _2026-06-08 · Michele Nasi_
+- [[Open Data Science (ODSC) — -Last Week in AI- weekly recap — In Case You Missed I]] — _2026-06-08 · ODSC Team_
 - [[Monitor.hr — Više od 150 matematičara upozorava na opasno AI pretjerivanje]] — _2026-06-09_
 - [[Paréntesis.Media — Los matemáticos trazan una línea roja ante la IA- pruebas ver]] — _2026-06-09 · Paréntesis Media (Redacción)_
 - [[ÇözümPark — Akademisyenler Yapay Zekâ İddialarına Karşı Ortak Bildiri Yayınladı]] — _2026-06-09 · Gürkan Küçükali_
@@ -187,7 +192,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[The Synthesis (Substack) — The Leiden Declaration is a job application, not a pr]] — _2026-06-10 · The Synthesis (no individual byline)_
 - [[Silicon Reckoner — -there's this like massive exogenous force- haunting mathemat]] — _2026-06-13 · Michael Harris_
 
-### 💬 Social media (8)
+### 💬 Social media (9)
 
 - [[LinkedIn — Benjamin Han — The Leiden Declaration on AI and Mathematics — synesis]] — _2026-06 · Benjamin Han_
 - [[LinkedIn — Philippe Pasquier — Leiden Declaration on AI- A Call for Actionable A]] — _2026-06 · Philippe Pasquier_
@@ -196,9 +201,10 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Mathstodon (Mastodon, mathstodon.xyz) — Terence Tao- -The long-awaited 'Leiden D]] — _2026-06-02 · Terence Tao (@tao@mathstodon.xyz)_
 - [[X (Twitter) — Ananyo Bhattacharya on X- -Leiden Declaration on AI and Mathematic]] — _2026-06-02 · Ananyo Bhattacharya_
 - [[LinkedIn — Blaženka Divjak — Leiden Declaration on Artificial Intelligence and M]] — _2026-06-03 · Blaženka Divjak_
+- [[Mathstodon — John Carlos Baez thread on the Leiden Declaration and incentives in]] — _2026-06-03 · John Carlos Baez_
 - [[LinkedIn — Norbert Gehrke — Leiden Declaration on AI and Mathematics]] — _2026-06-09 · Norbert Gehrke_
 
-### 🗣️ Forums & discussion (9)
+### 🗣️ Forums & discussion (10)
 
 - [[Tecnoblog Comunidade — Matemáticos alertam- não confiem cegamente na IA]] — _2026-06_
 - [[Zhihu (知乎) — 国际数学联盟发布《人工智能与数学莱顿宣言》，回应 AI 对数学研究影响的问题，如何理解这份宣言？ (IMU releases the]] — _2026-06_
@@ -208,7 +214,12 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Lobsters (lobste.rs) — Leiden Declaration on Artificial Intelligence and Mathema]] — _2026-06-03 · agnishom (submitter)_
 - [[Benchmark Forum (forum.benchmark.rs) — Matematičari poručili AI kompanijama- Pre]] — _2026-06-04 · Benchmark (forum staff account, user ID 13530)_
 - [[Developpez.net (forum) — Les mathématiciens mettent en garde contre les menaces]] — _2026-06-04 · Patrick Ruiz_
+- [[FDLIST (Bielefeld mathematics forum, Discourse) — Leiden Declaration on AI and M]] — _2026-06-05 · fdlist.team (on behalf of Karthik Ganapathy, SEW Postdoctoral Fellow, UC San Diego)_
 - [[凹凸ちゃんねる (hattatu-matome.ldblog.jp) — 【速報】16人の数学者『AIの信頼性と潜在的な脅威』について警告する『ライデン宣言』を]] — _2026-06-09 · ななしさん＠発達中 (anonymous poster / 2ch-style thread aggregator)_
+
+### 🎬 Video (1)
+
+- [[Bilibili (channel- 分析学爱好者) — 数学界对AI的防御性反击 - 莱顿人工智能与数学宣言]] — _2026-06-04 · 分析学爱好者 (Analysis Enthusiast)_
 
 ### 📅 Events (1)
 
@@ -222,12 +233,12 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 
 ## Mentions by country (44 countries)
 
-- [[United States (country)\|United States]] — 40
+- [[United States (country)\|United States]] — 44
 - [[Netherlands (country)\|Netherlands]] — 15
 - [[Japan (country)\|Japan]] — 12
-- [[China (country)\|China]] — 9
+- [[China (country)\|China]] — 10
 - [[France (country)\|France]] — 9
-- [[Germany (country)\|Germany]] — 7
+- [[Germany (country)\|Germany]] — 9
 - [[Italy (country)\|Italy]] — 6
 - [[Russia (country)\|Russia]] — 6
 - [[Spain (country)\|Spain]] — 6
@@ -237,13 +248,13 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Switzerland (country)\|Switzerland]] — 4
 - [[Turkey (country)\|Turkey]] — 4
 - [[Croatia (country)\|Croatia]] — 3
+- [[Romania (country)\|Romania]] — 3
 - [[Vietnam (country)\|Vietnam]] — 3
 - [[Czechia (country)\|Czechia]] — 2
 - [[Greece (country)\|Greece]] — 2
 - [[Hungary (country)\|Hungary]] — 2
 - [[Israel (country)\|Israel]] — 2
 - [[Philippines (country)\|Philippines]] — 2
-- [[Romania (country)\|Romania]] — 2
 - [[Serbia (country)\|Serbia]] — 2
 - [[South Korea (country)\|South Korea]] — 2
 - [[Argentina (country)\|Argentina]] — 1

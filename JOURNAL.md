@@ -159,6 +159,26 @@ mathematics (proof, verification, attribution, peer review, human oversight).
 - This development journal and git history remain as a factual record of the work
   (including that analysis was added and then removed on request).
 
+## 2026-06-16 — Round 3 deep search (forums / video / academic)
+
+- Deep sweep (12 lenses + gap round, legit-only, anti-mirror, dedup vs the 173
+  embedded URLs): 17 fresh candidates → **kept 9** legit/non-mirror, **dropped 2
+  scraper mirrors**, **rejected 5** (incl. the April 2026 Economist piece and a
+  Sept-2025 Leiden symposium video — both pre-/non-declaration; an arXiv essay; a
+  CACM piece). Added **8** → total **173 → 181**.
+- New entries: **FDLIST** (Bielefeld math dept Discourse forum), **John Baez**
+  Mathstodon thread, **Scott Aaronson** (Shtetl-Optimized), **RT DE** (German),
+  **Bilibili** video (Chinese), Marius Buliga & Dan Ma math blogs, ODSC "Last
+  Week in AI" recap. New categories now populated: **forum** (10) and **video** (1).
+- **Excluded:** a Reddit r/math thread whose specific URL could not be confirmed
+  to exist (all Reddit endpoints/archives blocked, no corroborating search hit) —
+  held out rather than risk a dead/wrong link.
+- **Honest gap:** video/podcast yield was thin (1 video, 0 podcasts verifiable) —
+  most candidates predate the declaration or don't explicitly mention it. Need
+  specific URLs from collaborators to add the known video/podcast entries.
+- All new entries carry only factual fields (no `influence`/analysis), per the
+  neutrality rule.
+
 ### Notes for next time
 - Re-run the research workflow periodically (signatory count and coverage keep
   growing); add new rows to `data/mentions.json` and run `python3
