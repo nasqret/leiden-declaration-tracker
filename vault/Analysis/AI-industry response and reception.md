@@ -8,7 +8,7 @@ Analytical notes on how the [[Leiden Declaration on AI and Mathematics]] was rec
 
 ## The AI industry's silence
 
-Essentially total silence as of mid-June 2026: no public response from Demis Hassabis, Sam Altman, Dario Amodei, OpenAI, DeepMind, Anthropic, Google, or Meta; no AI-industry-affiliated names among the 2,528 signatories.
+No AI lab or leader (Hassabis, Altman, Amodei, OpenAI, DeepMind, Anthropic, Google, Meta) issued any public response to the declaration. The notable exception on the signatory side is Yann LeCun — NYU professor and Meta's chief AI scientist — who signed (listed under NYU) but said nothing publicly about it. The broader pattern is institutional silence from the AI industry alongside quiet individual endorsement.
 
 > With 170+ mentions across 44 countries, the most conspicuous non-response is from the AI labs whose work prompted the declaration.
 
@@ -20,9 +20,9 @@ Essentially total silence as of mid-June 2026: no public response from Demis Has
 - **Attribution critique in the mainstream press:** [[Le Figaro (FigaroVox)]] (Aurélie Jean) — *OpenAI relies on the work of many mathematicians it doesn't credit.*
 - **Dismissive take:** [[Dr. Jason Polak (Substack)]] — *"The Leiden Declaration on AI is pathetic."*
 
-## Correction: Yann LeCun did **not** sign
+## Yann LeCun did sign (corrected)
 
-Claim that Yann LeCun signed is FALSE; it traces to an AI-generated search summary misreading the Italian MaddMaths piece, which only calls LeCun 'one of the great AI experts', not a signatory. Official list (2,528) and Wikipedia do not list him.
+CORRECTION (2026-06-16): Yann LeCun (NYU professor and Meta's chief AI scientist) DID sign the declaration — he appears on the official signatories list (leidendeclaration.ai/signatories?q=Yann, listed with a verified NYU email), although he published nothing about his endorsement. An earlier automated check returned a false negative because it queried the wrong search parameter and did not paginate; a collaborator corrected it.
 
 ## Most-quoted line
 

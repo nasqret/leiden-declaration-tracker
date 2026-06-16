@@ -94,6 +94,7 @@ KEY_PEOPLE = {
     "Robbert Dijkgraaf": "Mathematical physicist; former Dutch Minister of Education, Culture and Science; notable signatory.",
     "Kevin Buzzard": "Imperial College London; leader of formalization (Lean) efforts; notable signatory.",
     "Jeremy Avigad": "Carnegie Mellon University; logic and formal verification; notable signatory.",
+    "Yann LeCun": "NYU professor and Meta's chief AI scientist; a prominent (and frequently LLM-skeptical) AI-industry figure who signed the declaration — listed under NYU — without any public comment about his endorsement.",
 }
 
 
@@ -401,7 +402,7 @@ def render_analysis(data):
         "*OpenAI relies on the work of many mathematicians it doesn't credit.*",
         "- **Dismissive take:** [[Dr. Jason Polak (Substack)]] — *\"The Leiden Declaration on AI is pathetic.\"*",
         "",
-        "## Correction: Yann LeCun did **not** sign",
+        "## Yann LeCun did sign (corrected)",
         "",
         a.get("lecun_note", ""),
         "",
@@ -468,7 +469,7 @@ def render_landing(data, mentions):
       <a href="https://thesynthesisai.substack.com/p/the-leiden-declaration" target="_blank" rel="noopener">“a job application, not a protest letter”</a>;
       others framed it as a <a href="https://howmathsavestheworld.substack.com/p/when-ai-came-for-math-the-mathematicians" target="_blank" rel="noopener">reusable governance template</a>,
       while co-author Michael Harris described the aim as “recovering control of the narrative&nbsp;… from the A.I. industry.”</p>
-    <p style="color:var(--muted)"><b>Correction.</b> %s</p>
+    <p style="color:var(--muted)"><b>Yann LeCun.</b> %s</p>
   </div>""" % (esc(a.get("industry_response", "")), esc(a.get("most_quoted", "")), esc(a.get("lecun_note", "")))) if a else ""
 
     return f"""<!DOCTYPE html>

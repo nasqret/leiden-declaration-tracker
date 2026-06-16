@@ -110,6 +110,22 @@ mathematics (proof, verification, attribution, peer review, human oversight).
   - Captured commentator framings ("a job application, not a protest letter"; governance template; Harris's "recover the narrative"; Polak's "pathetic") in a generated **Analysis note** + landing "Reception & analysis" panel.
 - **Unresolved:** could not locate a **John Horgan** post specifically about the declaration (checked his Cross-Check index + site search). Awaiting the URL from collaborators rather than guessing.
 
+## 2026-06-16 — Correction: Yann LeCun DID sign
+
+- A collaborator corrected my earlier (wrong) finding: **Yann LeCun signed** the
+  declaration. Verified at <https://leidendeclaration.ai/signatories?q=Yann> —
+  listed as *"Yann LeCun, verified email, New York University."* He published
+  nothing about his endorsement.
+- **Why I got it wrong:** the verification agent queried the signatories list with
+  the wrong parameter (`?search=LeCun`, and only page 1) and treated the empty
+  result as proof of absence — a false negative. The correct param is `?q=`.
+  Lesson recorded in memory [[verifying-negative-claims]].
+- **Fixes applied:** added Yann LeCun to notable signatories + a People note;
+  corrected the vault Analysis note and landing "Reception & analysis" panel;
+  nuanced the AI-industry finding — institutional silence (no lab/leader response)
+  **alongside** one major industry figure (Meta's chief AI scientist) quietly
+  signing under his NYU affiliation. Total mentions unchanged (171).
+
 ### Notes for next time
 - Re-run the research workflow periodically (signatory count and coverage keep
   growing); add new rows to `data/mentions.json` and run `python3

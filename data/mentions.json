@@ -15,7 +15,8 @@
       "Jeremy Avigad",
       "Kevin Buzzard",
       "Michael Harris",
-      "Rodrigo Ochigame"
+      "Rodrigo Ochigame",
+      "Yann LeCun"
     ],
     "summary": "A June 2026 declaration warning that artificial intelligence threatens the core values of mathematics — proof, verification, attribution, peer review and human oversight — and calling on mathematicians, institutions, policymakers and tech companies to disclose AI use, protect authorship, preserve peer review and keep research independent of commercial pressure."
   },
@@ -3609,9 +3610,9 @@
     }
   ],
   "analysis": {
-    "lecun_signed": false,
-    "lecun_note": "Claim that Yann LeCun signed is FALSE; it traces to an AI-generated search summary misreading the Italian MaddMaths piece, which only calls LeCun 'one of the great AI experts', not a signatory. Official list (2,528) and Wikipedia do not list him.",
-    "industry_response": "Essentially total silence as of mid-June 2026: no public response from Demis Hassabis, Sam Altman, Dario Amodei, OpenAI, DeepMind, Anthropic, Google, or Meta; no AI-industry-affiliated names among the 2,528 signatories.",
+    "lecun_signed": true,
+    "lecun_note": "CORRECTION (2026-06-16): Yann LeCun (NYU professor and Meta's chief AI scientist) DID sign the declaration — he appears on the official signatories list (leidendeclaration.ai/signatories?q=Yann, listed with a verified NYU email), although he published nothing about his endorsement. An earlier automated check returned a false negative because it queried the wrong search parameter and did not paginate; a collaborator corrected it.",
+    "industry_response": "No AI lab or leader (Hassabis, Altman, Amodei, OpenAI, DeepMind, Anthropic, Google, Meta) issued any public response to the declaration. The notable exception on the signatory side is Yann LeCun — NYU professor and Meta's chief AI scientist — who signed (listed under NYU) but said nothing publicly about it. The broader pattern is institutional silence from the AI industry alongside quiet individual endorsement.",
     "most_quoted": "'Don't believe the hype' (Recommendation 2 to policymakers) was the single most-quoted line, headlining the AFP wire and dozens of derivative pieces."
   }
 }

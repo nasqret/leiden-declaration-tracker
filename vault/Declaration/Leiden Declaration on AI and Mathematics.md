@@ -28,6 +28,7 @@ A June 2026 declaration warning that artificial intelligence threatens the core 
 - [[Kevin Buzzard]]
 - Michael Harris
 - Rodrigo Ochigame
+- [[Yann LeCun]]
 
 ## Coverage
 
