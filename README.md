@@ -1,5 +1,7 @@
 # Leiden Declaration — Media Coverage Tracker
 
+**🌐 Live landing page: <https://nasqret.github.io/leiden-declaration-tracker/>**
+
 A knowledge base tracking **every traced mention across the internet** of the
 [**Leiden Declaration on Artificial Intelligence and Mathematics**](https://leidendeclaration.ai) —
 newspapers, magazines, blogs, institutional announcements, and notable
