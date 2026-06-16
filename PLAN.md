@@ -44,7 +44,8 @@ of mathematics (proof, verification, attribution, peer review, human oversight).
 - [x] Journal (`JOURNAL.md`)
 - [x] Plan (`PLAN.md`) — this file
 - [x] Local git repository
-- [x] Private GitHub repository
+- [x] ~~Private~~ **Public** GitHub repository — <https://github.com/nasqret/leiden-declaration-tracker>
+- [x] Live landing page via GitHub Pages — <https://nasqret.github.io/leiden-declaration-tracker/>
 
 ## Maintenance
 To refresh coverage later: re-run the research workflow (or add rows to

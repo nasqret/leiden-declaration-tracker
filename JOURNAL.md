@@ -72,6 +72,16 @@ mathematics (proof, verification, attribution, peer review, human oversight).
 - `PLAN.md`, `README.md`, this journal, and a Claude memory file.
 - Local git repo → private GitHub repo.
 
+## 2026-06-16 — Public deployment + GitHub Pages
+
+- Switched the GitHub repo from private to **public**.
+- Added `.github/workflows/pages.yml` — a GitHub Actions workflow that publishes
+  the `landing/` folder to **GitHub Pages** (clean root URL, no file
+  duplication; auto-redeploys on any push touching `landing/`).
+- Enabled Pages with the "GitHub Actions" build source; set the repo homepage.
+- **Live landing page:** <https://nasqret.github.io/leiden-declaration-tracker/>
+  — verified HTTP 200 serving all 131 records.
+
 ### Notes for next time
 - Re-run the research workflow periodically (signatory count and coverage keep
   growing); add new rows to `data/mentions.json` and run `python3
