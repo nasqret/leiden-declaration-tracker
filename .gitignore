@@ -1,0 +1,18 @@
+# Local Claude Code settings (machine-specific)
+.claude/
+
+# OS / editor cruft
+.DS_Store
+*.swp
+*~
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Obsidian workspace state (keep config, drop per-machine UI state)
+vault/.obsidian/workspace.json
+vault/.obsidian/workspace-mobile.json
+vault/.obsidian/cache
