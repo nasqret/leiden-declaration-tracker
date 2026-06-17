@@ -124,24 +124,38 @@ try {
 } catch(e) { map=null; }
 if (!map) { const w=document.getElementById('mapwrap'); if(w) w.style.display='none'; }
 
-function jitter(seed){
-  let h=0; seed=seed||''; for(let i=0;i<seed.length;i++){h=(h*31+seed.charCodeAt(i))>>>0;}
-  return [((h%1000)/1000-0.5)*1.1, (((h>>>10)%1000)/1000-0.5)*1.1];
-}
 function drawMap(rows){
   if(!map||!markerLayer) return 0;
   markerLayer.clearLayers();
-  let n=0;
+  // Group by exact coordinate. Singletons are placed EXACTLY on their city;
+  // only genuinely co-located dots are fanned out on a small circle centred on
+  // the true location (so a dot never drifts far from the town it represents).
+  const groups={};
   rows.forEach(m => {
     if (typeof m.lat !== 'number' || typeof m.lon !== 'number') return;
-    const j = jitter(m.url);
-    const mk = L.circleMarker([m.lat+j[0], m.lon+j[1]], {
-      radius:6, weight:1, color:'#0b0c18',
-      fillColor: COLORS[m.outlet_type]||COLORS.other, fillOpacity:.85
+    const k = m.lat.toFixed(3)+','+m.lon.toFixed(3);
+    (groups[k] = groups[k] || []).push(m);
+  });
+  let n=0;
+  Object.keys(groups).forEach(k => {
+    const g=groups[k], c=g.length;
+    g.forEach((m,i) => {
+      let lat=m.lat, lon=m.lon;
+      if (c>1) {
+        const r = Math.min(0.04 + 0.008*c, 0.12);           // ring radius in degrees (~4-13 km)
+        const ang = 2*Math.PI*i/c;
+        const latScale = Math.max(0.25, Math.cos(m.lat*Math.PI/180));
+        lat = m.lat + r*Math.sin(ang);
+        lon = m.lon + (r*Math.cos(ang))/latScale;            // correct longitude for latitude
+      }
+      const mk = L.circleMarker([lat, lon], {
+        radius:6, weight:1, color:'#0b0c18',
+        fillColor: COLORS[m.outlet_type]||COLORS.other, fillOpacity:.85
+      });
+      mk.bindTooltip(esc(m.outlet));
+      mk.bindPopup('<b>'+esc(m.outlet)+'</b><br><a href="'+esc(m.url)+'" target="_blank" rel="noopener">'+esc(m.title)+'</a><br><small>'+esc(m.outlet_type)+(m.date?' · '+esc(m.date):'')+(m.country?' · '+esc(m.country):'')+'</small>');
+      markerLayer.addLayer(mk); n++;
     });
-    mk.bindTooltip(esc(m.outlet));
-    mk.bindPopup('<b>'+esc(m.outlet)+'</b><br><a href="'+esc(m.url)+'" target="_blank" rel="noopener">'+esc(m.title)+'</a><br><small>'+esc(m.outlet_type)+(m.date?' · '+esc(m.date):'')+(m.country?' · '+esc(m.country):'')+'</small>');
-    markerLayer.addLayer(mk); n++;
   });
   return n;
 }

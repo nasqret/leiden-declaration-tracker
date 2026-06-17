@@ -179,6 +179,20 @@ mathematics (proof, verification, attribution, peer review, human oversight).
 - All new entries carry only factual fields (no `influence`/analysis), per the
   neutrality rule.
 
+## 2026-06-17 — Map dot accuracy fix
+
+- A collaborator noted some dots (e.g. Edinburgh) sat far from the actual town.
+- **Investigation:** bbox-checked all 75 distinct locations against their
+  country and eyeballed every city/lat-lon. **All stored coordinates are
+  correct** (Edinburgh = 55.9533,-3.1883, the true city centre). The drift was a
+  rendering artifact: the map added up to **±0.55° (~60 km) random jitter** to
+  separate overlapping dots, which threw coastal singletons into the sea.
+- **Fix:** replaced random jitter with coordinate-grouping — **singletons are
+  placed exactly** on their city; only genuinely co-located dots are fanned out
+  on a **small ring (≤~13 km) centred on the true location**. No coordinate data
+  was wrong, so none needed changing. (3 US-only Substacks with unknown city
+  remain at the US centroid as an explicit country-level placeholder.)
+
 ### Notes for next time
 - Re-run the research workflow periodically (signatory count and coverage keep
   growing); add new rows to `data/mentions.json` and run `python3
