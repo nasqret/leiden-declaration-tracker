@@ -6,7 +6,7 @@ tags: [moc, home]
 
 Knowledge base tracking **every traced mention** of the [[Leiden Declaration on AI and Mathematics]] across the internet — newspapers, magazines, blogs, institutional announcements and social media.
 
-- **Total mentions catalogued:** 181
+- **Total mentions catalogued:** 182
 - **Declaration published:** 2026-06-02
 - **Knowledge base generated:** 2026-06-16
 
@@ -131,7 +131,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Columbia News — Protecting the Values of Mathematics as It Adapts to AI]] — _2026-06-11 · Michael Harris (Columbia University mathematician, co-author of the declaration)_
 - [[MaddMaths! (SIMAI) — La dichiarazione di Leida – Né luddisti, né futuristi- l'In]] — _2026-06-15 · Massimo Martone_
 
-### ✍️ Blogs (46)
+### ✍️ Blogs (47)
 
 - [[What's new (Terence Tao blog) — Mathematical methods and human thought in the ag]] — _2026-03-29 · Terence Tao_
 - [[Combinatorics and more (Gil Kalai's blog) — Amazing- Erdős' Unit Distance Proble]] — _2026-05-21 · Gil Kalai_
@@ -179,6 +179,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Habr — Более 150 ведущих мировых математиков опубликовали «Лейденскую декларацию]] — _2026-06-12 · Habr news desk (unattributed)_
 - [[Shazoo — Более 150 математиков призвали правительства не верить хайпу вокруг воз]] — _2026-06-12 · Коэн (Cohen)_
 - [[Webnews.it — AI e matematica, l'avvertimento di oltre 150 ricercatori- entusiasm]] — _2026-06-12 · Silvia Dalia_
+- [[Cross-Check (John Horgan) — AI Ain't Gonna Save Higher Ed]] — _2026-06-14 · John Horgan_
 
 ### 📨 Newsletters (9)
 
@@ -233,7 +234,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 
 ## Mentions by country (44 countries)
 
-- [[United States (country)\|United States]] — 44
+- [[United States (country)\|United States]] — 45
 - [[Netherlands (country)\|Netherlands]] — 15
 - [[Japan (country)\|Japan]] — 12
 - [[China (country)\|China]] — 10

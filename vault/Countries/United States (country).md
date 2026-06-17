@@ -1,16 +1,17 @@
 ---
 tags: [country]
 country_code: "US"
-mentions: 44
+mentions: 45
 ---
 
 # United States
 
-44 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
+45 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
 
 - [[AI Weekly — Leiden Declaration on AI and Mathematics- 130+ Researchers and Inter]] — _newsletter · English · 2026-06-02_
 - [[Ars Technica — Mathematicians warn of AI threats to profession as industry encro]] — _newspaper · English · 2026-06-02_
 - [[Columbia News — Protecting the Values of Mathematics as It Adapts to AI]] — _institutional · English · 2026-06-11_
+- [[Cross-Check (John Horgan) — AI Ain't Gonna Save Higher Ed]] — _blog · English · 2026-06-14_
 - [[Dan Ma's Topology Blog — More confession by Google AI Gemini]] — _blog · English · 2026-06-04_
 - [[Dr. Jason Polak (Substack) — The Leiden Declaration on AI is pathetic]] — _newsletter · English · 2026-06-03_
 - [[Futurism — Over 150 Mathematicians Warn Governments Not to -Believe the Hype- Ab]] — _magazine · English · 2026-06-06_
