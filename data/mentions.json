@@ -23,11 +23,11 @@
   "generated": "2026-06-16",
   "counts": {
     "total_unique": 139,
-    "real": 184,
+    "real": 185,
     "rejected": 7,
     "round1_candidates": 90,
     "round2_candidates": 50,
-    "manual_additions": 6,
+    "manual_additions": 7,
     "resweep_added": 33,
     "geocoded": 181,
     "supplementary_added": 6,
@@ -3519,6 +3519,25 @@
       "city": "Frankfurt",
       "lat": 50.1109,
       "lon": 8.6821
+    },
+    {
+      "verified": true,
+      "confidence": "likely",
+      "title": "Edwy Plenel (Mediapart founder) shares the Leiden Declaration on X",
+      "outlet": "X (Twitter)",
+      "outlet_type": "social",
+      "author": "Edwy Plenel",
+      "date": "2026-06-17",
+      "url": "https://x.com/edwyplenel/status/2067150087642288547",
+      "language": "French",
+      "summary": "Edwy Plenel, the founder of the French investigative outlet Mediapart, shared the Leiden Declaration on X, framing it as mathematicians launching an appeal to regain control over AI. The post notes the declaration has been signed by more than 2,300 researchers and identifies five threats (notably to autonomy and the evaluation process), and links to the official declaration website.",
+      "key_quote": "",
+      "notes": "Added 2026-06-17, surfaced during a search and confirmed of interest by the user. X/Twitter blocks automated fetch (HTTP 402); the post's content and its link to leidendeclaration.ai are corroborated by search snippets, and the link-preview title is 'Leiden Declaration on Artificial Intelligence and Mathematics'. Influential social mention (Mediapart founder). Confidence 'likely'; exact wording/date to confirm against the live post.",
+      "country": "France",
+      "country_code": "FR",
+      "city": "Paris",
+      "lat": 48.8566,
+      "lon": 2.3522
     }
   ],
   "rejected": [

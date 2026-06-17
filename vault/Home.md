@@ -6,7 +6,7 @@ tags: [moc, home]
 
 Knowledge base tracking **every traced mention** of the [[Leiden Declaration on AI and Mathematics]] across the internet — newspapers, magazines, blogs, institutional announcements and social media.
 
-- **Total mentions catalogued:** 184
+- **Total mentions catalogued:** 185
 - **Declaration published:** 2026-06-02
 - **Knowledge base generated:** 2026-06-16
 
@@ -194,7 +194,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[The Synthesis (Substack) — The Leiden Declaration is a job application, not a pr]] — _2026-06-10 · The Synthesis (no individual byline)_
 - [[Silicon Reckoner — -there's this like massive exogenous force- haunting mathemat]] — _2026-06-13 · Michael Harris_
 
-### 💬 Social media (9)
+### 💬 Social media (10)
 
 - [[LinkedIn — Benjamin Han — The Leiden Declaration on AI and Mathematics — synesis]] — _2026-06 · Benjamin Han_
 - [[LinkedIn — Philippe Pasquier — Leiden Declaration on AI- A Call for Actionable A]] — _2026-06 · Philippe Pasquier_
@@ -205,6 +205,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[LinkedIn — Blaženka Divjak — Leiden Declaration on Artificial Intelligence and M]] — _2026-06-03 · Blaženka Divjak_
 - [[Mathstodon — John Carlos Baez thread on the Leiden Declaration and incentives in]] — _2026-06-03 · John Carlos Baez_
 - [[LinkedIn — Norbert Gehrke — Leiden Declaration on AI and Mathematics]] — _2026-06-09 · Norbert Gehrke_
+- [[X (Twitter) — Edwy Plenel (Mediapart founder) shares the Leiden Declaration on X]] — _2026-06-17 · Edwy Plenel_
 
 ### 🗣️ Forums & discussion (10)
 
@@ -239,8 +240,8 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[United States (country)\|United States]] — 45
 - [[Netherlands (country)\|Netherlands]] — 15
 - [[Japan (country)\|Japan]] — 12
+- [[France (country)\|France]] — 11
 - [[China (country)\|China]] — 10
-- [[France (country)\|France]] — 10
 - [[Germany (country)\|Germany]] — 10
 - [[Italy (country)\|Italy]] — 6
 - [[Russia (country)\|Russia]] — 6
