@@ -6,7 +6,7 @@ tags: [moc, home]
 
 Knowledge base tracking **every traced mention** of the [[Leiden Declaration on AI and Mathematics]] across the internet — newspapers, magazines, blogs, institutional announcements and social media.
 
-- **Total mentions catalogued:** 182
+- **Total mentions catalogued:** 184
 - **Declaration published:** 2026-06-02
 - **Knowledge base generated:** 2026-06-16
 
@@ -14,7 +14,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 
 ## Mentions by category
 
-### 📰 Newspapers & wire services (62)
+### 📰 Newspapers & wire services (63)
 
 - [[TGRT Haber — Hükümetlere yapay zekâ uyarısı- Bildiri yayınladılar]]
 - [[Neue Zürcher Zeitung (NZZ) — KI knackt ein 80 Jahre altes Mathe-Rätsel – ein Wen]] — _2026_
@@ -78,6 +78,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Virtual Brest (virtualbrest.ru) — Более 150 математиков призвали не верить ажиот]] — _2026-06-14 · Not bylined (republished from Tochka.by / tochka.by)_
 - [[ČT24 (Česká televize) — Matematici se obávají dopadů AI. Čech vysvětluje, proč p]] — _2026-06-15 · Tomáš Karlík_
 - [[Yahoo!ニュース (ビジネス+IT配信 - SB Creative Business+IT) — 数学分野でシンギュラリティ到来か？AIによる相次ぐ未解決難]] — _2026-06-16 · ビジネス+IT編集部 (Business+IT editorial; byline not individually attributed)_
+- [[Le Monde — Des mathématiciens lancent un appel pour reprendre la main sur l'IA]] — _2026-06-17_
 
 ### 📰 Newspapers & wire services (2)
 
@@ -218,9 +219,10 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[FDLIST (Bielefeld mathematics forum, Discourse) — Leiden Declaration on AI and M]] — _2026-06-05 · fdlist.team (on behalf of Karthik Ganapathy, SEW Postdoctoral Fellow, UC San Diego)_
 - [[凹凸ちゃんねる (hattatu-matome.ldblog.jp) — 【速報】16人の数学者『AIの信頼性と潜在的な脅威』について警告する『ライデン宣言』を]] — _2026-06-09 · ななしさん＠発達中 (anonymous poster / 2ch-style thread aggregator)_
 
-### 🎬 Video (1)
+### 🎬 Video (2)
 
 - [[Bilibili (channel- 分析学爱好者) — 数学界对AI的防御性反击 - 莱顿人工智能与数学宣言]] — _2026-06-04 · 分析学爱好者 (Analysis Enthusiast)_
+- [[Sabine Hossenfelder (YouTube) — Maths is Cooked- AI's Latest Breakthrough — And]] — _2026-06-15 · Sabine Hossenfelder_
 
 ### 📅 Events (1)
 
@@ -238,8 +240,8 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Netherlands (country)\|Netherlands]] — 15
 - [[Japan (country)\|Japan]] — 12
 - [[China (country)\|China]] — 10
-- [[France (country)\|France]] — 9
-- [[Germany (country)\|Germany]] — 9
+- [[France (country)\|France]] — 10
+- [[Germany (country)\|Germany]] — 10
 - [[Italy (country)\|Italy]] — 6
 - [[Russia (country)\|Russia]] — 6
 - [[Spain (country)\|Spain]] — 6
