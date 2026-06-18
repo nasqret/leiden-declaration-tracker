@@ -23,11 +23,11 @@
   "generated": "2026-06-16",
   "counts": {
     "total_unique": 139,
-    "real": 185,
+    "real": 186,
     "rejected": 7,
     "round1_candidates": 90,
     "round2_candidates": 50,
-    "manual_additions": 7,
+    "manual_additions": 8,
     "resweep_added": 33,
     "geocoded": 181,
     "supplementary_added": 6,
@@ -3538,6 +3538,25 @@
       "city": "Paris",
       "lat": 48.8566,
       "lon": 2.3522
+    },
+    {
+      "verified": true,
+      "confidence": "likely",
+      "title": "Mathematicians are developing rules for AI use — other fields should follow",
+      "outlet": "Nature (Editorial)",
+      "outlet_type": "academic",
+      "author": "",
+      "date": "2026-06-16",
+      "url": "https://www.nature.com/articles/d41586-026-01881-2",
+      "language": "English",
+      "summary": "An unsigned Editorial in Nature arguing that the mathematics community is right to call for transparency, integrity and fairness to be protected when AI tools are used, and that researchers in other disciplines should learn from its approach. It recounts the September 2025 Leiden University meeting that produced the Leiden Declaration on Artificial Intelligence and Mathematics, which recognises AI's potential while urging that human judgement, transparency and fairness be safeguarded.",
+      "key_quote": "The mathematics community is right to call for transparency, integrity and fairness to be protected when AI tools are used.",
+      "notes": "Added 2026-06-18, provided by the user — a high-prestige institutional editorial (the journal's own voice). Nature is paywalled: both the HTML article and the PDF redirect automated fetch to an auth wall, but the exact title, date (16 June 2026), Editorial status, the Leiden Declaration reference and the quoted sentence are corroborated by the search index. Confidence 'likely'. Canonical HTML article URL stored; PDF at the same id + '.pdf'. Not the 2015 Leiden Manifesto.",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "city": "London",
+      "lat": 51.5074,
+      "lon": -0.1278
     }
   ],
   "rejected": [

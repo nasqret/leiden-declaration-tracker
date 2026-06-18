@@ -6,7 +6,7 @@ tags: [moc, home]
 
 Knowledge base tracking **every traced mention** of the [[Leiden Declaration on AI and Mathematics]] across the internet — newspapers, magazines, blogs, institutional announcements and social media.
 
-- **Total mentions catalogued:** 185
+- **Total mentions catalogued:** 186
 - **Declaration published:** 2026-06-02
 - **Knowledge base generated:** 2026-06-16
 
@@ -99,9 +99,10 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Rivista AI — Dichiarazione di Leida. I matematici chiedono regole per l'AI- -la]] — _2026-06-13_
 - [[Business+IT - ビジネス+IT (SBBIT, SoftBank Creative - SB Creative, Japan) — 数学分野でシンギ]] — _2026-06-16 · No visible individual byline; published by Business+IT editorial (ビジネス+IT)_
 
-### 🎓 Academic & scholarly (1)
+### 🎓 Academic & scholarly (2)
 
 - [[Zenodo — Leiden Declaration on Artificial Intelligence and Mathematics]] — _2026-06-02 · Jarod Alper, Michael Barany, Alain Chavarri Villarello, Sander Dahmen, Walter Dean, Karthik Ganapathy, Michael Harris, David Holmes, Mateja Jamnik, Steven Kelk, Bryna Kra, Ursula Martin, Bartosz Naskręcki, Rodrigo Ochigame, Jim Portegies, Johannes Schmitt_
+- [[Nature (Editorial) — Mathematicians are developing rules for AI use — other fiel]] — _2026-06-16_
 
 ### 🏛️ Institutions & societies (26)
 
@@ -246,7 +247,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Italy (country)\|Italy]] — 6
 - [[Russia (country)\|Russia]] — 6
 - [[Spain (country)\|Spain]] — 6
-- [[United Kingdom (country)\|United Kingdom]] — 5
+- [[United Kingdom (country)\|United Kingdom]] — 6
 - [[Brazil (country)\|Brazil]] — 4
 - [[Poland (country)\|Poland]] — 4
 - [[Switzerland (country)\|Switzerland]] — 4
