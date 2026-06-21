@@ -1,17 +1,19 @@
 ---
 tags: [country]
 country_code: "GB"
-mentions: 8
+mentions: 10
 ---
 
 # United Kingdom
 
-8 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United Kingdom**:
+10 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United Kingdom**:
 
 - [[Academy for the Mathematical Sciences — Announcement of -Leiden Declaration on A]] — _institutional · English · 2026-06_
 - [[Institute of Mathematics and its Applications (IMA) — AI is challenging the core]] — _institutional · English · 2026-06-12_
 - [[Isaac Newton Institute — Mathematicians call for action on AI to protect the fut]] — _institutional · English · 2026-06_
 - [[London Mathematical Society — Leiden Declaration on Artificial Intelligence and]] — _institutional · English · 2026-06-02_
+- [[Mathstodon (mathstodon.xyz) — Terence Tao reply- signing eligibility (-if you co]] — _social · English · 2026-06-02_
+- [[Mathstodon (mathstodon.xyz) — John Carlos Baez- -I signed this declaration about]] — _social · English · 2026-06-02_
 - [[Nature (Editorial) — Mathematicians are developing rules for AI use — other fiel]] — _academic · English · 2026-06-16_
 - [[Research Professional News — AI is eroding science's foundations—we must act]] — _newspaper · English · 2026-06-18_
 - [[University of Edinburgh (School of Social and Political Science) — AI is challen]] — _institutional · English · 2026-06-03_

@@ -1,14 +1,15 @@
 ---
 tags: [country]
 country_code: "RU"
-mentions: 6
+mentions: 7
 ---
 
 # Russia
 
-6 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **Russia**:
+7 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **Russia**:
 
 - [[Habr — Более 150 ведущих мировых математиков опубликовали «Лейденскую декларацию]] — _blog · Russian · 2026-06-12_
+- [[N+1 (nplus1.ru) — Рог математического изобилия. Рассказываем, как языковые модел]] — _magazine · Russian · 2026-06-11_
 - [[Naked Science — Более 150 математиков призвали правительства не верить ажиотажу]] — _magazine · Russian · 2026-06-10_
 - [[RTVI — Искусственный интеллект отбирает у молодых математиков шансы на карьеру]] — _newspaper · Russian · 2026-06-09_
 - [[Shazoo — Более 150 математиков призвали правительства не верить хайпу вокруг воз]] — _blog · Russian · 2026-06-12_

@@ -193,6 +193,29 @@ mathematics (proof, verification, attribution, peer review, human oversight).
   was wrong, so none needed changing. (3 US-only Substacks with unknown city
   remain at the US centroid as an explicit country-level placeholder.)
 
+## 2026-06-21 — Round 4: second deep search (+23 → 211)
+
+- Fresh deep sweep (12 lenses + gap round; legit-only, anti-mirror; deduped vs
+  the 188 embedded URLs; verifiers geo-located inline). 36 fresh candidates →
+  **kept 23**, **dropped 5 scraper mirrors** (Mirage, Gizmodo Japan,
+  McInformactions, Habr, Wetterauer Zeitung), **rejected 8** (the April-2026
+  Economist again; pre-/non-declaration arXiv papers; the Lorentz workshop
+  YouTube channel; the Backreaction blog text again; an El País piece that
+  doesn't cite it; an Azim Premji faculty page). Total **188 → 211**.
+- **Washington Post — correction of an earlier finding:** WaPo *did* publish on
+  the declaration — "Math has helped define humanity…" (science, 14 June 2026).
+  My earlier "no WaPo coverage (not a miss)" was true at the time but is now
+  superseded; it's added.
+- Other notable adds: a *Nature*-tier institutional spread — **Vrije
+  Universiteit Amsterdam**, **TU/e CASA** (Portegies's own group), **McDermott
+  Will & Emery** (law-firm IP/AI analysis), **Retraction Watch**, **ANSA** wire
+  (Italy), **N+1** (Russia), **HuffPost España**, Greek press (Protagon,
+  Unboxholics), **Menéame** (×2, Spain forum), more Tao/Baez **Mathstodon**
+  threads, a 2nd Bilibili video, and structured index records (**OpenAlex**,
+  **Wikidata**).
+- Social author-geo normalized to match existing convention (Tao→Los Angeles,
+  Baez→Edinburgh). All 211 entries geo-located; still neutral/facts-only.
+
 ### Notes for next time
 - Re-run the research workflow periodically (signatory count and coverage keep
   growing); add new rows to `data/mentions.json` and run `python3

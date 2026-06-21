@@ -1,13 +1,14 @@
 ---
 tags: [country]
 country_code: "IT"
-mentions: 6
+mentions: 7
 ---
 
 # Italy
 
-6 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **Italy**:
+7 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **Italy**:
 
+- [[ANSA (Agenzia Nazionale Stampa Associata) — I matematici chiedono regole per l'I]] — _wire · Italian · 2026-06-19_
 - [[Hardware Upgrade — I matematici contro i big dell'IA- basta addestrare i modelli]] — _newspaper · Italian · 2026-06-05_
 - [[IlSoftware.it — Perche oltre 150 matematici stanno lanciando un avvertimento sul]] — _blog · Italian · 2026-06-08_
 - [[MaddMaths! (SIMAI) — La dichiarazione di Leida – Né luddisti, né futuristi- l'In]] — _institutional · Italian · 2026-06-15_

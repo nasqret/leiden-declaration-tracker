@@ -11,3 +11,4 @@ Connected to the [[Leiden Declaration on AI and Mathematics]].
 ## Wrote / spoke about it
 
 - [[What's new (Terence Tao blog) — Mathematical methods and human thought in the ag]]
+- [[Mathstodon (mathstodon.xyz) — Terence Tao (thread continuation)- -I am very impr]]

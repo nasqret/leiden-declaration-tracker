@@ -1,14 +1,15 @@
 ---
 tags: [country]
 country_code: "US"
-mentions: 45
+mentions: 51
 ---
 
 # United States
 
-45 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
+51 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
 
 - [[AI Weekly — Leiden Declaration on AI and Mathematics- 130+ Researchers and Inter]] — _newsletter · English · 2026-06-02_
+- [[AI for Consumers (Substack newsletter) — AI for Consumers – 20260610]] — _newsletter · English · 2026-06-10_
 - [[Ars Technica — Mathematicians warn of AI threats to profession as industry encro]] — _newspaper · English · 2026-06-02_
 - [[Columbia News — Protecting the Values of Mathematics as It Adapts to AI]] — _institutional · English · 2026-06-11_
 - [[Cross-Check (John Horgan) — AI Ain't Gonna Save Higher Ed]] — _blog · English · 2026-06-14_
@@ -31,11 +32,14 @@ mentions: 45
 - [[MSN (en-xl regional-international edition, syndicated) — Leiden Declaration warn]] — _other · English · 2026-06_
 - [[Mathstodon — John Carlos Baez thread on the Leiden Declaration and incentives in]] — _social · English · 2026-06-03_
 - [[Mathstodon (Mastodon, mathstodon.xyz) — Terence Tao- -The long-awaited 'Leiden D]] — _social · English · 2026-06-02_
+- [[Mathstodon (mathstodon.xyz) — Terence Tao (thread continuation)- -I am very impr]] — _social · English · 2026-06_
+- [[McDermott Will & Emery (mcdermottlaw.com Insights) — When mathematicians push ba]] — _institutional · English · 2026-06-16_
 - [[Mind Matters — A moment of sanity- The Leiden Declaration on AI]] — _blog · English · 2026-06-05_
 - [[Not Even Wrong (Peter Woit's blog) — End of Civilization News]] — _blog · English · 2026-06-02_
 - [[Open Data Science (ODSC) — -Last Week in AI- weekly recap — In Case You Missed I]] — _blog · English · 2026-06-08_
 - [[Quantum Formalism (Substack) — The Leiden Declaration Reminds AI Labs That Mathe]] — _newsletter · English · 2026-06-02_
 - [[Quomodocumque (Jordan Ellenberg's blog) — The Leiden Declaration on Artificial I]] — _blog · English · 2026-06-04_
+- [[Retraction Watch — Weekend reads- Moffitt executive steps down following probe;]] — _blog · English · 2026-06-06_
 - [[Science (AAAS) — Mathematicians issue warning as AI rapidly gains ground]] — _magazine · English · 2026-06-02_
 - [[Scientific American — Mathematicians sign declaration to rein in AI use]] — _magazine · English · 2026-06-02_
 - [[Shtetl-Optimized (Scott Aaronson's blog) — On hope (comment thread)]] — _blog · English · 2026-06-02_
@@ -46,8 +50,10 @@ mentions: 45
 - [[The Cool Down — More than 150 math experts tell governments not to trust AI hype]] — _newspaper · English · 2026-06-10_
 - [[The New York Times — As A.I. Makes Strides in Mathematics, Mathematicians Urge C]] — _newspaper · English · 2026-06-02_
 - [[The Synthesis (Substack) — The Leiden Declaration is a job application, not a pr]] — _newsletter · English · 2026-06-10_
+- [[The Washington Post — For centuries, math has been a human endeavor. Does AI mea]] — _newspaper · English · 2026-06-14_
 - [[Weinberg College News, Northwestern University — Mathematician Bryna Kra Among A]] — _institutional · English · 2026-06-02_
 - [[What's new (Terence Tao blog) — Mathematical methods and human thought in the ag]] — _blog · English · 2026-03-29_
+- [[Wikidata — Leiden Declaration on Artificial Intelligence and Mathematics (Q14018]] — _institutional · English · 2026-06-02_
 - [[Wikipedia — Leiden Declaration on Artificial Intelligence and Mathematics]] — _other · English · 2026-06-16_
 - [[X (Twitter) — Steven Strogatz on X- -This terrific article by @sioroberts will h]] — _social · English · 2026-06_
 - [[X (Twitter) — Ananyo Bhattacharya on X- -Leiden Declaration on AI and Mathematic]] — _social · English · 2026-06-02_
