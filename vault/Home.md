@@ -6,7 +6,7 @@ tags: [moc, home]
 
 Knowledge base tracking **every traced mention** of the [[Leiden Declaration on AI and Mathematics]] across the internet — newspapers, magazines, blogs, institutional announcements and social media.
 
-- **Total mentions catalogued:** 186
+- **Total mentions catalogued:** 188
 - **Declaration published:** 2026-06-02
 - **Knowledge base generated:** 2026-06-16
 
@@ -14,7 +14,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 
 ## Mentions by category
 
-### 📰 Newspapers & wire services (63)
+### 📰 Newspapers & wire services (64)
 
 - [[TGRT Haber — Hükümetlere yapay zekâ uyarısı- Bildiri yayınladılar]]
 - [[Neue Zürcher Zeitung (NZZ) — KI knackt ein 80 Jahre altes Mathe-Rätsel – ein Wen]] — _2026_
@@ -79,6 +79,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[ČT24 (Česká televize) — Matematici se obávají dopadů AI. Čech vysvětluje, proč p]] — _2026-06-15 · Tomáš Karlík_
 - [[Yahoo!ニュース (ビジネス+IT配信 - SB Creative Business+IT) — 数学分野でシンギュラリティ到来か？AIによる相次ぐ未解決難]] — _2026-06-16 · ビジネス+IT編集部 (Business+IT editorial; byline not individually attributed)_
 - [[Le Monde — Des mathématiciens lancent un appel pour reprendre la main sur l'IA]] — _2026-06-17_
+- [[Research Professional News — AI is eroding science's foundations—we must act]] — _2026-06-18 · Jim Portegies and Ursula Martin_
 
 ### 📰 Newspapers & wire services (2)
 
@@ -104,7 +105,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Zenodo — Leiden Declaration on Artificial Intelligence and Mathematics]] — _2026-06-02 · Jarod Alper, Michael Barany, Alain Chavarri Villarello, Sander Dahmen, Walter Dean, Karthik Ganapathy, Michael Harris, David Holmes, Mateja Jamnik, Steven Kelk, Bryna Kra, Ursula Martin, Bartosz Naskręcki, Rodrigo Ochigame, Jim Portegies, Johannes Schmitt_
 - [[Nature (Editorial) — Mathematicians are developing rules for AI use — other fiel]] — _2026-06-16_
 
-### 🏛️ Institutions & societies (26)
+### 🏛️ Institutions & societies (27)
 
 - [[International Mathematical Union (IMU) — IMU News 137- May 2026]] — _2026-05 · Christoph Sorger (Secretary General of the IMU)_
 - [[Academy for the Mathematical Sciences — Announcement of -Leiden Declaration on A]] — _2026-06_
@@ -131,6 +132,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[日本数学会 (Mathematical Society of Japan) — 「AIと数学に関するライデン宣言」について]] — _2026-06-08_
 - [[HCC — Wiskundigen slaan alarm- wat gebeurt er met wiskunde in het tijdperk van A]] — _2026-06-10_
 - [[Columbia News — Protecting the Values of Mathematics as It Adapts to AI]] — _2026-06-11 · Michael Harris (Columbia University mathematician, co-author of the declaration)_
+- [[Institute of Mathematics and its Applications (IMA) — AI is challenging the core]] — _2026-06-12_
 - [[MaddMaths! (SIMAI) — La dichiarazione di Leida – Né luddisti, né futuristi- l'In]] — _2026-06-15 · Massimo Martone_
 
 ### ✍️ Blogs (47)
@@ -244,10 +246,10 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[France (country)\|France]] — 11
 - [[China (country)\|China]] — 10
 - [[Germany (country)\|Germany]] — 10
+- [[United Kingdom (country)\|United Kingdom]] — 8
 - [[Italy (country)\|Italy]] — 6
 - [[Russia (country)\|Russia]] — 6
 - [[Spain (country)\|Spain]] — 6
-- [[United Kingdom (country)\|United Kingdom]] — 6
 - [[Brazil (country)\|Brazil]] — 4
 - [[Poland (country)\|Poland]] — 4
 - [[Switzerland (country)\|Switzerland]] — 4
