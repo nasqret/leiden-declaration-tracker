@@ -29,23 +29,29 @@ TYPE_LABELS = {
     "newspaper": "📰 Newspapers & wire services",
     "wire": "📰 Newspapers & wire services",
     "magazine": "🧪 Science & tech magazines",
+    "tv": "📺 TV & broadcast",
+    "radio": "📻 Radio",
     "academic": "🎓 Academic & scholarly",
+    "preprint": "📄 Preprints",
+    "book": "📚 Books",
+    "course": "📘 Courses & teaching",
     "institutional": "🏛️ Institutions & societies",
+    "government": "⚖️ Government & policy",
     "blog": "✍️ Blogs",
     "newsletter": "📨 Newsletters",
     "social": "💬 Social media",
     "forum": "🗣️ Forums & discussion",
+    "qa": "❓ Q&A sites",
     "podcast": "🎙️ Podcasts",
     "video": "🎬 Video",
     "event": "📅 Events",
-    "preprint": "📄 Preprints",
     "other": "🔗 Other",
 }
 # Ordering for display
 TYPE_ORDER = [
-    "newspaper", "wire", "magazine", "academic", "institutional",
-    "blog", "newsletter", "social", "forum", "podcast", "video",
-    "event", "preprint", "other",
+    "newspaper", "wire", "magazine", "tv", "radio", "academic", "preprint",
+    "book", "course", "institutional", "government", "blog", "newsletter",
+    "social", "forum", "qa", "podcast", "video", "event", "other",
 ]
 
 
@@ -187,7 +193,9 @@ def render_home(data, mentions):
     ]
 
     lines += ["## Mentions by category", ""]
-    for t in TYPE_ORDER:
+    # known order first, then any new/unknown types so nothing is dropped
+    ordered_types = TYPE_ORDER + [t for t in sorted(by_type) if t not in TYPE_ORDER]
+    for t in ordered_types:
         items = by_type.get(t)
         if not items:
             continue
@@ -498,7 +506,7 @@ def render_landing(data, mentions):
 </footer>
 <script>
 const DATA = {payload};
-const COLORS = {{newspaper:'#60a5fa',wire:'#3b82f6',magazine:'#34d399',academic:'#a78bfa',institutional:'#f59e0b',blog:'#f472b6',newsletter:'#fb923c',social:'#22d3ee',forum:'#c084fc',podcast:'#facc15',video:'#fb7185',event:'#4ade80',preprint:'#94a3b8',other:'#94a3b8'}};
+const COLORS = {{newspaper:'#60a5fa',wire:'#3b82f6',magazine:'#34d399',academic:'#a78bfa',institutional:'#f59e0b',blog:'#f472b6',newsletter:'#fb923c',social:'#22d3ee',forum:'#c084fc',podcast:'#facc15',video:'#fb7185',event:'#4ade80',preprint:'#94a3b8',tv:'#f87171',radio:'#fbbf24',book:'#a3e635',course:'#2dd4bf',government:'#e879f9',qa:'#38bdf8',other:'#94a3b8'}};
 const list = document.getElementById('list');
 const q = document.getElementById('q');
 const typeSel = document.getElementById('type');
