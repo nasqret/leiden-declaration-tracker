@@ -216,6 +216,27 @@ mathematics (proof, verification, attribution, peer review, human oversight).
 - Social author-geo normalized to match existing convention (Tao→Los Angeles,
   Baez→Edinburgh). All 211 entries geo-located; still neutral/facts-only.
 
+## 2026-06-21 — Academy AI primer + Vision IA video (→ 213)
+
+- **Academy for the Mathematical Sciences — "Mathematics in the age of AI" primer**
+  (Leslie et al., DOI 10.5281/zenodo.20538963, 12 June 2026), provided by the
+  user. Added as one entry (landing page + PDF + DOI are one work). **Caveat:**
+  the Academy site is 403 and Wayback is unreachable, so I could not confirm the
+  primer/landing page explicitly cite the Leiden Declaration; the Zenodo abstract
+  doesn't, though the full PDF may. Included as a closely-related Academy
+  publication at the user's request, `likely`, flagged for removal if it doesn't
+  actually reference the declaration.
+- **Vision IA (YouTube), "L'IA pensait avoir tué les maths…"** (French), declaration
+  discussed ~half-way (t=801s). `likely`; title/channel confirmed via YouTube
+  oembed. Videos now 4.
+- **Bug fixed (dedup):** the merge `norm()` stripped URL query strings, so all
+  `youtube.com/watch?v=...` URLs collapsed to `youtube.com/watch` and a 2nd
+  YouTube video was wrongly flagged a duplicate. Re-added Vision IA with a
+  video-ID check. (Stored data always kept full URLs, so no display collision.)
+  NOTE for future sweeps: the deep-search workflows used the same norm, so they
+  may have silently dropped new YouTube videos that collided with an existing
+  watch URL — use a video-ID-aware norm next time.
+
 ### Notes for next time
 - Re-run the research workflow periodically (signatory count and coverage keep
   growing); add new rows to `data/mentions.json` and run `python3

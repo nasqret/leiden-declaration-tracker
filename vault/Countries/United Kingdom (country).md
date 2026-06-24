@@ -1,13 +1,14 @@
 ---
 tags: [country]
 country_code: "GB"
-mentions: 10
+mentions: 11
 ---
 
 # United Kingdom
 
-10 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United Kingdom**:
+11 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United Kingdom**:
 
+- [[Academy for the Mathematical Sciences — Mathematics in the age of artificial int]] — _academic · English · 2026-06-12_
 - [[Academy for the Mathematical Sciences — Announcement of -Leiden Declaration on A]] — _institutional · English · 2026-06_
 - [[Institute of Mathematics and its Applications (IMA) — AI is challenging the core]] — _institutional · English · 2026-06-12_
 - [[Isaac Newton Institute — Mathematicians call for action on AI to protect the fut]] — _institutional · English · 2026-06_

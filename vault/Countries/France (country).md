@@ -1,12 +1,12 @@
 ---
 tags: [country]
 country_code: "FR"
-mentions: 12
+mentions: 13
 ---
 
 # France
 
-12 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **France**:
+13 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **France**:
 
 - [[Agence France-Presse (AFP) — via Phys.org — Mathematicians say 'don't believe hy]] — _wire · English · 2026-06-02_
 - [[Breizh-Info — Intelligence artificielle et mathématiques - des chercheurs du mon]] — _newspaper · French · 2026-06-06_
@@ -18,5 +18,6 @@ mentions: 12
 - [[Le Monde — Des mathématiciens lancent un appel pour reprendre la main sur l'IA]] — _newspaper · French · 2026-06-17_
 - [[Moyens.net (Moyens I-O) — Des experts préviennent que l'IA pourrait menacer les]] — _blog · French · 2026-06_
 - [[Territorial Challenges — Déclaration de Leiden - ce que nos élus doivent absolum]] — _blog · French · 2026-06-17_
+- [[Vision IA (YouTube) — L'IA pensait avoir tué les maths (un humain a riposté en 4]] — _video · French · 2026-06_
 - [[X (Twitter) — Edwy Plenel (Mediapart founder) shares the Leiden Declaration on X]] — _social · French · 2026-06-17_
 - [[denisevellachemla.eu (personal academic-mathematics site of Denise Vella-Chemla)]] — _institutional · English · 2026-06_

@@ -6,7 +6,7 @@ tags: [moc, home]
 
 Knowledge base tracking **every traced mention** of the [[Leiden Declaration on AI and Mathematics]] across the internet — newspapers, magazines, blogs, institutional announcements and social media.
 
-- **Total mentions catalogued:** 211
+- **Total mentions catalogued:** 213
 - **Declaration published:** 2026-06-02
 - **Knowledge base generated:** 2026-06-16
 
@@ -106,10 +106,11 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Rivista AI — Dichiarazione di Leida. I matematici chiedono regole per l'AI- -la]] — _2026-06-13_
 - [[Business+IT - ビジネス+IT (SBBIT, SoftBank Creative - SB Creative, Japan) — 数学分野でシンギ]] — _2026-06-16 · No visible individual byline; published by Business+IT editorial (ビジネス+IT)_
 
-### 🎓 Academic & scholarly (3)
+### 🎓 Academic & scholarly (4)
 
 - [[OpenAlex — Leiden Declaration on Artificial Intelligence and Mathematics (OpenAl]] — _2026-06-02 · OurResearch (OpenAlex)_
 - [[Zenodo — Leiden Declaration on Artificial Intelligence and Mathematics]] — _2026-06-02 · Jarod Alper, Michael Barany, Alain Chavarri Villarello, Sander Dahmen, Walter Dean, Karthik Ganapathy, Michael Harris, David Holmes, Mateja Jamnik, Steven Kelk, Bryna Kra, Ursula Martin, Bartosz Naskręcki, Rodrigo Ochigame, Jim Portegies, Johannes Schmitt_
+- [[Academy for the Mathematical Sciences — Mathematics in the age of artificial int]] — _2026-06-12 · David Leslie et al._
 - [[Nature (Editorial) — Mathematicians are developing rules for AI use — other fiel]] — _2026-06-16_
 
 ### 🏛️ Institutions & societies (31)
@@ -245,8 +246,9 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[FDLIST (Bielefeld mathematics forum, Discourse) — Leiden Declaration on AI and M]] — _2026-06-05 · fdlist.team (on behalf of Karthik Ganapathy, SEW Postdoctoral Fellow, UC San Diego)_
 - [[凹凸ちゃんねる (hattatu-matome.ldblog.jp) — 【速報】16人の数学者『AIの信頼性と潜在的な脅威』について警告する『ライデン宣言』を]] — _2026-06-09 · ななしさん＠発達中 (anonymous poster / 2ch-style thread aggregator)_
 
-### 🎬 Video (3)
+### 🎬 Video (4)
 
+- [[Vision IA (YouTube) — L'IA pensait avoir tué les maths (un humain a riposté en 4]] — _2026-06 · Vision IA_
 - [[bilibili (哔哩哔哩) — 数学界对AI的回应来了：《莱顿人工智能与数学宣言》]] — _2026-06-03 · 钰子一 (Yuzi Yi)_
 - [[Bilibili (channel- 分析学爱好者) — 数学界对AI的防御性反击 - 莱顿人工智能与数学宣言]] — _2026-06-04 · 分析学爱好者 (Analysis Enthusiast)_
 - [[Sabine Hossenfelder (YouTube) — Maths is Cooked- AI's Latest Breakthrough — And]] — _2026-06-15 · Sabine Hossenfelder_
@@ -265,11 +267,11 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 
 - [[United States (country)\|United States]] — 51
 - [[Netherlands (country)\|Netherlands]] — 17
+- [[France (country)\|France]] — 13
 - [[China (country)\|China]] — 12
-- [[France (country)\|France]] — 12
 - [[Japan (country)\|Japan]] — 12
+- [[United Kingdom (country)\|United Kingdom]] — 11
 - [[Germany (country)\|Germany]] — 10
-- [[United Kingdom (country)\|United Kingdom]] — 10
 - [[Spain (country)\|Spain]] — 9
 - [[Italy (country)\|Italy]] — 7
 - [[Russia (country)\|Russia]] — 7
