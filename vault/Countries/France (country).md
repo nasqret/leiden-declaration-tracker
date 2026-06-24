@@ -1,16 +1,19 @@
 ---
 tags: [country]
 country_code: "FR"
-mentions: 13
+mentions: 16
 ---
 
 # France
 
-13 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **France**:
+16 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **France**:
 
 - [[Agence France-Presse (AFP) — via Phys.org — Mathematicians say 'don't believe hy]] — _wire · English · 2026-06-02_
+- [[Bluesky (@edwyplenel.bsky.social) — Edwy Plenel shares Le Monde piece on the 'dé]] — _social · French · 2026-06-17_
+- [[Bluesky (@gro-tsen.bsky.social) — David Madore (Gro-Tsen)- the -déclaration Leid]] — _social · French · 2026-06-11_
 - [[Breizh-Info — Intelligence artificielle et mathématiques - des chercheurs du mon]] — _newspaper · French · 2026-06-06_
 - [[Clubic — Une preuve produite par l'IA est-elle vraiment fiable -]] — _newspaper · French · 2026-06-03_
+- [[Collège des Sociétés savantes académiques de France (Bluesky @societessavantes.b]] — _social · French · 2026-06-19_
 - [[Developpez.com (Intelligence artificielle) — Les mathématiciens mettent en garde]] — _blog · French · 2026-06-04_
 - [[Developpez.net (forum) — Les mathématiciens mettent en garde contre les menaces]] — _forum · French · 2026-06-04_
 - [[Issues.fr — Une percée mathématique de l'IA suscite des appels à de nouveaux gar]] — _blog · French · 2026-06-10_

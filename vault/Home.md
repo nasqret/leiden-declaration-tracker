@@ -6,7 +6,7 @@ tags: [moc, home]
 
 Knowledge base tracking **every traced mention** of the [[Leiden Declaration on AI and Mathematics]] across the internet — newspapers, magazines, blogs, institutional announcements and social media.
 
-- **Total mentions catalogued:** 213
+- **Total mentions catalogued:** 238
 - **Declaration published:** 2026-06-02
 - **Knowledge base generated:** 2026-06-16
 
@@ -14,7 +14,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 
 ## Mentions by category
 
-### 📰 Newspapers & wire services (68)
+### 📰 Newspapers & wire services (69)
 
 - [[TGRT Haber — Hükümetlere yapay zekâ uyarısı- Bildiri yayınladılar]]
 - [[Neue Zürcher Zeitung (NZZ) — KI knackt ein 80 Jahre altes Mathe-Rätsel – ein Wen]] — _2026_
@@ -57,6 +57,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[文学城 (Wenxuecity, sourced from Tencent) — 全球16位顶尖数学家起草反AI宣言 联合国报告示警]] — _2026-06-04_
 - [[网易 (NetEase - 163.com) — 全球已有550多名数学家签名支持2026《人工智能与数学莱顿宣言》数学界绝境自救历史性一刻]] — _2026-06-04 · Republished from 新浪财经 (Sina Finance); individual author not identified_
 - [[网易 (NetEase - 163.com) — 16名数学家起草《莱顿宣言》，警告AI冲击数学研究信任]] — _2026-06-04 · IT之家 (IT Home) — syndicated_
+- [[36氪 (36Kr) — 给AI立规矩，AI刚破80年数学难题，数学家们慌了]] — _2026-06-05 · ASI启示录_
 - [[Edupedu.ro — Declarația de la Leiden privind AI în Matematică- Inteligența artif]] — _2026-06-05 · Matei Pop_
 - [[Hardware Upgrade — I matematici contro i big dell'IA- basta addestrare i modelli]] — _2026-06-05 · Andrea Bai_
 - [[Breizh-Info — Intelligence artificielle et mathématiques - des chercheurs du mon]] — _2026-06-06 · Rédaction (editorial staff, no named byline)_
@@ -106,12 +107,18 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Rivista AI — Dichiarazione di Leida. I matematici chiedono regole per l'AI- -la]] — _2026-06-13_
 - [[Business+IT - ビジネス+IT (SBBIT, SoftBank Creative - SB Creative, Japan) — 数学分野でシンギ]] — _2026-06-16 · No visible individual byline; published by Business+IT editorial (ビジネス+IT)_
 
-### 🎓 Academic & scholarly (4)
+### 🎓 Academic & scholarly (5)
 
 - [[OpenAlex — Leiden Declaration on Artificial Intelligence and Mathematics (OpenAl]] — _2026-06-02 · OurResearch (OpenAlex)_
+- [[OpenAlex — Leiden Declaration on Artificial Intelligence and Mathematics]] — _2026-06-02 · Jarod Alper; Michael Bárány; Alain Chavarri Villarello; Sander Dahmen; Walter Dean; Karthik Ganapathy; Michael Harris; David Holmes; Mateja Jamnik; Steven Kelk; Bryna Kra; Ursula Martin; Bartosz Naskręcki; Rodrigo Ochigame; Jim Portegies; Johannes Schmitt_
 - [[Zenodo — Leiden Declaration on Artificial Intelligence and Mathematics]] — _2026-06-02 · Jarod Alper, Michael Barany, Alain Chavarri Villarello, Sander Dahmen, Walter Dean, Karthik Ganapathy, Michael Harris, David Holmes, Mateja Jamnik, Steven Kelk, Bryna Kra, Ursula Martin, Bartosz Naskręcki, Rodrigo Ochigame, Jim Portegies, Johannes Schmitt_
 - [[Academy for the Mathematical Sciences — Mathematics in the age of artificial int]] — _2026-06-12 · David Leslie et al._
 - [[Nature (Editorial) — Mathematicians are developing rules for AI use — other fiel]] — _2026-06-16_
+
+### 📄 Preprints (2)
+
+- [[arXiv (math.AG) — Extremal descendant integrals on moduli spaces of curves- An i]] — _2025-12-16 · Johannes Schmitt_
+- [[arXiv (math.GR) — Stability, approximable quotients, and higher property (T)]] — _2026-06-08 · Francesco Fournier-Facio_
 
 ### 🏛️ Institutions & societies (31)
 
@@ -147,18 +154,20 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[McDermott Will & Emery (mcdermottlaw.com Insights) — When mathematicians push ba]] — _2026-06-16 · Marco Blei_
 - [[Vrije Universiteit Amsterdam (vu.nl) — Declaration on AI and Math]] — _2026-06-16 · Vrije Universiteit Amsterdam (institutional news, no individual byline)_
 
-### ✍️ Blogs (50)
+### ✍️ Blogs (54)
 
 - [[What's new (Terence Tao blog) — Mathematical methods and human thought in the ag]] — _2026-03-29 · Terence Tao_
 - [[Combinatorics and more (Gil Kalai's blog) — Amazing- Erdős' Unit Distance Proble]] — _2026-05-21 · Gil Kalai_
 - [[Moyens I-O (pl.moyens.net) — Eksperci ostrzegają- sztuczna inteligencja może zag]] — _2026-06_
 - [[Moyens.net (Moyens I-O) — Des experts préviennent que l'IA pourrait menacer les]] — _2026-06_
+- [[Science in Arabic (أخبار العلم بالعربية) — الذكاء الاصطناعي يثير جدلاً في عوالم]] — _2026-06_
 - [[Tecnoblog — Matemáticos alertam- não confiem cegamente na IA]] — _2026-06_
 - [[Zhihu (知乎) — 知乎专栏 (zhuanlan), column 小乐数学科普 (zzllrr) — 全球已有550多名数学家签名支持2026《人工智能]] — _2026-06 · zzllrr (小乐)_
 - [[moyens.net (DE) — Experten warnen- KI könnte Mathematik bedrohen, fordern Standa]] — _2026-06_
 - [[DiarioBitcoin — Matemáticos publican manifiesto advirtiendo sobre los riesgos de]] — _2026-06-02 · Canuto_
 - [[Gizmodo — A New Declaration Warns AI Could Threaten the Foundations of Mathemati]] — _2026-06-02 · Gayoung Lee_
 - [[Memeburn — Over 150 Mathematicians Are Telling Governments to Stop Believing AI']] — _2026-06-02_
+- [[New Savanna (Bill Benzon) — Mathematicians are concerned that exploitation by th]] — _2026-06-02 · Bill Benzon_
 - [[Not Even Wrong (Peter Woit's blog) — End of Civilization News]] — _2026-06-02 · Peter Woit_
 - [[Shtetl-Optimized (Scott Aaronson's blog) — On hope (comment thread)]] — _2026-06-02 · Scott Aaronson (post); commenters "Christopher" and "Jeff" (declaration references)_
 - [[Techgear — Διακήρυξη του Leiden- 16 μαθηματικοί θέτουν όρια στη χρήση της AI στη]] — _2026-06-02 · Christos Elpidis_
@@ -175,6 +184,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Developpez.com (Intelligence artificielle) — Les mathématiciens mettent en garde]] — _2026-06-04 · Patrick Ruiz_
 - [[Let's Data Science — Mathematicians Publish Leiden Declaration on AI Risks to Ma]] — _2026-06-04_
 - [[Quomodocumque (Jordan Ellenberg's blog) — The Leiden Declaration on Artificial I]] — _2026-06-04 · Jordan Ellenberg_
+- [[Techsauce — นักวิจัยออกมาเตือน AI กำลัง 'ทำลายคณิตศาสตร์' หลังผลลัพธ์ตรวจสอบยาก-]] — _2026-06-04 · Techsauce Team_
 - [[WWWhat's New — 130 matemáticos firman la Declaración de Leiden- la IA amenaza la]] — _2026-06-04 · Natalia Polo_
 - [[chorasimilarity (Marius Buliga blog) — Leiden Declaration- commercial AI is a th]] — _2026-06-04 · Marius Buliga (chorasimilarity)_
 - [[IT BOLTWISE — Leiden Declaration- KI soll die Mathematik nicht untergraben – For]] — _2026-06-05 · Melanie Schirmer_
@@ -198,9 +208,10 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Shazoo — Более 150 математиков призвали правительства не верить хайпу вокруг воз]] — _2026-06-12 · Коэн (Cohen)_
 - [[Webnews.it — AI e matematica, l'avvertimento di oltre 150 ricercatori- entusiasm]] — _2026-06-12 · Silvia Dalia_
 - [[Cross-Check (John Horgan) — AI Ain't Gonna Save Higher Ed]] — _2026-06-14 · John Horgan_
+- [[felienne.nl (Felienne Hermans) — AI in week 24]] — _2026-06-14 · Felienne Hermans_
 - [[Territorial Challenges — Déclaration de Leiden - ce que nos élus doivent absolum]] — _2026-06-17 · Nidam Abdi_
 
-### 📨 Newsletters (12)
+### 📨 Newsletters (13)
 
 - [[AI Weekly — Leiden Declaration on AI and Mathematics- 130+ Researchers and Inter]] — _2026-06-02_
 - [[Implicator.ai — Mathematicians Issue Leiden Declaration on AI Proof Rules]] — _2026-06-02 · Marcus Schuler_
@@ -214,22 +225,38 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Silicon Reckoner — -there's this like massive exogenous force- haunting mathemat]] — _2026-06-13 · Michael Harris_
 - [[The Memo (LifeArchitect.ai, Substack) — The Memo - 13-Jun-2026]] — _2026-06-13 · Dr Alan D. Thompson_
 - [[Future of Citizenship (Heather Alexander, Substack) — Here There Be Monsters]] — _2026-06-14 · Heather Alexander_
+- [[Entropy Bonus (David Bachman, Substack) — The Leiden Declaration]] — _2026-06-23 · David Bachman_
 
-### 💬 Social media (13)
+### 💬 Social media (28)
 
 - [[LinkedIn — Benjamin Han — The Leiden Declaration on AI and Mathematics — synesis]] — _2026-06 · Benjamin Han_
 - [[LinkedIn — Philippe Pasquier — Leiden Declaration on AI- A Call for Actionable A]] — _2026-06 · Philippe Pasquier_
 - [[Mathstodon (mathstodon.xyz) — Terence Tao (thread continuation)- -I am very impr]] — _2026-06 · Terence Tao_
 - [[X (Twitter) — Steven Strogatz on X- -This terrific article by @sioroberts will h]] — _2026-06 · Steven Strogatz (@stevenstrogatz)_
+- [[Digg — Mathematician Bartosz Naskręcki and co-authors release the Leiden Declara]] — _2026-06-02 · Bartosz Naskręcki (curated X/Twitter post)_
 - [[LinkedIn News (story) — Mathematicians publish declaration on AI's impact on mat]] — _2026-06-02 · LinkedIn News editorial team (curated story; no individual byline)_
+- [[Mastodon — mastodon.social (@FabMusacchio) — Fabrizio Musacchio- -Mathematicians]] — _2026-06-02 · Fabrizio Musacchio_
+- [[Mastodon — qoto.org (@spradlig) — Greg Spradlin shares NYT coverage of the -Leid]] — _2026-06-02 · Greg Spradlin (@spradlig@qoto.org)_
 - [[Mathstodon (Mastodon, mathstodon.xyz) — Terence Tao- -The long-awaited 'Leiden D]] — _2026-06-02 · Terence Tao (@tao@mathstodon.xyz)_
 - [[Mathstodon (mathstodon.xyz) — Terence Tao reply- signing eligibility (-if you co]] — _2026-06-02 · Terence Tao (@tao@mathstodon.xyz)_
 - [[Mathstodon (mathstodon.xyz) — John Carlos Baez- -I signed this declaration about]] — _2026-06-02 · John Carlos Baez_
 - [[X (Twitter) — Ananyo Bhattacharya on X- -Leiden Declaration on AI and Mathematic]] — _2026-06-02 · Ananyo Bhattacharya_
 - [[LinkedIn — Blaženka Divjak — Leiden Declaration on Artificial Intelligence and M]] — _2026-06-03 · Blaženka Divjak_
+- [[Mastodon — sigmoid.social (@BenjaminHan) — Benjamin Han- mathematicians' new com]] — _2026-06-03 · Benjamin Han_
 - [[Mathstodon — John Carlos Baez thread on the Leiden Declaration and incentives in]] — _2026-06-03 · John Carlos Baez_
+- [[Bluesky (@chanda.blacksky.app) — Chanda Prescod-Weinstein- -Worth reading and di]] — _2026-06-06 · Chanda Prescod-Weinstein_
+- [[Bluesky (@edinunimaths.bsky.social) — University of Edinburgh Mathematics shares]] — _2026-06-08 · University of Edinburgh School of Mathematics (@edinunimaths.bsky.social)_
+- [[Bluesky (@tobyhodges.carpentries.org) — Tobias Hodges- -We spent some time discu]] — _2026-06-09 · Toby Hodges_
+- [[Bluesky (@tysongern.bsky.social) — Tyson Gern- -Prominent mathematicians recentl]] — _2026-06-09 · Tyson Gern_
 - [[LinkedIn — Norbert Gehrke — Leiden Declaration on AI and Mathematics]] — _2026-06-09 · Norbert Gehrke_
+- [[Bluesky (@gro-tsen.bsky.social) — David Madore (Gro-Tsen)- the -déclaration Leid]] — _2026-06-11 · David Madore (Gro-Tsen)_
+- [[Bluesky (@okisayaka.bsky.social) — Sayaka Oki (Japanese science historian) share]] — _2026-06-13 · Sayaka Oki (隠岐さや香)_
+- [[Bluesky (@imathtutor.bsky.social) — iMathTutor thread- counting Penn State signa]] — _2026-06-16 · iMathTutor (Regis J. Serinko)_
+- [[Bluesky (@edwyplenel.bsky.social) — Edwy Plenel shares Le Monde piece on the 'dé]] — _2026-06-17 · Edwy Plenel_
 - [[X (Twitter) — Edwy Plenel (Mediapart founder) shares the Leiden Declaration on X]] — _2026-06-17 · Edwy Plenel_
+- [[Bluesky (@freakonometrics.bsky.social) — Arthur Charpentier (Freakonometrics) qu]] — _2026-06-18 · Arthur Charpentier_
+- [[Collège des Sociétés savantes académiques de France (Bluesky @societessavantes.b]] — _2026-06-19 · Collège des Sociétés savantes académiques de France_
+- [[Bluesky (@bruces.bsky.social) — Mathematicians publishing a manifesto about the]] — _2026-06-23 · Bruce Sterling_
 
 ### 🗣️ Forums & discussion (12)
 
@@ -245,6 +272,10 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Developpez.net (forum) — Les mathématiciens mettent en garde contre les menaces]] — _2026-06-04 · Patrick Ruiz_
 - [[FDLIST (Bielefeld mathematics forum, Discourse) — Leiden Declaration on AI and M]] — _2026-06-05 · fdlist.team (on behalf of Karthik Ganapathy, SEW Postdoctoral Fellow, UC San Diego)_
 - [[凹凸ちゃんねる (hattatu-matome.ldblog.jp) — 【速報】16人の数学者『AIの信頼性と潜在的な脅威』について警告する『ライデン宣言』を]] — _2026-06-09 · ななしさん＠発達中 (anonymous poster / 2ch-style thread aggregator)_
+
+### 🎙️ Podcasts (1)
+
+- [[Hard Fork (The New York Times) — Hot I.P.O Summer + What Is A.I. Doing to Math-]] — _2026-06-05 · Kevin Roose and Casey Newton_
 
 ### 🎬 Video (4)
 
@@ -265,22 +296,22 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 
 ## Mentions by country (44 countries)
 
-- [[United States (country)\|United States]] — 51
-- [[Netherlands (country)\|Netherlands]] — 17
-- [[France (country)\|France]] — 13
-- [[China (country)\|China]] — 12
-- [[Japan (country)\|Japan]] — 12
-- [[United Kingdom (country)\|United Kingdom]] — 11
-- [[Germany (country)\|Germany]] — 10
+- [[United States (country)\|United States]] — 62
+- [[Netherlands (country)\|Netherlands]] — 18
+- [[France (country)\|France]] — 16
+- [[China (country)\|China]] — 13
+- [[Germany (country)\|Germany]] — 13
+- [[Japan (country)\|Japan]] — 13
+- [[United Kingdom (country)\|United Kingdom]] — 12
 - [[Spain (country)\|Spain]] — 9
-- [[Italy (country)\|Italy]] — 7
+- [[Italy (country)\|Italy]] — 8
 - [[Russia (country)\|Russia]] — 7
+- [[Canada (country)\|Canada]] — 5
 - [[Brazil (country)\|Brazil]] — 4
 - [[Greece (country)\|Greece]] — 4
 - [[Poland (country)\|Poland]] — 4
 - [[Switzerland (country)\|Switzerland]] — 4
 - [[Turkey (country)\|Turkey]] — 4
-- [[Canada (country)\|Canada]] — 3
 - [[Croatia (country)\|Croatia]] — 3
 - [[Romania (country)\|Romania]] — 3
 - [[Vietnam (country)\|Vietnam]] — 3
@@ -291,6 +322,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Philippines (country)\|Philippines]] — 2
 - [[Serbia (country)\|Serbia]] — 2
 - [[South Korea (country)\|South Korea]] — 2
+- [[Thailand (country)\|Thailand]] — 2
 - [[Argentina (country)\|Argentina]] — 1
 - [[Belarus (country)\|Belarus]] — 1
 - [[Chile (country)\|Chile]] — 1
@@ -307,7 +339,6 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Saudi Arabia (country)\|Saudi Arabia]] — 1
 - [[Seychelles (country)\|Seychelles]] — 1
 - [[South Africa (country)\|South Africa]] — 1
-- [[Thailand (country)\|Thailand]] — 1
 - [[Venezuela (country)\|Venezuela]] — 1
 
 ## Indexes

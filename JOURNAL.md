@@ -237,6 +237,31 @@ mathematics (proof, verification, attribution, peer review, human oversight).
   may have silently dropped new YouTube videos that collided with an existing
   watch URL — use a video-ID-aware norm next time.
 
+## 2026-06-21 — Round 5: thorough last-week sweep (+25 → 238)
+
+- Deep last-week sweep (12 lenses + gap round; legit-only, anti-mirror/clone;
+  **video-ID-aware dedup**; verifiers geo-located inline). 41 fresh → 38 verified
+  → **kept 28**, **dropped 7 mirrors + 1 illegit**, **rejected 3**. After
+  decode-aware dedup at merge: **added 25** (dropped a percent-encoded Al Jazeera
+  dup of an existing entry, an Apple-Podcasts Hard Fork clone of the NYT episode,
+  and a @winbuzzer Mastodon self-link). Total **213 → 238**.
+- **New formats captured:** the first **podcast** entry (NYT's *Hard Fork* — "What
+  Is A.I. Doing to Math?"); two **arXiv preprints citing the declaration in their
+  acknowledgments** ("I subscribe to the Leiden Declaration"; thanks to the
+  writing group) — a genuinely new in-the-wild scholarly mention type; a wave of
+  **Bluesky** posts (a platform we barely had — incl. Edwy Plenel, the Collège des
+  Sociétés savantes, Edinburgh Maths, freakonometrics) and more **Mastodon**
+  instances; plus OpenAlex, Digg, 36Kr, Felienne Hermans, Bachman's Substack,
+  Techsauce (Thai), Science in Arabic.
+- **Generator upgraded** to support new categories (tv/radio/book/course/
+  government/qa) with labels, map colors, and a Home fallback for any unknown
+  type — though this round produced no brand-new `outlet_type`s.
+- **Two dedup bugs fixed:** (1) video-ID-aware norm (youtube/youtu.be/bilibili)
+  so videos don't collapse to one; (2) percent-decode URLs before comparing, so
+  encoded vs decoded forms of the same non-Latin URL match.
+- Note: 3 social verifiers failed on transient socket errors (a few
+  Mastodon/Bluesky candidates lost); still neutral/facts-only; all 238 geo-located.
+
 ### Notes for next time
 - Re-run the research workflow periodically (signatory count and coverage keep
   growing); add new rows to `data/mentions.json` and run `python3

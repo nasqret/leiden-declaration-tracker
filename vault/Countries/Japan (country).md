@@ -1,14 +1,15 @@
 ---
 tags: [country]
 country_code: "JP"
-mentions: 12
+mentions: 13
 ---
 
 # Japan
 
-12 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **Japan**:
+13 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **Japan**:
 
 - [[2nn.jp (2ch news navigator) — 【AI】16人の数学者がAIの精度や信頼性など数学分野への潜在的な脅威について警告する「ライデン宣言]] — _forum · Japanese · 2026-06-02_
+- [[Bluesky (@okisayaka.bsky.social) — Sayaka Oki (Japanese science historian) share]] — _social · Japanese · 2026-06-13_
 - [[Business+IT - ビジネス+IT (SBBIT, SoftBank Creative - SB Creative, Japan) — 数学分野でシンギ]] — _magazine · Japanese · 2026-06-16_
 - [[GIGAZINE — 16人の数学者がAIの精度や信頼性など数学分野への潜在的な脅威について警告する「ライデン宣言」を発表]] — _blog · Japanese · 2026-06-03_
 - [[GIGAZINE — Sixteen mathematicians have published the 'Leiden Declaration,' warni]] — _blog · English · 2026-06-03_
