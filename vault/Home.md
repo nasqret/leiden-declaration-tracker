@@ -6,7 +6,7 @@ tags: [moc, home]
 
 Knowledge base tracking **every traced mention** of the [[Leiden Declaration on AI and Mathematics]] across the internet — newspapers, magazines, blogs, institutional announcements and social media.
 
-- **Total mentions catalogued:** 238
+- **Total mentions catalogued:** 239
 - **Declaration published:** 2026-06-02
 - **Knowledge base generated:** 2026-06-16
 
@@ -154,7 +154,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[McDermott Will & Emery (mcdermottlaw.com Insights) — When mathematicians push ba]] — _2026-06-16 · Marco Blei_
 - [[Vrije Universiteit Amsterdam (vu.nl) — Declaration on AI and Math]] — _2026-06-16 · Vrije Universiteit Amsterdam (institutional news, no individual byline)_
 
-### ✍️ Blogs (54)
+### ✍️ Blogs (55)
 
 - [[What's new (Terence Tao blog) — Mathematical methods and human thought in the ag]] — _2026-03-29 · Terence Tao_
 - [[Combinatorics and more (Gil Kalai's blog) — Amazing- Erdős' Unit Distance Proble]] — _2026-05-21 · Gil Kalai_
@@ -210,6 +210,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Cross-Check (John Horgan) — AI Ain't Gonna Save Higher Ed]] — _2026-06-14 · John Horgan_
 - [[felienne.nl (Felienne Hermans) — AI in week 24]] — _2026-06-14 · Felienne Hermans_
 - [[Territorial Challenges — Déclaration de Leiden - ce que nos élus doivent absolum]] — _2026-06-17 · Nidam Abdi_
+- [[BLOG@CACM (Communications of the ACM) — The Leiden Declaration- Mathematics, AI,]] — _2026-06-25 · Mateja Jamnik_
 
 ### 📨 Newsletters (13)
 
@@ -296,7 +297,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 
 ## Mentions by country (44 countries)
 
-- [[United States (country)\|United States]] — 62
+- [[United States (country)\|United States]] — 63
 - [[Netherlands (country)\|Netherlands]] — 18
 - [[France (country)\|France]] — 16
 - [[China (country)\|China]] — 13

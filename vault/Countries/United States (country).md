@@ -1,16 +1,17 @@
 ---
 tags: [country]
 country_code: "US"
-mentions: 62
+mentions: 63
 ---
 
 # United States
 
-62 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
+63 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
 
 - [[AI Weekly — Leiden Declaration on AI and Mathematics- 130+ Researchers and Inter]] — _newsletter · English · 2026-06-02_
 - [[AI for Consumers (Substack newsletter) — AI for Consumers – 20260610]] — _newsletter · English · 2026-06-10_
 - [[Ars Technica — Mathematicians warn of AI threats to profession as industry encro]] — _newspaper · English · 2026-06-02_
+- [[BLOG@CACM (Communications of the ACM) — The Leiden Declaration- Mathematics, AI,]] — _blog · English · 2026-06-25_
 - [[Bluesky (@chanda.blacksky.app) — Chanda Prescod-Weinstein- -Worth reading and di]] — _social · English · 2026-06-06_
 - [[Bluesky (@imathtutor.bsky.social) — iMathTutor thread- counting Penn State signa]] — _social · English · 2026-06-16_
 - [[Bluesky (@tysongern.bsky.social) — Tyson Gern- -Prominent mathematicians recentl]] — _social · English · 2026-06-09_
