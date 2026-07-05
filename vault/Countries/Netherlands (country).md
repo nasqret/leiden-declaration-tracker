@@ -1,19 +1,21 @@
 ---
 tags: [country]
 country_code: "NL"
-mentions: 18
+mentions: 20
 ---
 
 # Netherlands
 
-18 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **Netherlands**:
+20 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **Netherlands**:
 
 - [[Cursor (TU-e) — Wiskundigen waarschuwen in verklaring voor de gevaren van AI]] — _institutional · Dutch · 2026-06-08_
 - [[Eindhoven University of Technology (TU-e) — AI threatens math, researchers warn]] — _institutional · English · 2026-06-03_
+- [[Emerce — AI bedreigt wiskunde, waarschuwen onderzoekers]] — _newspaper · Dutch · 2026-07-03_
 - [[Engineers Online — AI bedreigt wiskunde, waarschuwen onderzoekers]] — _magazine · Dutch · 2026-06-03_
 - [[HCC — Wiskundigen slaan alarm- wat gebeurt er met wiskunde in het tijdperk van A]] — _institutional · Dutch · 2026-06-10_
 - [[Leiden Declaration on Artificial Intelligence and Mathematics (leidendeclaration]] — _institutional · English · 2026-06-02_
 - [[Leiden University — Leiden Declaration- AI is challenging the core values of mat]] — _institutional · English · 2026-06-02_
+- [[Leiden University (in the media) — Leiden Declaration sparks global debate on th]] — _institutional · English · 2026-06-25_
 - [[Lorentz Center (Leiden University) — Leiden Declaration on AI in Mathematics tra]] — _institutional · English · 2026-06_
 - [[NRC — Laat big tech niet bepalen welke wiskunde ertoe doet]] — _newspaper · Dutch · 2026-06-03_
 - [[TU Eindhoven — Centre for Analysis, Scientific computing and Applications (CASA)]] — _institutional · English · 2026-06-08_

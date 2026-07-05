@@ -262,6 +262,30 @@ mathematics (proof, verification, attribution, peer review, human oversight).
 - Note: 3 social verifiers failed on transient socket errors (a few
   Mastodon/Bluesky candidates lost); still neutral/facts-only; all 238 geo-located.
 
+## 2026-07-05 — Round 6: full deep pass + 4 user links (→ 266)
+
+- Added 4 user-provided links first (243): **Rényi Institute** (HU, confirmed),
+  **Undark** op-ed by C. Brandon Ogbunu arguing *biologists* need their own
+  declaration (confirmed; cross-disciplinary), **Nature Machine Intelligence**
+  commentary (Crossref-confirmed title/date; likely), **AMS** news (403; likely,
+  placeholder title flagged).
+- Deep pass (round 6; 12 lenses incl. a new **cross-disciplinary reception**
+  lens + gap round; legit-only, anti-mirror; video-ID + percent-decode dedup vs
+  243; inline geo). 39 fresh → **kept 24**, dropped 7 mirrors + 2 illegit,
+  rejected 8 (a CACM opinion that doesn't name it, the Quanta podcast, a Buzzard
+  Mathstodon/Xena post the agent couldn't confirm, an Avigad talk page, the
+  Simons ICM piece). Merge dropped 1 self-translation clone (Pebblous Korean
+  edition). **Added 23 → 266.**
+- Notable adds: **cross-disciplinary/education** (Aix-Marseille's AI-in-education
+  observatory), **Edinburgh** & **Turkish** Mathematical Societies, **Smithsonian**,
+  another **arXiv acknowledgment** (Colbrook, Cambridge), Tamara Kolda's MathSci.ai
+  (×2 posts), LessWrong, Leiden Univ "in the media" roundup, and fresh press in
+  Poland (×3), Ukraine, Hungary, Vietnam, India (×3), Korea. New countries →47,
+  languages →28.
+- One YouTube channel ("AI is changing the world") had no resolvable location →
+  kept in the list/filters but off the map (265/266 geo-located); still
+  neutral/facts-only.
+
 ### Notes for next time
 - Re-run the research workflow periodically (signatory count and coverage keep
   growing); add new rows to `data/mentions.json` and run `python3

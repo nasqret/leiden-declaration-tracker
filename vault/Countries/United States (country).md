@@ -1,12 +1,12 @@
 ---
 tags: [country]
 country_code: "US"
-mentions: 65
+mentions: 70
 ---
 
 # United States
 
-65 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
+70 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
 
 - [[AI Weekly — Leiden Declaration on AI and Mathematics- 130+ Researchers and Inter]] — _newsletter · English · 2026-06-02_
 - [[AI for Consumers (Substack newsletter) — AI for Consumers – 20260610]] — _newsletter · English · 2026-06-10_
@@ -30,6 +30,7 @@ mentions: 65
 - [[ICO Optics — 150+ Mathematicians Warn Governments Not to Believe AI Hype]] — _blog · English · 2026-06-07_
 - [[Implicator.ai — Mathematicians Issue Leiden Declaration on AI Proof Rules]] — _newsletter · English · 2026-06-02_
 - [[International Congress of Mathematicians (ICM 2026, Philadelphia) — The Leiden D]] — _event · English · 2026-07-26_
+- [[LessWrong — Links -3- 2026-06 Part 1]] — _forum · English · 2026-06-15_
 - [[Let's Data Science — Mathematicians Publish Leiden Declaration on AI Risks to Ma]] — _blog · English · 2026-06-04_
 - [[LinkedIn News (story) — Mathematicians publish declaration on AI's impact on mat]] — _social · English · 2026-06-02_
 - [[LinkedIn — Benjamin Han — The Leiden Declaration on AI and Mathematics — synesis]] — _social · English · 2026-06_
@@ -40,6 +41,8 @@ mentions: 65
 - [[MSN (en-xl regional-international edition, syndicated) — Leiden Declaration warn]] — _other · English · 2026-06_
 - [[Mastodon — qoto.org (@spradlig) — Greg Spradlin shares NYT coverage of the -Leid]] — _social · English · 2026-06-02_
 - [[Mastodon — sigmoid.social (@BenjaminHan) — Benjamin Han- mathematicians' new com]] — _social · English · 2026-06-03_
+- [[MathSci.ai (Tamara Kolda) — I Signed the Leiden Declaration on AI and Mathematic]] — _blog · English · 2026-06-18_
+- [[MathSci.ai (Tamara Kolda) — Quoted in Trouw on the Leiden Declaration]] — _blog · English · 2026-06-18_
 - [[Mathstodon — John Carlos Baez thread on the Leiden Declaration and incentives in]] — _social · English · 2026-06-03_
 - [[Mathstodon (Mastodon, mathstodon.xyz) — Terence Tao- -The long-awaited 'Leiden D]] — _social · English · 2026-06-02_
 - [[Mathstodon (mathstodon.xyz) — Terence Tao (thread continuation)- -I am very impr]] — _social · English · 2026-06_
@@ -58,6 +61,7 @@ mentions: 65
 - [[Silicon Reckoner (Michael Harris, Substack) — The Leiden Declaration on Artifici]] — _newsletter · English · 2026-06-02_
 - [[Silicon Reckoner (Michael Harris, Substack) — Comments on- The Leiden Declaratio]] — _newsletter · English · 2026-06-02_
 - [[Slashdot — Mathematicians Warn of AI Threats to Profession As Industry Encroache]] — _forum · English · 2026-06-02_
+- [[Smithsonian Magazine — Mathematicians Puzzled Over a Famous Problem for 80 Years]] — _magazine · English · 2026-06-03_
 - [[The Cool Down — More than 150 math experts tell governments not to trust AI hype]] — _newspaper · English · 2026-06-10_
 - [[The New York Times — As A.I. Makes Strides in Mathematics, Mathematicians Urge C]] — _newspaper · English · 2026-06-02_
 - [[The Synthesis (Substack) — The Leiden Declaration is a job application, not a pr]] — _newsletter · English · 2026-06-10_
@@ -70,6 +74,7 @@ mentions: 65
 - [[X (Twitter) — Steven Strogatz on X- -This terrific article by @sioroberts will h]] — _social · English · 2026-06_
 - [[X (Twitter) — Ananyo Bhattacharya on X- -Leiden Declaration on AI and Mathematic]] — _social · English · 2026-06-02_
 - [[Yahoo News (Science) — syndicated from Futurism — Over 150 Mathematicians Warn G]] — _newspaper · English · 2026-06-06_
+- [[YouTube — qdotai — The Leiden Declaration- Mathematical Truth vs. AI Probability]] — _video · English · 2026-06-08_
 - [[arXiv (math.AG) — Extremal descendant integrals on moduli spaces of curves- An i]] — _preprint · English · 2025-12-16_
 - [[arXiv (math.GR) — Stability, approximable quotients, and higher property (T)]] — _preprint · English · 2026-06-08_
 - [[文学城 (Wenxuecity, sourced from Tencent) — 全球16位顶尖数学家起草反AI宣言 联合国报告示警]] — _newspaper · Chinese · 2026-06-04_
