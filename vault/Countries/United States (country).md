@@ -1,15 +1,16 @@
 ---
 tags: [country]
 country_code: "US"
-mentions: 63
+mentions: 65
 ---
 
 # United States
 
-63 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
+65 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
 
 - [[AI Weekly — Leiden Declaration on AI and Mathematics- 130+ Researchers and Inter]] — _newsletter · English · 2026-06-02_
 - [[AI for Consumers (Substack newsletter) — AI for Consumers – 20260610]] — _newsletter · English · 2026-06-10_
+- [[American Mathematical Society (AMS) — American Mathematical Society — news item]] — _institutional · English · 2026_
 - [[Ars Technica — Mathematicians warn of AI threats to profession as industry encro]] — _newspaper · English · 2026-06-02_
 - [[BLOG@CACM (Communications of the ACM) — The Leiden Declaration- Mathematics, AI,]] — _blog · English · 2026-06-25_
 - [[Bluesky (@chanda.blacksky.app) — Chanda Prescod-Weinstein- -Worth reading and di]] — _social · English · 2026-06-06_
@@ -61,6 +62,7 @@ mentions: 63
 - [[The New York Times — As A.I. Makes Strides in Mathematics, Mathematicians Urge C]] — _newspaper · English · 2026-06-02_
 - [[The Synthesis (Substack) — The Leiden Declaration is a job application, not a pr]] — _newsletter · English · 2026-06-10_
 - [[The Washington Post — For centuries, math has been a human endeavor. Does AI mea]] — _newspaper · English · 2026-06-14_
+- [[Undark Magazine — Opinion- Biologists Should Articulate Their Position on AI]] — _magazine · English · 2026-07-02_
 - [[Weinberg College News, Northwestern University — Mathematician Bryna Kra Among A]] — _institutional · English · 2026-06-02_
 - [[What's new (Terence Tao blog) — Mathematical methods and human thought in the ag]] — _blog · English · 2026-03-29_
 - [[Wikidata — Leiden Declaration on Artificial Intelligence and Mathematics (Q14018]] — _institutional · English · 2026-06-02_

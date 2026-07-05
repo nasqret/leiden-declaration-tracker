@@ -6,7 +6,7 @@ tags: [moc, home]
 
 Knowledge base tracking **every traced mention** of the [[Leiden Declaration on AI and Mathematics]] across the internet — newspapers, magazines, blogs, institutional announcements and social media.
 
-- **Total mentions catalogued:** 239
+- **Total mentions catalogued:** 243
 - **Declaration published:** 2026-06-02
 - **Knowledge base generated:** 2026-06-16
 
@@ -92,7 +92,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[The Manila Times (AFP wire) — Mathematicians say 'don't believe hype' on AI capa]] — _2026-06-04 · Agence France-Presse (AFP)_
 - [[ANSA (Agenzia Nazionale Stampa Associata) — I matematici chiedono regole per l'I]] — _2026-06-19 · Elisa Buson_
 
-### 🧪 Science & tech magazines (12)
+### 🧪 Science & tech magazines (13)
 
 - [[Science (AAAS) — Mathematicians issue warning as AI rapidly gains ground]] — _2026-06-02_
 - [[Scientific American — Mathematicians sign declaration to rein in AI use]] — _2026-06-02 · Leila Sloman (edited by Clara Moskowitz)_
@@ -106,22 +106,25 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[N+1 (nplus1.ru) — Рог математического изобилия. Рассказываем, как языковые модел]] — _2026-06-11_
 - [[Rivista AI — Dichiarazione di Leida. I matematici chiedono regole per l'AI- -la]] — _2026-06-13_
 - [[Business+IT - ビジネス+IT (SBBIT, SoftBank Creative - SB Creative, Japan) — 数学分野でシンギ]] — _2026-06-16 · No visible individual byline; published by Business+IT editorial (ビジネス+IT)_
+- [[Undark Magazine — Opinion- Biologists Should Articulate Their Position on AI]] — _2026-07-02 · C. Brandon Ogbunu_
 
-### 🎓 Academic & scholarly (5)
+### 🎓 Academic & scholarly (6)
 
 - [[OpenAlex — Leiden Declaration on Artificial Intelligence and Mathematics (OpenAl]] — _2026-06-02 · OurResearch (OpenAlex)_
 - [[OpenAlex — Leiden Declaration on Artificial Intelligence and Mathematics]] — _2026-06-02 · Jarod Alper; Michael Bárány; Alain Chavarri Villarello; Sander Dahmen; Walter Dean; Karthik Ganapathy; Michael Harris; David Holmes; Mateja Jamnik; Steven Kelk; Bryna Kra; Ursula Martin; Bartosz Naskręcki; Rodrigo Ochigame; Jim Portegies; Johannes Schmitt_
 - [[Zenodo — Leiden Declaration on Artificial Intelligence and Mathematics]] — _2026-06-02 · Jarod Alper, Michael Barany, Alain Chavarri Villarello, Sander Dahmen, Walter Dean, Karthik Ganapathy, Michael Harris, David Holmes, Mateja Jamnik, Steven Kelk, Bryna Kra, Ursula Martin, Bartosz Naskręcki, Rodrigo Ochigame, Jim Portegies, Johannes Schmitt_
 - [[Academy for the Mathematical Sciences — Mathematics in the age of artificial int]] — _2026-06-12 · David Leslie et al._
 - [[Nature (Editorial) — Mathematicians are developing rules for AI use — other fiel]] — _2026-06-16_
+- [[Nature Machine Intelligence — Solutions, challenges and rising tensions in AI an]] — _2026-06-23_
 
 ### 📄 Preprints (2)
 
 - [[arXiv (math.AG) — Extremal descendant integrals on moduli spaces of curves- An i]] — _2025-12-16 · Johannes Schmitt_
 - [[arXiv (math.GR) — Stability, approximable quotients, and higher property (T)]] — _2026-06-08 · Francesco Fournier-Facio_
 
-### 🏛️ Institutions & societies (31)
+### 🏛️ Institutions & societies (33)
 
+- [[American Mathematical Society (AMS) — American Mathematical Society — news item]] — _2026_
 - [[International Mathematical Union (IMU) — IMU News 137- May 2026]] — _2026-05 · Christoph Sorger (Secretary General of the IMU)_
 - [[Academy for the Mathematical Sciences — Announcement of -Leiden Declaration on A]] — _2026-06_
 - [[Isaac Newton Institute — Mathematicians call for action on AI to protect the fut]] — _2026-06 · Isaac Newton Institute (institutional newsroom; no individual byline; features comments from Director Prof. Ulrike Tillmann FRS)_
@@ -153,6 +156,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[MaddMaths! (SIMAI) — La dichiarazione di Leida – Né luddisti, né futuristi- l'In]] — _2026-06-15 · Massimo Martone_
 - [[McDermott Will & Emery (mcdermottlaw.com Insights) — When mathematicians push ba]] — _2026-06-16 · Marco Blei_
 - [[Vrije Universiteit Amsterdam (vu.nl) — Declaration on AI and Math]] — _2026-06-16 · Vrije Universiteit Amsterdam (institutional news, no individual byline)_
+- [[HUN-REN Alfréd Rényi Institute of Mathematics — Community Initiative by Mathemat]] — _2026-06-30_
 
 ### ✍️ Blogs (55)
 
@@ -297,13 +301,13 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 
 ## Mentions by country (44 countries)
 
-- [[United States (country)\|United States]] — 63
+- [[United States (country)\|United States]] — 65
 - [[Netherlands (country)\|Netherlands]] — 18
 - [[France (country)\|France]] — 16
 - [[China (country)\|China]] — 13
 - [[Germany (country)\|Germany]] — 13
 - [[Japan (country)\|Japan]] — 13
-- [[United Kingdom (country)\|United Kingdom]] — 12
+- [[United Kingdom (country)\|United Kingdom]] — 13
 - [[Spain (country)\|Spain]] — 9
 - [[Italy (country)\|Italy]] — 8
 - [[Russia (country)\|Russia]] — 7
@@ -314,11 +318,11 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Switzerland (country)\|Switzerland]] — 4
 - [[Turkey (country)\|Turkey]] — 4
 - [[Croatia (country)\|Croatia]] — 3
+- [[Hungary (country)\|Hungary]] — 3
 - [[Romania (country)\|Romania]] — 3
 - [[Vietnam (country)\|Vietnam]] — 3
 - [[Australia (country)\|Australia]] — 2
 - [[Czechia (country)\|Czechia]] — 2
-- [[Hungary (country)\|Hungary]] — 2
 - [[Israel (country)\|Israel]] — 2
 - [[Philippines (country)\|Philippines]] — 2
 - [[Serbia (country)\|Serbia]] — 2
