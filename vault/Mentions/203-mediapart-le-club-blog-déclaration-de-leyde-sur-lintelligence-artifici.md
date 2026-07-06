@@ -9,15 +9,15 @@ country: "France"
 country_code: "FR"
 city: "Paris"
 coordinates: "48.8566,2.3522"
-confidence: "likely"
-url: "https://blogs.mediapart.fr/declaration-de-leyde/blog/180626/declaration-de-leyde-sur-l-intelligence-artificielle-et-les-mathematiques"
-tags: ["mention", "blog", "non-english", "conf/likely", "country/france"]
+confidence: "confirmed"
+url: "https://blogs.mediapart.fr/declaration-de-leyde/blog/180626/declaration-de-leyde-sur-lintelligence-artificielle-et-les-mathematiques"
+tags: ["mention", "blog", "non-english", "conf/confirmed", "country/france"]
 ---
 # Déclaration de Leyde sur l'intelligence artificielle et les mathématiques
 
 > **Outlet:** [[Mediapart (Le Club — blog)]] · **Type:** ✍️ Blogs · **Date:** 2026-06-18 · **Language:** French · **Country:** [[France (country)\|France]]
 
-**Link:** https://blogs.mediapart.fr/declaration-de-leyde/blog/180626/declaration-de-leyde-sur-l-intelligence-artificielle-et-les-mathematiques
+**Link:** https://blogs.mediapart.fr/declaration-de-leyde/blog/180626/declaration-de-leyde-sur-lintelligence-artificielle-et-les-mathematiques
 
 ## Summary
 
@@ -25,7 +25,7 @@ A French-language presentation of the Leiden Declaration ('Déclaration de Leyde
 
 ## Notes
 
-Added 2026-07-06, provided by the user. blogs.mediapart.fr blocks automated fetch, but the content is strongly corroborated via search (which returned the French declaration text). This is a French rendering/presentation of the 2026 declaration on Mediapart's Le Club; canonical URL stored (email tracking parameters stripped). Related to Mediapart founder Edwy Plenel's X/Bluesky shares already catalogued. Confidence 'likely'. Not the 2015 Leiden Manifesto.
+Updated 2026-07-07: the user confirmed Mediapart published the French translation; canonical URL corrected (slug 'lintelligence'). A French rendering of the 2026 Leiden Declaration on Mediapart's Le Club, published 18 June 2026 by a dedicated 'declaration-de-leyde' account; related to Mediapart founder Edwy Plenel's X/Bluesky shares already catalogued. Not the 2015 Leiden Manifesto.
 
 ---
 
