@@ -1,12 +1,12 @@
 ---
 tags: [country]
 country_code: "US"
-mentions: 70
+mentions: 71
 ---
 
 # United States
 
-70 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
+71 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
 
 - [[AI Weekly — Leiden Declaration on AI and Mathematics- 130+ Researchers and Inter]] — _newsletter · English · 2026-06-02_
 - [[AI for Consumers (Substack newsletter) — AI for Consumers – 20260610]] — _newsletter · English · 2026-06-10_
@@ -20,6 +20,7 @@ mentions: 70
 - [[Cross-Check (John Horgan) — AI Ain't Gonna Save Higher Ed]] — _blog · English · 2026-06-14_
 - [[Dan Ma's Topology Blog — More confession by Google AI Gemini]] — _blog · English · 2026-06-04_
 - [[Digg — Mathematician Bartosz Naskręcki and co-authors release the Leiden Declara]] — _social · English · 2026-06-02_
+- [[Doron Zeilberger's Opinions (Rutgers) — Opinion 196- Now that Computerkind (aka]] — _blog · English · 2026-06-15_
 - [[Dr. Jason Polak (Substack) — The Leiden Declaration on AI is pathetic]] — _newsletter · English · 2026-06-03_
 - [[Entropy Bonus (David Bachman, Substack) — The Leiden Declaration]] — _newsletter · English · 2026-06-23_
 - [[Futurism — Over 150 Mathematicians Warn Governments Not to -Believe the Hype- Ab]] — _magazine · English · 2026-06-06_

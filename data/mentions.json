@@ -23,11 +23,11 @@
   "generated": "2026-06-16",
   "counts": {
     "total_unique": 139,
-    "real": 266,
+    "real": 267,
     "rejected": 7,
     "round1_candidates": 90,
     "round2_candidates": 50,
-    "manual_additions": 17,
+    "manual_additions": 18,
     "resweep_added": 33,
     "geocoded": 181,
     "supplementary_added": 6,
@@ -5078,6 +5078,25 @@
       "city": "London",
       "lat": 51.5074,
       "lon": -0.1278
+    },
+    {
+      "verified": true,
+      "confidence": "confirmed",
+      "title": "Opinion 196: Now that Computerkind (aka AI) is getting so much SMARTER than Humankind, let's hope that it will also get WISER, and chuck the outdated Platonic-Euclidean Human Way of Doing Mathematics",
+      "outlet": "Doron Zeilberger's Opinions (Rutgers)",
+      "outlet_type": "blog",
+      "author": "Doron Zeilberger",
+      "date": "2026-06-15",
+      "url": "https://sites.math.rutgers.edu/~zeilberg/Opinion196.html",
+      "language": "English",
+      "summary": "An essay in Doron Zeilberger's long-running 'Opinions' series (Rutgers) that references the Leiden Declaration on AI and Mathematics — which he learned about via Siobhan Roberts' New York Times article. Taking a contrarian stance, Zeilberger argues that as AI surpasses human mathematical ability, mathematics should abandon its insistence on absolute rigorous proof in favour of probabilistic mathematical knowledge — a counterpoint to the declaration's defence of proof, rigour and human oversight.",
+      "key_quote": "Thanks to Siobhan Roberts' fascinating article ... I learned about the Leiden declaration.",
+      "notes": "Added 2026-07-06, provided by the user. Confirmed via WebFetch: Opinion 196 (15 June 2026) explicitly names the 2026 Leiden Declaration. Doron Zeilberger is a prominent combinatorialist at Rutgers known for his provocative 'Opinions'; this is a notable dissenting/contrarian reception. Not the 2015 Leiden Manifesto.",
+      "country": "United States",
+      "country_code": "US",
+      "city": "New Brunswick",
+      "lat": 40.4862,
+      "lon": -74.4518
     }
   ],
   "rejected": [

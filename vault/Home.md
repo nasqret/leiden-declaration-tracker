@@ -6,7 +6,7 @@ tags: [moc, home]
 
 Knowledge base tracking **every traced mention** of the [[Leiden Declaration on AI and Mathematics]] across the internet — newspapers, magazines, blogs, institutional announcements and social media.
 
-- **Total mentions catalogued:** 266
+- **Total mentions catalogued:** 267
 - **Declaration published:** 2026-06-02
 - **Knowledge base generated:** 2026-06-16
 
@@ -174,7 +174,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Leiden University (in the media) — Leiden Declaration sparks global debate on th]] — _2026-06-25 · Leiden University (institutional)_
 - [[HUN-REN Alfréd Rényi Institute of Mathematics — Community Initiative by Mathemat]] — _2026-06-30_
 
-### ✍️ Blogs (59)
+### ✍️ Blogs (60)
 
 - [[What's new (Terence Tao blog) — Mathematical methods and human thought in the ag]] — _2026-03-29 · Terence Tao_
 - [[Combinatorics and more (Gil Kalai's blog) — Amazing- Erdős' Unit Distance Proble]] — _2026-05-21 · Gil Kalai_
@@ -230,6 +230,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Webnews.it — AI e matematica, l'avvertimento di oltre 150 ricercatori- entusiasm]] — _2026-06-12 · Silvia Dalia_
 - [[Cross-Check (John Horgan) — AI Ain't Gonna Save Higher Ed]] — _2026-06-14 · John Horgan_
 - [[felienne.nl (Felienne Hermans) — AI in week 24]] — _2026-06-14 · Felienne Hermans_
+- [[Doron Zeilberger's Opinions (Rutgers) — Opinion 196- Now that Computerkind (aka]] — _2026-06-15 · Doron Zeilberger_
 - [[Territorial Challenges — Déclaration de Leiden - ce que nos élus doivent absolum]] — _2026-06-17 · Nidam Abdi_
 - [[MathSci.ai (Tamara Kolda) — I Signed the Leiden Declaration on AI and Mathematic]] — _2026-06-18 · Tamara G. Kolda_
 - [[MathSci.ai (Tamara Kolda) — Quoted in Trouw on the Leiden Declaration]] — _2026-06-18 · Tamara G. Kolda_
@@ -324,7 +325,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 
 ## Mentions by country (47 countries)
 
-- [[United States (country)\|United States]] — 70
+- [[United States (country)\|United States]] — 71
 - [[Netherlands (country)\|Netherlands]] — 20
 - [[France (country)\|France]] — 17
 - [[United Kingdom (country)\|United Kingdom]] — 16
