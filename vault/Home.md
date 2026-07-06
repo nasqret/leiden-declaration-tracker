@@ -6,7 +6,7 @@ tags: [moc, home]
 
 Knowledge base tracking **every traced mention** of the [[Leiden Declaration on AI and Mathematics]] across the internet — newspapers, magazines, blogs, institutional announcements and social media.
 
-- **Total mentions catalogued:** 267
+- **Total mentions catalogued:** 269
 - **Declaration published:** 2026-06-02
 - **Knowledge base generated:** 2026-06-16
 
@@ -14,7 +14,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 
 ## Mentions by category
 
-### 📰 Newspapers & wire services (76)
+### 📰 Newspapers & wire services (77)
 
 - [[TGRT Haber — Hükümetlere yapay zekâ uyarısı- Bildiri yayınladılar]]
 - [[Neue Zürcher Zeitung (NZZ) — KI knackt ein 80 Jahre altes Mathe-Rätsel – ein Wen]] — _2026_
@@ -32,6 +32,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[The Indian Express — Why hundreds of mathematicians have backed a declaration ag]] — _2026-06_
 - [[Trouw — Wiskundigen waarschuwen voor AI in hun vak- wat is nog onze rol-]] — _2026-06_
 - [[Unboxholics.com — 150 μαθηματικοί προειδοποιούν για την AI και ζητούν να μην πισ]] — _2026-06_
+- [[Weekendavisen — Bristepunkt]] — _2026-06_
 - [[Yahoo News Japan Expert (Yahoo!ニュース エキスパート) — 数学者らが過度なAI利用に警鐘「ライデン宣言」――あらゆる分野で必要]] — _2026-06 · 佐藤仁 (Sato Jin)_
 - [[de Volkskrant — Prominente wiskundigen waarschuwen voor gevaren van AI- 'OpenAI]] — _2026-06_
 - [[myRepublica (Nagarik Network, Nepal; NYT partner) — Mathematicians say 'don't be]] — _2026-06 · AFP/RSS (Agence France-Presse wire, republished via RSS)_
@@ -174,7 +175,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Leiden University (in the media) — Leiden Declaration sparks global debate on th]] — _2026-06-25 · Leiden University (institutional)_
 - [[HUN-REN Alfréd Rényi Institute of Mathematics — Community Initiative by Mathemat]] — _2026-06-30_
 
-### ✍️ Blogs (60)
+### ✍️ Blogs (61)
 
 - [[What's new (Terence Tao blog) — Mathematical methods and human thought in the ag]] — _2026-03-29 · Terence Tao_
 - [[Combinatorics and more (Gil Kalai's blog) — Amazing- Erdős' Unit Distance Proble]] — _2026-05-21 · Gil Kalai_
@@ -234,6 +235,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Territorial Challenges — Déclaration de Leiden - ce que nos élus doivent absolum]] — _2026-06-17 · Nidam Abdi_
 - [[MathSci.ai (Tamara Kolda) — I Signed the Leiden Declaration on AI and Mathematic]] — _2026-06-18 · Tamara G. Kolda_
 - [[MathSci.ai (Tamara Kolda) — Quoted in Trouw on the Leiden Declaration]] — _2026-06-18 · Tamara G. Kolda_
+- [[Mediapart (Le Club — blog) — Déclaration de Leyde sur l'intelligence artificiell]] — _2026-06-18_
 - [[BLOG@CACM (Communications of the ACM) — The Leiden Declaration- Mathematics, AI,]] — _2026-06-25 · Mateja Jamnik_
 - [[Kwantowo — Deklaracja Lejdejska- coraz więcej dowodów, coraz mniej pewności]] — _2026-06-28 · Adam Adamczyk_
 
@@ -323,11 +325,11 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[MEXC News (French edition) — Les mathématiciens appellent à la régulation de l'I]] — _2026-06-08 · Rappler (syndicated; original source credited)_
 - [[Wikipedia — Leiden Declaration on Artificial Intelligence and Mathematics]] — _2026-06-16 · Wikipedia contributors (collaborative, no single byline)_
 
-## Mentions by country (47 countries)
+## Mentions by country (48 countries)
 
 - [[United States (country)\|United States]] — 71
 - [[Netherlands (country)\|Netherlands]] — 20
-- [[France (country)\|France]] — 17
+- [[France (country)\|France]] — 18
 - [[United Kingdom (country)\|United Kingdom]] — 16
 - [[China (country)\|China]] — 13
 - [[Germany (country)\|Germany]] — 13
@@ -356,6 +358,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Argentina (country)\|Argentina]] — 1
 - [[Belarus (country)\|Belarus]] — 1
 - [[Chile (country)\|Chile]] — 1
+- [[Denmark (country)\|Denmark]] — 1
 - [[Indonesia (country)\|Indonesia]] — 1
 - [[Iran (country)\|Iran]] — 1
 - [[Jamaica (country)\|Jamaica]] — 1
