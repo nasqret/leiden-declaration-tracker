@@ -6,7 +6,7 @@ tags: [moc, home]
 
 Knowledge base tracking **every traced mention** of the [[Leiden Declaration on AI and Mathematics]] across the internet — newspapers, magazines, blogs, institutional announcements and social media.
 
-- **Total mentions catalogued:** 269
+- **Total mentions catalogued:** 270
 - **Declaration published:** 2026-06-02
 - **Knowledge base generated:** 2026-06-16
 
@@ -100,7 +100,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[The Manila Times (AFP wire) — Mathematicians say 'don't believe hype' on AI capa]] — _2026-06-04 · Agence France-Presse (AFP)_
 - [[ANSA (Agenzia Nazionale Stampa Associata) — I matematici chiedono regole per l'I]] — _2026-06-19 · Elisa Buson_
 
-### 🧪 Science & tech magazines (17)
+### 🧪 Science & tech magazines (18)
 
 - [[Science (AAAS) — Mathematicians issue warning as AI rapidly gains ground]] — _2026-06-02_
 - [[Scientific American — Mathematicians sign declaration to rein in AI use]] — _2026-06-02 · Leila Sloman (edited by Clara Moskowitz)_
@@ -115,6 +115,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[N+1 (nplus1.ru) — Рог математического изобилия. Рассказываем, как языковые модел]] — _2026-06-11_
 - [[Rivista AI — Dichiarazione di Leida. I matematici chiedono regole per l'AI- -la]] — _2026-06-13_
 - [[Business+IT - ビジネス+IT (SBBIT, SoftBank Creative - SB Creative, Japan) — 数学分野でシンギ]] — _2026-06-16 · No visible individual byline; published by Business+IT editorial (ビジネス+IT)_
+- [[IEEE Spectrum — What it Means to Be a Mathematician When AI Does the Math]] — _2026-06-25 · Benjamin Skuse_
 - [[SG.hu — Mit jelent matematikusnak lenni az MI korszakban-]] — _2026-06-25_
 - [[Academia. Magazyn Polskiej Akademii Nauk (Academia PAN) — Deklaracja Lejdejska.]] — _2026-06-26_
 - [[Ukrainskyi Tyzhden (The Ukrainian Week) — Від ейфорії до раціональності- чому у]] — _2026-06-30_
@@ -327,7 +328,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 
 ## Mentions by country (48 countries)
 
-- [[United States (country)\|United States]] — 71
+- [[United States (country)\|United States]] — 72
 - [[Netherlands (country)\|Netherlands]] — 20
 - [[France (country)\|France]] — 18
 - [[United Kingdom (country)\|United Kingdom]] — 16

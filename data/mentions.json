@@ -23,11 +23,11 @@
   "generated": "2026-06-16",
   "counts": {
     "total_unique": 139,
-    "real": 269,
+    "real": 270,
     "rejected": 7,
     "round1_candidates": 90,
     "round2_candidates": 50,
-    "manual_additions": 20,
+    "manual_additions": 21,
     "resweep_added": 33,
     "geocoded": 181,
     "supplementary_added": 6,
@@ -5135,6 +5135,25 @@
       "city": "Paris",
       "lat": 48.8566,
       "lon": 2.3522
+    },
+    {
+      "verified": true,
+      "confidence": "confirmed",
+      "title": "What it Means to Be a Mathematician When AI Does the Math",
+      "outlet": "IEEE Spectrum",
+      "outlet_type": "magazine",
+      "author": "Benjamin Skuse",
+      "date": "2026-06-25",
+      "language": "English",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "summary": "An IEEE Spectrum feature examining how AI's growing mathematical capabilities are forcing mathematicians to reconsider the discipline's purpose and future, presenting three competing visions (AI as a practical tool, human-AI collaboration, and AI as an autonomous oracle). It references the Leiden Declaration as one of the institutions and 'community groups' developing guidelines for how AI should be used in research and publication (linking to leidendeclaration.ai).",
+      "key_quote": "Institutions and community groups are developing guidelines for how AI should be used in research and publication.",
+      "notes": "Added 2026-07-07, provided by the user. Confirmed via WebFetch: the article links to leidendeclaration.ai and references the declaration among community efforts. IEEE Spectrum is the flagship magazine of the IEEE. Not the 2015 Leiden Manifesto.",
+      "country": "United States",
+      "country_code": "US",
+      "city": "New York",
+      "lat": 40.7128,
+      "lon": -74.006
     }
   ],
   "rejected": [

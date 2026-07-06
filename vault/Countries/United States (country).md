@@ -1,12 +1,12 @@
 ---
 tags: [country]
 country_code: "US"
-mentions: 71
+mentions: 72
 ---
 
 # United States
 
-71 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
+72 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
 
 - [[AI Weekly — Leiden Declaration on AI and Mathematics- 130+ Researchers and Inter]] — _newsletter · English · 2026-06-02_
 - [[AI for Consumers (Substack newsletter) — AI for Consumers – 20260610]] — _newsletter · English · 2026-06-10_
@@ -29,6 +29,7 @@ mentions: 71
 - [[Hard Fork (The New York Times) — Hot I.P.O Summer + What Is A.I. Doing to Math-]] — _podcast · English · 2026-06-05_
 - [[How Math Saves the World (Substack) — When AI Came for Math, The Mathematicians]] — _newsletter · English · 2026-06-03_
 - [[ICO Optics — 150+ Mathematicians Warn Governments Not to Believe AI Hype]] — _blog · English · 2026-06-07_
+- [[IEEE Spectrum — What it Means to Be a Mathematician When AI Does the Math]] — _magazine · English · 2026-06-25_
 - [[Implicator.ai — Mathematicians Issue Leiden Declaration on AI Proof Rules]] — _newsletter · English · 2026-06-02_
 - [[International Congress of Mathematicians (ICM 2026, Philadelphia) — The Leiden D]] — _event · English · 2026-07-26_
 - [[LessWrong — Links -3- 2026-06 Part 1]] — _forum · English · 2026-06-15_
