@@ -1,12 +1,12 @@
 ---
 tags: [country]
 country_code: "PL"
-mentions: 7
+mentions: 8
 ---
 
 # Poland
 
-7 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **Poland**:
+8 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **Poland**:
 
 - [[Academia. Magazyn Polskiej Akademii Nauk (Academia PAN) — Deklaracja Lejdejska.]] — _magazine · Polish · 2026-06-26_
 - [[GRYOnline.pl — Ponad 150 ekspertów od matematyki ostrzega, że rządy mogą przecen]] — _newspaper · Polish · 2026-06-08_
@@ -15,3 +15,4 @@ mentions: 7
 - [[MamStartup — Zaczęło się! AI buja kolebką logiki]] — _blog · Polish · 2026-06-06_
 - [[Moyens I-O (pl.moyens.net) — Eksperci ostrzegają- sztuczna inteligencja może zag]] — _blog · Polish · 2026-06_
 - [[WP Tech (Wirtualna Polska) — AI rozwiązało słynny problem geometrii. Matematycy]] — _newspaper · Polish · 2026-06-19_
+- [[testerzy.pl — Matematycy przestrzegają przed AI]] — _blog · Polish · 2026-06-24_

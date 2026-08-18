@@ -286,9 +286,69 @@ mathematics (proof, verification, attribution, peer review, human oversight).
   kept in the list/filters but off the map (265/266 geo-located); still
   neutral/facts-only.
 
-### Notes for next time
+### Notes for next time (round 6)
 - Re-run the research workflow periodically (signatory count and coverage keep
   growing); add new rows to `data/mentions.json` and run `python3
   scripts/generate.py`.
 - `likely`-confidence items (notably NYT) are paywalled — re-check if direct
   access becomes available.
+
+## 2026-08-18 — Round 7: post-ICM sweep (+34 → 304)
+
+- First refresh since 5–6 July. Ran the sweep **inline** (no research workflow):
+  ~60 web searches across 12 lenses — English press, ICM 2026 reception, math
+  blogs/Substacks, newsletters, academic citations, forums, video/podcast,
+  reference works, plus ~30 **native-language** queries (memory rule
+  [[multilingual-search-recall]]) — then fetched and read every candidate.
+  Dedup vs the 270 stored URLs with a video-ID + percent-decode aware norm.
+- **34 added → 304 mentions**, 49 countries (+Taiwan, +North Macedonia),
+  30 languages (+Macedonian), 287 outlets. 8 rejections recorded.
+- **Two new news pegs** drove most of the fresh coverage:
+  1. **ICM 2026** (Philadelphia, 23–30 July): Jim Portegies presented the
+     declaration on 26 July in the IMU Committee on Publishing panel — captured
+     via **Plus Magazine**'s ICM postcard and **heise online**'s ICM report.
+  2. **The Jacobian conjecture counterexample** (Alpöge/Claude Fable 5, 19–20
+     July) and the August Riemann-zeta result: press covering these routinely
+     cites the declaration — **Fortune**, **Smithsonian**, **The Verge**,
+     **Stanford Tech Review**, **Bloomberg Opinion** (Parmy Olson), **ČT24**.
+- **Notable adds:** **Timothy Gowers**'s long post explaining why he did *not*
+  sign (the most substantial mathematician response yet catalogued);
+  **UC San Diego Today** (interviewing co-author Karthik Ganapathy); two more
+  **Leiden University** follow-ups (global-debate round-up; Nature-editorial
+  item); **Max Weinreich**'s arXiv essay "The crisis of AI-generated
+  mathematics"; a second **arXiv AI-use disclosure** citing the declaration
+  (Pozsgay); **Spanish and French Wikipedia** editions (all three share Wikidata
+  Q140180075); an **ITB Bandung** lecture deck; **China Times** (Taiwan),
+  **China Science Daily/ScienceNet** ×2, **The Paper**; Ukrainian coverage ×3;
+  and the first **`tv`** entry in the catalogue (ČT24).
+- **Rejected (fetched, no reference):** Haaretz and ynet (Hebrew), The
+  Conversation's Jacobian piece and its ScienceDaily republication, ICMAT,
+  Tech Times, Ultrathink, and — noteworthy — **Anthropic's own Riemann-zeta
+  research post**, which does not mention the declaration. The standing finding
+  that AI labs have not publicly responded still holds.
+- **Dropped as mirrors/translations/aggregators (not counted):** 3arrafni
+  (Arabic translation of The Verge), MediaBrama (Ukrainian translation of
+  Bloomberg), Habr (Russian translation of Ars Technica), aib.vote (Korean
+  translation of Rappler), Wenxuecity (China Times clone), ZAKER (The Paper
+  clone), Gizmodo Japan, nydus.org, fellow.news, Let's Data Science, daily.dev,
+  Mondaq, pl.moyens.net, a duplicate Oxford node page (81506 ≡ 81479), and four
+  duplicate Hacker News submissions of the Gowers post.
+- **Two syndication traps:** the Bloomberg column is catalogued as `likely` —
+  bloomberg.com returns 403, and its **Taipei Times / Qatar Tribune
+  syndications were fetched in full and contain no "Leiden"** (abridged), so
+  the mention is corroborated from index extracts plus the Ukrainian
+  translation. Recorded in the rejected list so the check isn't repeated.
+- **Metadata fixed:** `generated` was still 2026-06-16 and `counts.total_unique`
+  still 139; both now reflect reality (2026-08-18, 304). Signatory count updated
+  **2,500+ → 3,500+ (3,572 on 18 Aug 2026)**.
+- Tooling note: several outlets (tyzhden.ua, highload.tech, 3arrafni, Taipei
+  Times, Tech Times, zhihu) 403 the fetch tool but return fine to `curl` with a
+  browser UA — worth trying before recording a negative.
+
+### Notes for next time
+- The `likely` items to re-check if access improves: NYT, Bloomberg, Zhihu.
+- Aperiodical's "Double Maths First Thing" issues mention the declaration in
+  passing (issue 5E carried an IMA early-career session on it); scanning later
+  issues (62, 63, …) may yield more.
+- AMS **Notices** appears to have referenced the declaration in its September
+  2026 issue; the article URL could not be pinned down and is still open.

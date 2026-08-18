@@ -1,12 +1,12 @@
 ---
 tags: [country]
 country_code: "DE"
-mentions: 13
+mentions: 14
 ---
 
 # Germany
 
-13 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **Germany**:
+14 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **Germany**:
 
 - [[Bluesky (@tobyhodges.carpentries.org) — Tobias Hodges- -We spent some time discu]] — _social · English · 2026-06-09_
 - [[Epoch Times Deutsch — Mathematiker- KI-Hype nicht unkritisch übernehmen]] — _newspaper · German · 2026-06_
@@ -20,4 +20,5 @@ mentions: 13
 - [[Science in Arabic (أخبار العلم بالعربية) — الذكاء الاصطناعي يثير جدلاً في عوالم]] — _blog · Arabic · 2026-06_
 - [[Spektrum der Wissenschaft — Leitlinien- Mathematiker wollen Einsatz von KI in ih]] — _magazine · German · 2026-06-03_
 - [[WinBuzzer — Leiden Declaration- Mathematicians Warn AI Could Strain Math Proof]] — _blog · English · 2026-06-07_
+- [[heise online — Mathematicians call for conscious use of AI- 'Don't believe the h]] — _magazine · German · 2026-07-27_
 - [[moyens.net (DE) — Experten warnen- KI könnte Mathematik bedrohen, fordern Standa]] — _blog · German · 2026-06_

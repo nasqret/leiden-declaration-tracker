@@ -1,18 +1,19 @@
 ---
 tags: [country]
 country_code: "US"
-mentions: 72
+mentions: 82
 ---
 
 # United States
 
-72 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
+82 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
 
 - [[AI Weekly — Leiden Declaration on AI and Mathematics- 130+ Researchers and Inter]] — _newsletter · English · 2026-06-02_
 - [[AI for Consumers (Substack newsletter) — AI for Consumers – 20260610]] — _newsletter · English · 2026-06-10_
 - [[American Mathematical Society (AMS) — American Mathematical Society — news item]] — _institutional · English · 2026_
 - [[Ars Technica — Mathematicians warn of AI threats to profession as industry encro]] — _newspaper · English · 2026-06-02_
 - [[BLOG@CACM (Communications of the ACM) — The Leiden Declaration- Mathematics, AI,]] — _blog · English · 2026-06-25_
+- [[Bloomberg Opinion — Math Faces an AI 'Spiritual Crisis.' It Has a Lesson for the]] — _newspaper · English · 2026-08-13_
 - [[Bluesky (@chanda.blacksky.app) — Chanda Prescod-Weinstein- -Worth reading and di]] — _social · English · 2026-06-06_
 - [[Bluesky (@imathtutor.bsky.social) — iMathTutor thread- counting Penn State signa]] — _social · English · 2026-06-16_
 - [[Bluesky (@tysongern.bsky.social) — Tyson Gern- -Prominent mathematicians recentl]] — _social · English · 2026-06-09_
@@ -23,6 +24,7 @@ mentions: 72
 - [[Doron Zeilberger's Opinions (Rutgers) — Opinion 196- Now that Computerkind (aka]] — _blog · English · 2026-06-15_
 - [[Dr. Jason Polak (Substack) — The Leiden Declaration on AI is pathetic]] — _newsletter · English · 2026-06-03_
 - [[Entropy Bonus (David Bachman, Substack) — The Leiden Declaration]] — _newsletter · English · 2026-06-23_
+- [[Fortune — Mathematicians grapple with a 'very rapid and very unsettling change']] — _magazine · English · 2026-07-21_
 - [[Futurism — Over 150 Mathematicians Warn Governments Not to -Believe the Hype- Ab]] — _magazine · English · 2026-06-06_
 - [[Gizmodo — A New Declaration Warns AI Could Threaten the Foundations of Mathemati]] — _blog · English · 2026-06-02_
 - [[Hacker News — Leiden Declaration on Artificial Intelligence and Mathematics]] — _forum · English · 2026-06-03_
@@ -64,19 +66,27 @@ mentions: 72
 - [[Silicon Reckoner (Michael Harris, Substack) — Comments on- The Leiden Declaratio]] — _newsletter · English · 2026-06-02_
 - [[Slashdot — Mathematicians Warn of AI Threats to Profession As Industry Encroache]] — _forum · English · 2026-06-02_
 - [[Smithsonian Magazine — Mathematicians Puzzled Over a Famous Problem for 80 Years]] — _magazine · English · 2026-06-03_
+- [[Smithsonian Magazine — A.I. Disproves a Decades-Old Mathematical Idea, the 'Bigg]] — _magazine · English · 2026-07-27_
+- [[Stanford Tech Review — The 87-Year-Old Jacobian Conjecture Is False — and an AI]] — _magazine · English · 2026-07-22_
 - [[The Cool Down — More than 150 math experts tell governments not to trust AI hype]] — _newspaper · English · 2026-06-10_
 - [[The New York Times — As A.I. Makes Strides in Mathematics, Mathematicians Urge C]] — _newspaper · English · 2026-06-02_
 - [[The Synthesis (Substack) — The Leiden Declaration is a job application, not a pr]] — _newsletter · English · 2026-06-10_
+- [[The Verge — The AI takeover of mathematics has begun]] — _magazine · English · 2026-08-11_
 - [[The Washington Post — For centuries, math has been a human endeavor. Does AI mea]] — _newspaper · English · 2026-06-14_
+- [[UC San Diego Today — A Call for the Ethical Use of AI in Mathematics]] — _institutional · English · 2026-07-20_
 - [[Undark Magazine — Opinion- Biologists Should Articulate Their Position on AI]] — _magazine · English · 2026-07-02_
+- [[Understanding AI (Substack) — Mathematicians are grappling with the possibility]] — _newsletter · English · 2026-08-04_
 - [[Weinberg College News, Northwestern University — Mathematician Bryna Kra Among A]] — _institutional · English · 2026-06-02_
 - [[What's new (Terence Tao blog) — Mathematical methods and human thought in the ag]] — _blog · English · 2026-03-29_
 - [[Wikidata — Leiden Declaration on Artificial Intelligence and Mathematics (Q14018]] — _institutional · English · 2026-06-02_
 - [[Wikipedia — Leiden Declaration on Artificial Intelligence and Mathematics]] — _other · English · 2026-06-16_
+- [[Wikipedia (español) — Declaración de Leiden sobre Inteligencia Artificial y Mate]] — _other · Spanish · 2026-08-05_
+- [[Wikipédia (français) — Déclaration de Leiden sur l'intelligence artificielle et]] — _other · French · 2026-08-18_
 - [[X (Twitter) — Steven Strogatz on X- -This terrific article by @sioroberts will h]] — _social · English · 2026-06_
 - [[X (Twitter) — Ananyo Bhattacharya on X- -Leiden Declaration on AI and Mathematic]] — _social · English · 2026-06-02_
 - [[Yahoo News (Science) — syndicated from Futurism — Over 150 Mathematicians Warn G]] — _newspaper · English · 2026-06-06_
 - [[YouTube — qdotai — The Leiden Declaration- Mathematical Truth vs. AI Probability]] — _video · English · 2026-06-08_
 - [[arXiv (math.AG) — Extremal descendant integrals on moduli spaces of curves- An i]] — _preprint · English · 2025-12-16_
 - [[arXiv (math.GR) — Stability, approximable quotients, and higher property (T)]] — _preprint · English · 2026-06-08_
+- [[arXiv (preprint, math.HO) — The crisis of AI-generated mathematics]] — _preprint · English · 2026-08-03_
 - [[文学城 (Wenxuecity, sourced from Tencent) — 全球16位顶尖数学家起草反AI宣言 联合国报告示警]] — _newspaper · Chinese · 2026-06-04_

@@ -1,12 +1,12 @@
 ---
 tags: [country]
 country_code: "NL"
-mentions: 20
+mentions: 22
 ---
 
 # Netherlands
 
-20 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **Netherlands**:
+22 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **Netherlands**:
 
 - [[Cursor (TU-e) — Wiskundigen waarschuwen in verklaring voor de gevaren van AI]] — _institutional · Dutch · 2026-06-08_
 - [[Eindhoven University of Technology (TU-e) — AI threatens math, researchers warn]] — _institutional · English · 2026-06-03_
@@ -22,6 +22,8 @@ mentions: 20
 - [[The Next Web (TNW) — The world's mathematicians just issued a formal declaration]] — _blog · English · 2026-06-02_
 - [[Trouw — Wiskundigen waarschuwen voor AI in hun vak- wat is nog onze rol-]] — _newspaper · Dutch · 2026-06_
 - [[Universiteit Leiden (nieuws) — Leiden Declaration- AI zet kernwaarden van de wis]] — _institutional · Dutch · 2026-06-02_
+- [[Universiteit Leiden (nieuws) — Leiden Declaration sparks global debate on the fu]] — _institutional · English · 2026-06-25_
+- [[Universiteit Leiden (nieuws) — 'Leiden is gaining a reputation for hosting meeti]] — _institutional · English · 2026-06-25_
 - [[Vrije Universiteit Amsterdam (vu.nl) — Declaration on AI and Math]] — _institutional · English · 2026-06-16_
 - [[de Volkskrant — Prominente wiskundigen waarschuwen voor gevaren van AI- 'OpenAI]] — _newspaper · Dutch · 2026-06_
 - [[etotaal.nl — AI bedreigt wiskunde, waarschuwen onderzoekers]] — _newspaper · Dutch · 2026-06-03_

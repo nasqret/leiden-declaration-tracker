@@ -36,9 +36,9 @@ of mathematics (proof, verification, attribution, peer review, human oversight).
 9. **Ship** — local git repo → private GitHub repo (`nasqret`).
 
 ## Deliverables & status
-- [x] Verified mention catalog — **131 mentions, 127 outlets, ~15 languages** (7 false positives rejected)
+- [x] Verified mention catalog — **304 mentions, 287 outlets, 30 languages, 49 countries** (15 false positives rejected; last refreshed 2026-08-18, round 7)
 - [x] `data/mentions.json` source of truth
-- [x] Obsidian vault (`vault/`) — Home MOC, Declaration, 131 Mentions, master table, 127 Outlets, 6 People
+- [x] Obsidian vault (`vault/`) — Home MOC, Declaration, 304 Mentions, master table, 287 Outlets, 50 Countries, 6 People
 - [x] Landing page (`landing/index.html`) — filterable
 - [x] Memory file (Claude memory) + `MEMORY.md` index pointer
 - [x] Journal (`JOURNAL.md`)
