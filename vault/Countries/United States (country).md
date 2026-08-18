@@ -1,16 +1,16 @@
 ---
 tags: [country]
 country_code: "US"
-mentions: 82
+mentions: 83
 ---
 
 # United States
 
-82 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
+83 traced mention(s) of the [[Leiden Declaration on AI and Mathematics]] published from **United States**:
 
 - [[AI Weekly — Leiden Declaration on AI and Mathematics- 130+ Researchers and Inter]] — _newsletter · English · 2026-06-02_
 - [[AI for Consumers (Substack newsletter) — AI for Consumers – 20260610]] — _newsletter · English · 2026-06-10_
-- [[American Mathematical Society (AMS) — American Mathematical Society — news item]] — _institutional · English · 2026_
+- [[American Mathematical Society (AMS) — IMU Endorses Leiden Declaration on Artific]] — _institutional · English · 2026-06-30_
 - [[Ars Technica — Mathematicians warn of AI threats to profession as industry encro]] — _newspaper · English · 2026-06-02_
 - [[BLOG@CACM (Communications of the ACM) — The Leiden Declaration- Mathematics, AI,]] — _blog · English · 2026-06-25_
 - [[Bloomberg Opinion — Math Faces an AI 'Spiritual Crisis.' It Has a Lesson for the]] — _newspaper · English · 2026-08-13_
@@ -54,6 +54,7 @@ mentions: 82
 - [[Mind Matters — A moment of sanity- The Leiden Declaration on AI]] — _blog · English · 2026-06-05_
 - [[New Savanna (Bill Benzon) — Mathematicians are concerned that exploitation by th]] — _blog · English · 2026-06-02_
 - [[Not Even Wrong (Peter Woit's blog) — End of Civilization News]] — _blog · English · 2026-06-02_
+- [[Notices of the American Mathematical Society — A Call for Action- The “Leiden De]] — _academic · English · 2026-09-01_
 - [[Open Data Science (ODSC) — -Last Week in AI- weekly recap — In Case You Missed I]] — _blog · English · 2026-06-08_
 - [[Quantum Formalism (Substack) — The Leiden Declaration Reminds AI Labs That Mathe]] — _newsletter · English · 2026-06-02_
 - [[Quomodocumque (Jordan Ellenberg's blog) — The Leiden Declaration on Artificial I]] — _blog · English · 2026-06-04_

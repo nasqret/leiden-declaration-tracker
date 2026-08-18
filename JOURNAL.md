@@ -350,5 +350,35 @@ mathematics (proof, verification, attribution, peer review, human oversight).
 - Aperiodical's "Double Maths First Thing" issues mention the declaration in
   passing (issue 5E carried an IMA early-career session on it); scanning later
   issues (62, 63, …) may yield more.
-- AMS **Notices** appears to have referenced the declaration in its September
-  2026 issue; the article URL could not be pinned down and is still open.
+- ~~AMS **Notices** appears to have referenced the declaration in its September
+  2026 issue; the article URL could not be pinned down and is still open.~~
+  **Closed the same day — see below.**
+
+## 2026-08-18 — Follow-up: AMS *Notices* + the AMS endorsement (→ 305)
+
+- The user pointed out that the *Notices of the AMS* are public and reprint the
+  declaration in full. Confirmed: **"A Call for Action: The 'Leiden Declaration
+  on Artificial Intelligence and Mathematics'"** by **Siobhan Roberts**, *Notices
+  of the AMS* **73(8), September 2026, p. 644**, DOI `10.1090/noti3386` — a
+  reported feature (origin story from the INI "Big Proof" pub conversation
+  through the eight-month drafting; interviews with Portegies and Bryna Kra;
+  endorsement statements from Scholze and Tao) that then **reproduces the entire
+  declaration text and author list**. First catalogued case of a society journal
+  republishing the declaration in full. Added → **305**.
+  - Note: Roberts is the same journalist who wrote the catalogued NYT piece,
+    here writing as executive editor of the *Notices*.
+- **Resolved a long-standing placeholder.** The AMS news item added in round 6
+  from a user pointer (`ams.org/news?news_id=7666`) had never been verified —
+  ams.org 403s the fetch tool and the URL now redirects to the generic newsroom
+  search. Recovered the item in full from the **AMS news RSS feed**: headline
+  **"IMU Endorses Leiden Declaration on Artificial Intelligence and
+  Mathematics"**, 30 June 2026, with statements from **AMS President Ravi Vakil**
+  and **incoming president Joe Silverman**. Entry upgraded `likely` →
+  `confirmed`, placeholder title replaced. Substantively this is a **second
+  society endorsement alongside the IMU's**.
+- **Checked and rejected:** the SIAM News piece "A Contract of Trust: Artificial
+  Intelligence Usage for SIAM Journal Submissions" (Kolda, *SIAM News* 59(4)) —
+  search results juxtapose it with the declaration, but it is dated **May 2026**
+  and therefore predates publication; it cannot cite it.
+- Method note reinforcing [[verifying-negative-claims]]: an RSS feed recovered an
+  item that both the fetch tool and site search had failed on. Try the feed.

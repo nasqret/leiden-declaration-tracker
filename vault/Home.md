@@ -6,7 +6,7 @@ tags: [moc, home]
 
 Knowledge base tracking **every traced mention** of the [[Leiden Declaration on AI and Mathematics]] across the internet — newspapers, magazines, blogs, institutional announcements and social media.
 
-- **Total mentions catalogued:** 304
+- **Total mentions catalogued:** 305
 - **Declaration published:** 2026-06-02
 - **Knowledge base generated:** 2026-08-18
 
@@ -141,7 +141,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 
 - [[ČT24 (Česká televize) — AI zkusila vyřešit Riemannovu hypotézu. Výsledek naznaču]] — _2026-08-14 · Tomáš Karlík_
 
-### 🎓 Academic & scholarly (6)
+### 🎓 Academic & scholarly (7)
 
 - [[OpenAlex — Leiden Declaration on Artificial Intelligence and Mathematics (OpenAl]] — _2026-06-02 · OurResearch (OpenAlex)_
 - [[OpenAlex — Leiden Declaration on Artificial Intelligence and Mathematics]] — _2026-06-02 · Jarod Alper; Michael Bárány; Alain Chavarri Villarello; Sander Dahmen; Walter Dean; Karthik Ganapathy; Michael Harris; David Holmes; Mateja Jamnik; Steven Kelk; Bryna Kra; Ursula Martin; Bartosz Naskręcki; Rodrigo Ochigame; Jim Portegies; Johannes Schmitt_
@@ -149,6 +149,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Academy for the Mathematical Sciences — Mathematics in the age of artificial int]] — _2026-06-12 · David Leslie et al._
 - [[Nature (Editorial) — Mathematicians are developing rules for AI use — other fiel]] — _2026-06-16_
 - [[Nature Machine Intelligence — Solutions, challenges and rising tensions in AI an]] — _2026-06-23_
+- [[Notices of the American Mathematical Society — A Call for Action- The “Leiden De]] — _2026-09-01 · Siobhan Roberts_
 
 ### 📄 Preprints (5)
 
@@ -160,7 +161,6 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 
 ### 🏛️ Institutions & societies (41)
 
-- [[American Mathematical Society (AMS) — American Mathematical Society — news item]] — _2026_
 - [[International Mathematical Union (IMU) — IMU News 137- May 2026]] — _2026-05 · Christoph Sorger (Secretary General of the IMU)_
 - [[Academy for the Mathematical Sciences — Announcement of -Leiden Declaration on A]] — _2026-06_
 - [[Isaac Newton Institute — Mathematicians call for action on AI to protect the fut]] — _2026-06 · Isaac Newton Institute (institutional newsroom; no individual byline; features comments from Director Prof. Ulrike Tillmann FRS)_
@@ -199,6 +199,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 - [[Universiteit Leiden (nieuws) — Leiden Declaration sparks global debate on the fu]] — _2026-06-25 · Leiden University_
 - [[Universiteit Leiden (nieuws) — 'Leiden is gaining a reputation for hosting meeti]] — _2026-06-25 · Sarah Bozuwa_
 - [[Institut Teknologi Bandung — FMIPA - LFM-ITB — Leiden Declaration on AI & Mathem]] — _2026-06-26 · Hendra Gunawan_
+- [[American Mathematical Society (AMS) — IMU Endorses Leiden Declaration on Artific]] — _2026-06-30 · American Mathematical Society_
 - [[HUN-REN Alfréd Rényi Institute of Mathematics — Community Initiative by Mathemat]] — _2026-06-30_
 - [[UC San Diego Today — A Call for the Ethical Use of AI in Mathematics]] — _2026-07-20 · Michelle Franklin_
 
@@ -365,7 +366,7 @@ _A factual catalogue of public mentions. This list is a lower bound, not exhaust
 
 ## Mentions by country (50 countries)
 
-- [[United States (country)\|United States]] — 82
+- [[United States (country)\|United States]] — 83
 - [[Netherlands (country)\|Netherlands]] — 22
 - [[United Kingdom (country)\|United Kingdom]] — 19
 - [[France (country)\|France]] — 18
