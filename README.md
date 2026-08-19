@@ -45,6 +45,11 @@ Edit or extend `data/mentions.json` (add rows to `mentions`), then regenerate.
 The `vault/Mentions/`, `vault/Outlets/` notes and `landing/index.html` are
 derived artifacts and are rebuilt every run.
 
+After a coverage sweep, also bump the top-level `last_scrape` (and optional
+`last_scrape_note`) in `data/mentions.json` — the landing page shows that date
+in the header stats, the "About this tracker" panel and the footer, so readers
+can tell how current the catalogue is.
+
 ## Methodology
 
 Mentions were discovered with a multi-lens web-search fan-out (general press,

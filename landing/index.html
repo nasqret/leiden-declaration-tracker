@@ -52,6 +52,8 @@
   .leaflet-popup-content { font:13px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; margin:10px 12px; }
   .leaflet-popup-content a { color:#1d4ed8; }
   footer { max-width:1100px; margin:0 auto; padding:24px; color:var(--muted); font-size:.82rem; border-top:1px solid var(--line); }
+  .scrape { margin-top:12px; padding:10px 12px; border-left:3px solid var(--accent); background:rgba(139,92,246,.10); border-radius:0 6px 6px 0; font-size:.9rem; }
+  .scrape b { color:var(--ink); }
   @media (max-width:720px) { .cols { grid-template-columns:1fr; } h1{font-size:1.9rem;} }
 </style>
 </head>
@@ -65,8 +67,9 @@
     <div class="stat"><b>15</b><span>channel types</span></div>
     <div class="stat"><b>30</b><span>languages</span></div>
     <div class="stat"><b>50</b><span>countries</span></div>
-    <div class="stat"><b>3,500+ (3,572 as of 18 August 2026)</b><span>signatories</span></div>
+    <div class="stat"><b>3,572</b><span>signatories · as of 2026-08-18</span></div>
     <div class="stat"><b>2026-06-02</b><span>published</span></div>
+    <div class="stat"><b>2026-08-18</b><span>last scraped</span></div>
   </div>
   <p class="sub" style="margin-top:18px">
     Declaration: <a href="https://leidendeclaration.ai">https://leidendeclaration.ai</a>
@@ -78,6 +81,7 @@
     <h2>About this tracker</h2>
     <p>A factual catalogue of public mentions of the Leiden Declaration on Artificial Intelligence and Mathematics across the internet — news outlets, institutions, blogs, newsletters, forums, social media, videos, podcasts and academic sources. Each entry was located via web search and checked to confirm it references this declaration. Use the search box and filters below, or the map, to explore.</p>
     <p style="color:var(--muted)">305 mentions · 15 channel types · 30 languages · 50 countries. This list is a lower bound, not exhaustive.</p>
+    <p class="scrape"><b>Last scrape:</b> 2026-08-18 (Round 7 — post-ICM sweep (+34 mentions) plus the AMS Notices follow-up) — the catalogue is refreshed periodically, so mentions published after that date are not yet included.</p>
   </div>
 
   <div id="mapwrap">
@@ -97,7 +101,7 @@
   <div id="list"></div>
 </main>
 <footer>
-  Generated 2026-08-18 from <code>data/mentions.json</code>.
+  Last scrape 2026-08-18 · page generated 2026-08-18 from <code>data/mentions.json</code>.
   Each mention was located via multi-source web search and adversarially verified.
   This tracker is an independent knowledge base about the declaration's reception.
 </footer>

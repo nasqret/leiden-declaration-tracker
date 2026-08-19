@@ -17,7 +17,7 @@ A June 2026 declaration warning that artificial intelligence threatens the core 
 - **Origin:** Grew out of a September 2025 workshop at the Lorentz Center, Leiden University (60 participants from 10 countries).
 - **Working group lead:** Jim Portegies (Eindhoven University of Technology / TU/e)
 - **Endorsement:** International Mathematical Union (IMU)
-- **Signatories:** 3,500+ (3,572 as of 18 August 2026)
+- **Signatories:** 3,572 (as of 2026-08-18)
 
 ## Notable signatories
 

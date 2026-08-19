@@ -8,6 +8,7 @@ Knowledge base tracking **every traced mention** of the [[Leiden Declaration on 
 
 - **Total mentions catalogued:** 305
 - **Declaration published:** 2026-06-02
+- **Last scrape:** 2026-08-18 (Round 7 — post-ICM sweep (+34 mentions) plus the AMS Notices follow-up)
 - **Knowledge base generated:** 2026-08-18
 
 _A factual catalogue of public mentions. This list is a lower bound, not exhaustive._

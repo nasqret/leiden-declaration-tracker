@@ -186,6 +186,8 @@ def render_home(data, mentions):
         "",
         f"- **Total mentions catalogued:** {len(mentions)}",
         f"- **Declaration published:** {subj.get('published','2026-06-02')}",
+        f"- **Last scrape:** {data.get('last_scrape','')}"
+        + (f" ({data.get('last_scrape_note')})" if data.get('last_scrape_note') else ""),
         f"- **Knowledge base generated:** {data.get('generated','')}",
         "",
         "_A factual catalogue of public mentions. This list is a lower bound, not exhaustive._",
@@ -251,7 +253,8 @@ def render_declaration(data):
         f"- **Origin:** {subj.get('origin','')}",
         f"- **Working group lead:** {subj.get('lead','')}",
         f"- **Endorsement:** {subj.get('endorsement','')}",
-        f"- **Signatories:** {subj.get('signatory_count','')}",
+        f"- **Signatories:** {subj.get('signatory_count','')}"
+        + (f" (as of {subj.get('signatory_count_asof')})" if subj.get('signatory_count_asof') else ""),
         "",
         "## Notable signatories",
         "",
@@ -398,6 +401,10 @@ def render_landing(data, mentions):
     countries = sorted({m.get("country") for m in mentions if m.get("country")})
     esc = html.escape
     type_options = "".join(f'<option value="{esc(t)}">{esc(t)}</option>' for t in types)
+    _asof = subj.get("signatory_count_asof", "")
+    sig_asof_html = f" · as of {esc(_asof)}" if _asof else ""
+    _note = data.get("last_scrape_note", "")
+    scrape_note_html = f" ({esc(_note)})" if _note else ""
     lang_options = "".join(f'<option value="{esc(l)}">{esc(l)}</option>' for l in langs)
     country_options = "".join(f'<option value="{esc(c)}">{esc(c)}</option>' for c in countries)
 
@@ -455,6 +462,8 @@ def render_landing(data, mentions):
   .leaflet-popup-content {{ font:13px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; margin:10px 12px; }}
   .leaflet-popup-content a {{ color:#1d4ed8; }}
   footer {{ max-width:1100px; margin:0 auto; padding:24px; color:var(--muted); font-size:.82rem; border-top:1px solid var(--line); }}
+  .scrape {{ margin-top:12px; padding:10px 12px; border-left:3px solid var(--accent); background:rgba(139,92,246,.10); border-radius:0 6px 6px 0; font-size:.9rem; }}
+  .scrape b {{ color:var(--ink); }}
   @media (max-width:720px) {{ .cols {{ grid-template-columns:1fr; }} h1{{font-size:1.9rem;}} }}
 </style>
 </head>
@@ -468,8 +477,9 @@ def render_landing(data, mentions):
     <div class="stat"><b>{len(types)}</b><span>channel types</span></div>
     <div class="stat"><b>{len(langs)}</b><span>languages</span></div>
     <div class="stat"><b>{len(countries)}</b><span>countries</span></div>
-    <div class="stat"><b>{esc(str(subj.get('signatory_count','')))}</b><span>signatories</span></div>
+    <div class="stat"><b>{esc(str(subj.get('signatory_count','')))}</b><span>signatories{sig_asof_html}</span></div>
     <div class="stat"><b>{esc(str(subj.get('published','')))}</b><span>published</span></div>
+    <div class="stat"><b>{esc(str(data.get('last_scrape','')))}</b><span>last scraped</span></div>
   </div>
   <p class="sub" style="margin-top:18px">
     Declaration: <a href="{esc(subj.get('url','https://leidendeclaration.ai'))}">{esc(subj.get('url','leidendeclaration.ai'))}</a>
@@ -481,6 +491,7 @@ def render_landing(data, mentions):
     <h2>About this tracker</h2>
     <p>A factual catalogue of public mentions of the {esc(subj.get('title',''))} across the internet — news outlets, institutions, blogs, newsletters, forums, social media, videos, podcasts and academic sources. Each entry was located via web search and checked to confirm it references this declaration. Use the search box and filters below, or the map, to explore.</p>
     <p style="color:var(--muted)">{len(mentions)} mentions · {len(types)} channel types · {len(langs)} languages · {len(countries)} countries. This list is a lower bound, not exhaustive.</p>
+    <p class="scrape"><b>Last scrape:</b> {esc(str(data.get('last_scrape','')))}{scrape_note_html} — the catalogue is refreshed periodically, so mentions published after that date are not yet included.</p>
   </div>
 
   <div id="mapwrap">
@@ -500,7 +511,7 @@ def render_landing(data, mentions):
   <div id="list"></div>
 </main>
 <footer>
-  Generated {esc(str(data.get('generated','')))} from <code>data/mentions.json</code>.
+  Last scrape {esc(str(data.get('last_scrape','')))} · page generated {esc(str(data.get('generated','')))} from <code>data/mentions.json</code>.
   Each mention was located via multi-source web search and adversarially verified.
   This tracker is an independent knowledge base about the declaration's reception.
 </footer>

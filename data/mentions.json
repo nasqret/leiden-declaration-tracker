@@ -7,7 +7,8 @@
     "origin": "Grew out of a September 2025 workshop at the Lorentz Center, Leiden University (60 participants from 10 countries).",
     "lead": "Jim Portegies (Eindhoven University of Technology / TU/e)",
     "endorsement": "International Mathematical Union (IMU)",
-    "signatory_count": "3,500+ (3,572 as of 18 August 2026)",
+    "signatory_count": "3,572",
+    "signatory_count_asof": "2026-08-18",
     "notable_signatories": [
       "Terence Tao",
       "Peter Scholze",
@@ -21,6 +22,8 @@
     "summary": "A June 2026 declaration warning that artificial intelligence threatens the core values of mathematics — proof, verification, attribution, peer review and human oversight — and calling on mathematicians, institutions, policymakers and tech companies to disclose AI use, protect authorship, preserve peer review and keep research independent of commercial pressure."
   },
   "generated": "2026-08-18",
+  "last_scrape": "2026-08-18",
+  "last_scrape_note": "Round 7 — post-ICM sweep (+34 mentions) plus the AMS Notices follow-up",
   "counts": {
     "total_unique": 305,
     "real": 305,
